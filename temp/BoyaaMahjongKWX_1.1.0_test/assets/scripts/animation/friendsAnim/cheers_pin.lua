@@ -1,0 +1,54 @@
+--don't resolve in qneditor
+cheers_pin_map = {
+	
+	["cheers_1.png"]={ 
+		file="friendsAnim/cheers_pin.png",
+		x=2,y=714,
+		width=196,height=176
+	},
+	["cheers_2.png"]={ 
+		file="friendsAnim/cheers_pin.png",
+		x=200,y=536,
+		width=196,height=176
+	},
+	["cheers_3.png"]={ 
+		file="friendsAnim/cheers_pin.png",
+		x=2,y=536,
+		width=196,height=176
+	},
+	["cheers_4.png"]={ 
+		file="friendsAnim/cheers_pin.png",
+		x=200,y=358,
+		width=196,height=176
+	},
+	["cheers_5.png"]={ 
+		file="friendsAnim/cheers_pin.png",
+		x=2,y=358,
+		width=196,height=176
+	},
+	["cheers_6.png"]={ 
+		file="friendsAnim/cheers_pin.png",
+		x=200,y=180,
+		width=196,height=176
+	},
+	["cheers_7.png"]={ 
+		file="friendsAnim/cheers_pin.png",
+		x=2,y=180,
+		width=196,height=176
+	},
+	["cheers_8.png"]={ 
+		file="friendsAnim/cheers_pin.png",
+		x=200,y=2,
+		width=196,height=176
+	},
+	["cheers_9.png"]={ 
+		file="friendsAnim/cheers_pin.png",
+		x=2,y=2,
+		width=196,height=176
+	},
+	["cup.png"]={ 
+		file="friendsAnim/cheers_pin.png",
+		x=398,y=2,
+		width=52,height=70
+	},
+}

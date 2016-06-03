@@ -1,0 +1,39 @@
+--don't resolve in qneditor
+throwEgg_pin_map = {
+	
+	["egg.png"]={ 
+		file="friendsAnim/throwEgg_pin.png",
+		x=694,y=2,
+		width=51,height=68
+	},
+	["eggEx_1.png"]={ 
+		file="friendsAnim/throwEgg_pin.png",
+		x=2,y=686,
+		width=344,height=226
+	},
+	["eggEx_2.png"]={ 
+		file="friendsAnim/throwEgg_pin.png",
+		x=2,y=458,
+		width=344,height=226
+	},
+	["eggEx_3.png"]={ 
+		file="friendsAnim/throwEgg_pin.png",
+		x=348,y=230,
+		width=344,height=226
+	},
+	["eggEx_4.png"]={ 
+		file="friendsAnim/throwEgg_pin.png",
+		x=2,y=230,
+		width=344,height=226
+	},
+	["eggEx_5.png"]={ 
+		file="friendsAnim/throwEgg_pin.png",
+		x=348,y=2,
+		width=344,height=226
+	},
+	["eggEx_6.png"]={ 
+		file="friendsAnim/throwEgg_pin.png",
+		x=2,y=2,
+		width=344,height=226
+	},
+}

@@ -1,0 +1,32 @@
+local rankZhanShenItemLayout=
+{
+	name="rankZhanShenItemLayout",type=0,typeName="View",time=0,x=0,y=0,width=1120,height=116,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignTopLeft,isLuaLocal=0,
+	{
+		name="view_bg",type=0,typeName="View",time=78390890,x=0,y=0,width=1120,height=116,visible=1,fillParentWidth=1,fillParentHeight=1,nodeAlign=kAlignTopLeft,
+		{
+			name="img_place",type=1,typeName="Image",time=78391014,x=15,y=0,width=54,height=54,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignLeft,file="kwx_rank/img_rankBg.png",
+			{
+				name="text_rank",type=4,typeName="Text",time=0,x=0,y=0,width=54,height=54,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,fontSize=26,textAlign=kAlignCenter,colorRed=255,colorGreen=255,colorBlue=255
+			}
+		},
+		{
+			name="text_nick",type=4,typeName="Text",time=78391248,x=240,y=0,width=210,height=30,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignLeft,fontSize=28,textAlign=kAlignLeft,colorRed=255,colorGreen=255,colorBlue=255
+		},
+		{
+			name="text_win",type=4,typeName="Text",time=78391332,x=10,y=0,width=200,height=30,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignRight,fontSize=28,textAlign=kAlignRight,colorRed=255,colorGreen=230,colorBlue=0
+		},
+		{
+			name="img_split",type=1,typeName="Image",time=78391481,x=0,y=0,width=1120,height=6,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignBottom,file="kwx_common/img_h_split.png",gridLeft=5,gridRight=5,gridTop=2,gridBottom=2
+		},
+		{
+			name="text_lv",type=4,typeName="Text",time=79667294,x=550,y=0,width=165,height=30,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignLeft,fontSize=28,textAlign=kAlignLeft,colorRed=255,colorGreen=240,colorBlue=34
+		},
+		{
+			name="text_myRank",type=4,typeName="Text",time=0,x=15,y=0,width=100,height=100,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignLeft,fontSize=28,textAlign=kAlignLeft,colorRed=255,colorGreen=255,colorBlue=255
+		},
+		{
+			name="view_head",type=0,typeName="View",time=0,x=120,y=0,width=100,height=100,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignLeft
+		}
+	}
+}
+return rankZhanShenItemLayout;

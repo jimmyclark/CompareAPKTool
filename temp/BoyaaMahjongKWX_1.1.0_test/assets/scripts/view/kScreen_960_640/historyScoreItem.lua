@@ -1,0 +1,19 @@
+historyScoreItem=
+{
+	name="historyScoreItem",type=0,typeName="View",time=0,x=0,y=0,width=1280,height=720,visible=1,fillParentWidth=1,fillParentHeight=1,nodeAlign=kAlignTopLeft,
+	{
+		name="view_history",type=0,typeName="View",time=0,x=0,y=0,width=593,height=42,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignTopLeft,
+		{
+			name="text_roundnum",type=4,typeName="Text",time=0,x=-242,y=0,width=60,height=24.3,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,fontSize=24,textAlign=kAlignCenter,colorRed=255,colorGreen=255,colorBlue=255,string=[[1]]
+		},
+		{
+			name="text_myscore",type=4,typeName="Text",time=0,x=-117,y=0,width=60,height=24.3,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,fontSize=24,textAlign=kAlignCenter,colorRed=255,colorGreen=255,colorBlue=255,string=[[1]]
+		},
+		{
+			name="text_scoreplay2",type=4,typeName="Text",time=0,x=21,y=0,width=60,height=24.3,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,fontSize=24,textAlign=kAlignCenter,colorRed=255,colorGreen=255,colorBlue=255,string=[[1]]
+		},
+		{
+			name="text_scoreplay4",type=4,typeName="Text",time=0,x=192,y=0,width=60,height=24.3,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,fontSize=24,textAlign=kAlignCenter,colorRed=255,colorGreen=255,colorBlue=255,string=[[1]]
+		}
+	}
+}

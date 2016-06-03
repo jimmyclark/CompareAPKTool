@@ -1,0 +1,6111 @@
+Manifest-Version: 1.0
+Built-By: 1.5.0
+Created-By: Android Gradle 1.5.0
+
+Name: assets/mmiap/03/horizontal/purchasedialog.xml
+SHA1-Digest: kFHnStOv6EAEVlcSAGwjv//brGE=
+
+Name: res/drawable-hdpi-v4/gc_center_recharge.png
+SHA1-Digest: pbqxtSr+a+KJXcw/28FxjYV5aEM=
+
+Name: assets/audio/ogg/common/woman_card_28_1.ogg
+SHA1-Digest: 3TX7efSw7TPMnLJq/Grpn0PDotk=
+
+Name: res/drawable-hdpi-v4/umeng_update_btn_check_off_focused_holo_lig
+ ht.png
+SHA1-Digest: q2aDAtDEQelrCYZBDuVXGd/tmCY=
+
+Name: res/drawable-hdpi-v4/hfb_succ.png
+SHA1-Digest: kUr8oMSh+9eM9lRtVGxLRnrnbCA=
+
+Name: assets/images/common/female.png
+SHA1-Digest: 0pqylWUQI0pRvAarL4fhVw7vecU=
+
+Name: assets/scripts/manager/windowManager.lua
+SHA1-Digest: vUSe3Pe6Qbt7acr8GerqQqadwKU=
+
+Name: assets/scripts/particle/particleMoney.lua
+SHA1-Digest: R7qRvqPGaifVfMnY4s4wBVRIVzE=
+
+Name: assets/images/kwx_room/room_left.png
+SHA1-Digest: SI7q8BcOhB0lGaVoMabjkT5ECFU=
+
+Name: assets/audio/ogg/kwxmj/woman_gang2.ogg
+SHA1-Digest: KlchdUtemTnFkkp35bbIFs6oIRg=
+
+Name: assets/images/kwx_room/btn_history.png
+SHA1-Digest: 3VdiE71GEfurCQsvpPe+4j3FBbQ=
+
+Name: assets/images/kwx_lobby/img_red.png
+SHA1-Digest: bDAWoChFw7DytZkpnka8gqASaN4=
+
+Name: assets/unicom_account/accountsdk_2_float_bg.9.png
+SHA1-Digest: z+k3gywwjAtl3mf3gwymmL5UkTM=
+
+Name: assets/audio/ogg/common/man_card_21_1.ogg
+SHA1-Digest: jtLDBNxOQTQPWmtf04lFlU2Mt0I=
+
+Name: assets/mmiap/02/vertical/purchasedialog.xml
+SHA1-Digest: QwT5adwtQTKe3l4Q7YUsHwalIFE=
+
+Name: assets/audio/ogg/kwxmj/woman_card_21_2.ogg
+SHA1-Digest: VfOAEgLmbp3EChEIanjNTyHa9Ks=
+
+Name: assets/mmiap/03/button1_confirm_press.9.png
+SHA1-Digest: UzrvQws9fuS5mdrnlq5z3WKXU9c=
+
+Name: assets/scripts/animation/upgradecoinshow.lua
+SHA1-Digest: +KaAcRuKxarYDbHKXohSZLxSCc0=
+
+Name: assets/scripts/view/kScreen_960_640/antiAddictionLayout.lua
+SHA1-Digest: aW1EaXl01rqi5HfWFSWCJtpI5ik=
+
+Name: assets/audio/ogg/kwxmj/man_gang2.ogg
+SHA1-Digest: Q+3H3pCNdRwdA8YQPGb+XxAUxgA=
+
+Name: assets/images/kwx_anim/levelUp/levelUp6.png
+SHA1-Digest: RYcHSz+PrcVNWfJzNtltCUolVA4=
+
+Name: assets/images/kwx_lobby/number2/9.png
+SHA1-Digest: qwLePZGxtJmvN+t2gpwljAy54bg=
+
+Name: res/drawable-hdpi-v4/gc_start_game.png
+SHA1-Digest: NebYB1eRBwZvFGjaVPKhWJ7Y+u0=
+
+Name: assets/images/kwx_room/moneyNum/lose4.png
+SHA1-Digest: qglzaJLxrguSvXbv465LZBZci1Q=
+
+Name: assets/scripts/popu/lobby/settingPopu.lua
+SHA1-Digest: jseTsnCBnZbMcS64sT0AcbHojEE=
+
+Name: assets/scripts/libEffect/shaders/mirror.lua
+SHA1-Digest: fAPCOl0LRajS4X27zIDdrFzT3AM=
+
+Name: assets/images/kwx_room/gamebox/btn_box_gold_1.png
+SHA1-Digest: 3cRypofT6n1hlQbj5VdnzKIgjVY=
+
+Name: assets/images/kwx_lobby/btn_firstCharger.png
+SHA1-Digest: OSoytysnz4+tRjju5yDZaFEA5LE=
+
+Name: assets/scripts/room/hbmj/hbmjRoomState.lua
+SHA1-Digest: 5ax4Lq1yAqPfS7fcJbrWKdck2yk=
+
+Name: res/anim/hfb_loading_animation.xml
+SHA1-Digest: pps26O/R82FGUgEnBwaYlJe3hoc=
+
+Name: assets/unicom_account/accountsdk_2_webdialog_pop_close.png
+SHA1-Digest: m9UrsGuXVdtL0+gYzCTy3EceVq0=
+
+Name: assets/mmiap/02/horizontal/failresultdialog.xml
+SHA1-Digest: ayDu7F6FoVTxTv4QvzAxw9WdUo8=
+
+Name: assets/audio/ogg/kwxmj/man_card_14_1.ogg
+SHA1-Digest: xuYVIIPTuUtRpJjo3bsck2wI3+0=
+
+Name: assets/images/common/incase.png
+SHA1-Digest: AAaBBFIx53Lttpz7fDvuOgkI9EI=
+
+Name: assets/images/kwx_anim/lobbyBottom/buttom12.png
+SHA1-Digest: tk2c8DZq9+WZ9ss+LeXD4pei5no=
+
+Name: assets/audio/ogg/kwxmj/man_card_11_1.ogg
+SHA1-Digest: c8xu3oYfBFUu7HO/MzcLTUpbv6Q=
+
+Name: assets/images/kwx_tanKuang/roomUserinfo/btn_sendProp.png
+SHA1-Digest: DqrR6s35FS0TwVENXuc/kxj4BcU=
+
+Name: assets/images/kwx_erJiCommon/img_split.png
+SHA1-Digest: w9cnzyhgtRJqWqPQ7lIcLo1EY9Q=
+
+Name: res/drawable/umeng_update_button_check_selector.xml
+SHA1-Digest: pJt4eHRFBQR4EpFFdSd+PkQxeow=
+
+Name: assets/images/kwx_room/accounts/negative/f.png
+SHA1-Digest: 2U32jOeep0yEE3JZLxDzq3YFksk=
+
+Name: assets/scripts/animation/animFace.lua
+SHA1-Digest: KTKoEgY+yUO85IvAAka8fmoR1Ys=
+
+Name: assets/unicom_account/accountsdk_2_icon_fail.png
+SHA1-Digest: fF1GKaBYOxTke6o8u250Pid1t3s=
+
+Name: assets/images/kwx_lobby/number/6.png
+SHA1-Digest: xp/6QIxTVsYE/wRtKRuuTMkBqW8=
+
+Name: assets/scripts/atomAnim/anim/atomAnimBase.lua
+SHA1-Digest: eY1Es7Kk2omKynO7a831Q9WfVT4=
+
+Name: assets/scripts/core/ex/drawingEx.lua
+SHA1-Digest: ZyQ68bE7UJkmVkQX+Cg+f/NSjsI=
+
+Name: res/drawable-mdpi-v4/hfb_application.png
+SHA1-Digest: fFU5+g6KiFHUHsIjlSOF/Ap/a5M=
+
+Name: assets/scripts/view/kScreen_960_640/chatLayout.lua
+SHA1-Digest: BCqNYXqHCyePYJuiR9dlc/axlj0=
+
+Name: assets/images/kwx_tanKuang/selectPay/img_weixin.png
+SHA1-Digest: wTPj//+DUJO1dPJDrEpcUIuyh/A=
+
+Name: assets/mmiap/03/btn_blue01.png
+SHA1-Digest: HFXT9a16RoBT7Ma/95aphl7tOEs=
+
+Name: assets/scripts/view/kScreen_960_640/roomPlyerInfo.lua
+SHA1-Digest: yLbCQcqaGp+pCfjhK/BBpauzKjs=
+
+Name: res/drawable-hdpi-v4/loding0002.png
+SHA1-Digest: wPd/E3tw7WY0bGPgZ0TG336SCgI=
+
+Name: assets/unicom_account/accountsdk_2_btn_back.png
+SHA1-Digest: IQWbIrD1AQR7giFtSCO5/fGk2k4=
+
+Name: assets/images/kwx_room/room_right.png
+SHA1-Digest: tW4oREQI2PkYbRrKe1fHYFL9aZk=
+
+Name: assets/images/kwx_room/accounts/positive/5.png
+SHA1-Digest: EvWQU5EFFTj2NZ7l0i2iBIrTtV0=
+
+Name: res/drawable-hdpi-v4/hfb_nlogo.png
+SHA1-Digest: mlJjbsn31LzOY6rNklMw+XqnjnA=
+
+Name: assets/images/kwx_room/game_start.png
+SHA1-Digest: UNyi0MJLmSOgGPTDsyS04S3V9QE=
+
+Name: res/layout-v9/umeng_common_download_notification.xml
+SHA1-Digest: Tu/sC6l38NqSYb1ZGYhoTgFNTb0=
+
+Name: assets/audio/ogg/common/man_zimo0.ogg
+SHA1-Digest: SWT0ey12dTkiDwSjGp6PFEojedY=
+
+Name: assets/images/kwx_room/room_gameOver/img_light.png
+SHA1-Digest: Z+5rBHYUSw12/5WqtyawpbsV8Bk=
+
+Name: assets/images/kwx_goodsInfo/img_goodsStrN.png
+SHA1-Digest: KTs/sANPJCUlFQyCVY/drt4n/T8=
+
+Name: assets/scripts/atomAnim/animEx.lua
+SHA1-Digest: 9impbQiS7ulKGI2+Hc/NAnZ623s=
+
+Name: res/drawable/umeng_update_wifi_disable.png
+SHA1-Digest: MmTQY+MqoQgCEWcilu7Ov1YdcDw=
+
+Name: assets/images/kw_tiaoKuang/img_yonghu.png
+SHA1-Digest: NP+1cP1/C0gvvYJSP8ONXTYPVkk=
+
+Name: assets/images/ui/spinner_bg_img.png
+SHA1-Digest: Jx2TyH9Ww+WekTTcuaan+8SiZE8=
+
+Name: assets/scripts/gameBaseex/gameLayerex.lua
+SHA1-Digest: IfWVV9oJ2MVeV4rpnZR0DXXGSrk=
+
+Name: assets/audio/ogg/common/woman_card_33_1.ogg
+SHA1-Digest: 69jmyvR7cAweKlRsoyrgVIRCmxE=
+
+Name: assets/images/kwx_room/moneyNum/win4.png
+SHA1-Digest: ap8qCxucDDAcbppewWTVKbtFifU=
+
+Name: assets/images/kwx_lobby/img_GJC.png
+SHA1-Digest: nYDle8FDDok+jt+7ITQAJtu004M=
+
+Name: assets/scripts/view/kScreen_960_640/userRuleLayout.lua
+SHA1-Digest: Lz5m1Qihn7ldO+2wHOKBh8csKHA=
+
+Name: assets/mmiap/image/vertical/infobg.9.png
+SHA1-Digest: FwQrOBt3bKF94Eg5Gg6rZYZNbkA=
+
+Name: assets/mmiap/image/vertical/splash_v.jpg
+SHA1-Digest: 02cQvd2MpTV0uhNn/W552E+BybA=
+
+Name: assets/scripts/animation/friendsAnim/throwEgg_pin.lua
+SHA1-Digest: dxK0mFkCK04FCLoSMkTU0qulqKY=
+
+Name: assets/scripts/popu/lobby/userRulePopu.lua
+SHA1-Digest: xo94wt7l0cWQrF/BAOCYL+Yicp8=
+
+Name: assets/scripts/common/uiEx.lua
+SHA1-Digest: vanDRAKFyBLodKTvm0mkMsy8PAo=
+
+Name: assets/images/kwx_tanKuang/gameBox/number/1.png
+SHA1-Digest: 8iMeASc53QijGWlWd6QHgYfZDMc=
+
+Name: res/drawable-hdpi-v4/close_btn.png
+SHA1-Digest: bQksFQKn5wkkazPqUMC0S2/Hb7k=
+
+Name: assets/scripts/data/orgialPicData.lua
+SHA1-Digest: k4dTgQsAg5eKPsj1xIEtkWtatbU=
+
+Name: assets/images/kwx_room/room_timer/img_timer5.png
+SHA1-Digest: MawaaYjEu4QwsWCMJIo6WVkHCVs=
+
+Name: assets/images/kwx_shop/img_record.png
+SHA1-Digest: U4EF4XPXF076rp5GonSXjgxSITQ=
+
+Name: assets/images/kwx_shop/img_recordNormal.png
+SHA1-Digest: QVzhf5IQAlpunE3UlV0v/1l6/LM=
+
+Name: assets/images/kwx_rank/img_title3.png
+SHA1-Digest: L7tpfrHd+3vS7svKGiXYDG7FUhU=
+
+Name: assets/unicom_account/accountsdk_webview_bk1.png
+SHA1-Digest: C/3silSq930Yon5WDFI2UifcNLM=
+
+Name: assets/scripts/ui/slider.lua
+SHA1-Digest: eJGIRmQCPNiE0H1KDg8UDUkke9k=
+
+Name: assets/scripts/view/kScreen_960_640/chatContentItem.lua
+SHA1-Digest: uaPfrL84F2Krjl1QBschYbPjyRk=
+
+Name: res/drawable-hdpi-v4/gc_common_problem_search.png
+SHA1-Digest: lwIPKgxcVOsudWDnHJ7yxEHxBJQ=
+
+Name: assets/audio/ogg/kwxmj/man_peng0.ogg
+SHA1-Digest: QWH0PVInySMO0AJJBKbPRBhPEfc=
+
+Name: assets/images/kwx_shop/img_buttom.png
+SHA1-Digest: GKZnyWCuqFjwd7W0eN7G4Kh5QI0=
+
+Name: assets/images/kwx_room/room_player/man_4.png
+SHA1-Digest: 4SGYyLJqQ3iryU36slk/c3vNrW8=
+
+Name: assets/images/common/window_common.png
+SHA1-Digest: nVE7v3I1DEBSgLgT/A9Jx+77mSU=
+
+Name: assets/scripts/libs/xmlSimple.lua
+SHA1-Digest: yduPxqKeOk2VCaOI94mYmnL4oiw=
+
+Name: assets/audio/ogg/audio_exp_1011_3.ogg
+SHA1-Digest: hcw+8FxQOwEsLcp2GOyhrhetWsY=
+
+Name: assets/scripts/data/rule.lua
+SHA1-Digest: CrYNltucsPOZ2eo2gLklqyEzi3E=
+
+Name: assets/images/kwx_room/roomTable.png
+SHA1-Digest: 1EnjUDmEyK1YyG3cbTuhqg5WJrk=
+
+Name: assets/unicom_account/accountsdk_2_icon_pay.png
+SHA1-Digest: ndagHK+hQbpzypBIG3xWf+45OPo=
+
+Name: assets/scripts/core/init.lua
+SHA1-Digest: 0P+iCDvh6Ul4uEYPMb4r0y+ePvA=
+
+Name: assets/unicom_account/accountsdk_2_icon_vip_disable.png
+SHA1-Digest: iNLC+2U9Tqd9vTcMeP7/Eo0SD7M=
+
+Name: assets/images/kwx_lobby/btn_task.png
+SHA1-Digest: Y82wB9f91YL6UP1yyLK8nPQd9J4=
+
+Name: assets/mmiap/01/money_rmb.png
+SHA1-Digest: YNnIHSdWA9K7qbj38b2LHq3U8ns=
+
+Name: assets/images/kwx_room/userAI.png
+SHA1-Digest: 9KulakzE+w63MTkRjbgX5F3+q70=
+
+Name: res/drawable-hdpi-v4/gc_share_qq.png
+SHA1-Digest: 7E4D8jreFqumboNhHdPLKZgklu0=
+
+Name: assets/images/animation/resultless/resultless1.png
+SHA1-Digest: 7muP57cCu6FaI6UP4KgE9VCmlWk=
+
+Name: res/layout/boyaa_toast.xml
+SHA1-Digest: 7FZzTKLCoQvJbymgm9OQyunwG3Y=
+
+Name: assets/audio/ogg/kwxmj/man_chat_04.ogg
+SHA1-Digest: RKTcJTHNuqeYbmKAoej/GLaPoEQ=
+
+Name: res/drawable-hdpi-v4/gc_share_weixin_timeline.png
+SHA1-Digest: w+nDE0C8Yx9PyCnr/dfEx9Zmm+g=
+
+Name: assets/images/cards_pin3.png
+SHA1-Digest: jcWXCA/6ucEyeGV+/rfrxPKb/Sg=
+
+Name: assets/images/animation/shaizi/3-4.png
+SHA1-Digest: d+B4brNXfx0+pJJb8eDWknpIGik=
+
+Name: assets/scripts/popu/lobby/billingPopu.lua
+SHA1-Digest: +mCINDPNH9ntrFsyv7qaUyYIDuI=
+
+Name: assets/images/kwx_tanKuang/gameBox/img_coin.png
+SHA1-Digest: frDkIuaDX9yIoUdD2942Pl8WaU4=
+
+Name: assets/mmiap/image/vertical/button_back_Press.png
+SHA1-Digest: +nggjMaRqQpLGwgEGOo7R7DToGs=
+
+Name: assets/mmiap/02/vertical/savingdialog.xml
+SHA1-Digest: HHygwitGJqw2SzsKuWE/elyBh98=
+
+Name: assets/audio/ogg/common/woman_gang0.ogg
+SHA1-Digest: a7MWdnBngmPY7EUcYFpmgg/P8+k=
+
+Name: assets/scripts/animation/alarmNotice.lua
+SHA1-Digest: GsYeiUtIu0vpJqOfIkDTb63hYe4=
+
+Name: assets/images/kwx_room/accounts/negative/6.png
+SHA1-Digest: hbMXcBsKmScEHA3T9tChsXMVnC0=
+
+Name: assets/scripts/data/rank.lua
+SHA1-Digest: 4F5ZC11O4SIYo1zGwCwKv0o5NRg=
+
+Name: assets/scripts/data/shopData.lua
+SHA1-Digest: VcMaI1wYI91kGvkbGwn0UwAT+xw=
+
+Name: assets/scripts/room/gbmj/entity/myGbUserPanel.lua
+SHA1-Digest: GppGOqh9yjqVM9y/0oFCA1rJyM4=
+
+Name: assets/scripts/view/kScreen_960_640/exchangeRecordItem.lua
+SHA1-Digest: 5UaTNGvQ5LOFBJSkVYZrFqMjoA0=
+
+Name: res/drawable-hdpi-v4/gc_drag_hide.png
+SHA1-Digest: ZCTP+oMEbpRZoXg3ShBEvZP2CPI=
+
+Name: assets/audio/ogg/common/man_piao.ogg
+SHA1-Digest: JGDiFV6qw4Uwh3uqgWtltqDNx6g=
+
+Name: assets/images/kwx_room/accounts/img_headK4.png
+SHA1-Digest: Yqi8jGkyp6sjkbvjKgEprhoLOOI=
+
+Name: assets/scripts/animation/friendsAnim/animationCheers.lua
+SHA1-Digest: Km5+Cggil9hE8hk4IdD6UYtd2fA=
+
+Name: assets/scripts/ui/images.lua
+SHA1-Digest: P2VumQ73aSIgNcHpI0ocld0x3tE=
+
+Name: res/drawable-hdpi-v4/topbg.png
+SHA1-Digest: igWDPPVVe1zvTGkuhkRcUgZ6ugU=
+
+Name: assets/images/kwx_lobby/img_paoMaDeng.png
+SHA1-Digest: 0bCSCvskHE/OhykUdcLM7oMxswo=
+
+Name: assets/scripts/popu/lobby/messagePopu.lua
+SHA1-Digest: 4y+hUuu3ifi/XZVoN6m5kMqP6vo=
+
+Name: assets/mmiap/02/horizontal/progressdialog.xml
+SHA1-Digest: tFcw5eKgDCCFlsUNX81+VyB2UyQ=
+
+Name: assets/scripts/atomAnimTable/coinflash6.lua
+SHA1-Digest: 7maOSCdXOw3LkLEZLJAqUP8MFaA=
+
+Name: assets/images/kwx_rank/img_zhanshenNormal.png
+SHA1-Digest: SBKVlkauua4LNWLvTveb2FOC/n8=
+
+Name: assets/scripts/pay/branch_pay/anZhiPay.lua
+SHA1-Digest: JiukOq6Q0TVfNQTfY5wePOsVet8=
+
+Name: assets/scripts/room/entity/gameData.lua
+SHA1-Digest: weVylp8J0U3gYHA+OaZFqvb61g8=
+
+Name: assets/images/kwx_lobby/img_billClicked.png
+SHA1-Digest: SZJ7VKMVi7lvw91byfGyc4lQH3Y=
+
+Name: res/drawable-hdpi-v4/hfb_loading.png
+SHA1-Digest: VlEZCCywxZZz2KVqGK1KSPocQ/0=
+
+Name: assets/images/kwx_lobby/img_yingHuafei.png
+SHA1-Digest: HtiGpG/z/S9sSOIZlP6y7k9B3jQ=
+
+Name: assets/images/ui/toast_bg.png
+SHA1-Digest: JiplxnjbfvSI+LUM5m22Z7EDXkE=
+
+Name: assets/scripts/mjSocket/base/socketMgr.lua
+SHA1-Digest: UUshD0qY6JNoiw0AJ/q/U4ViA08=
+
+Name: res/drawable-hdpi-v4/yellow_big.png
+SHA1-Digest: 6Hl/JHPJ0LWvRpIozhWZxTfTTqc=
+
+Name: assets/audio/ogg/common/woman_gang_AG.ogg
+SHA1-Digest: CMdEFnsmCqZRW8c3sQ/oYWO9rVc=
+
+Name: assets/images/kwx_tanKuang/login/img_phone.png
+SHA1-Digest: kZfSoOZ9fpSpOuM50F93KfeLRMU=
+
+Name: assets/audio/ogg/audio_warn.ogg
+SHA1-Digest: 9AlUIldfHlQTmTnOwjaqulA9Gc0=
+
+Name: assets/images/kwx_room/room_gameOver/detail/img_diBg.png
+SHA1-Digest: tsc88ZPPskfsd43jJM1VEGuiLhY=
+
+Name: assets/images/animation/alarmNoticeBg.png
+SHA1-Digest: GLoPPK6xxG09MwpirFeckR6P/NI=
+
+Name: assets/images/kwx_room/btn_head.png
+SHA1-Digest: lnbwP+UcIciD0TfTuxpyEdeTsfE=
+
+Name: assets/images/kwx_lobby/img_3.png
+SHA1-Digest: oti6XawKYoNEhOsUE99SaGXD+Z0=
+
+Name: assets/audio/ogg/common/man_chat_03.ogg
+SHA1-Digest: H7FsvqSwTUWoVu0saHl8HcJVwPo=
+
+Name: assets/scripts/ui/switch.lua
+SHA1-Digest: pjMFg2ejZv79kLUeUDHrL2Zv/Lk=
+
+Name: assets/audio/ogg/audio_enter.ogg
+SHA1-Digest: NZf5Lrgc0516YHrDFtl8i9vvnMo=
+
+Name: assets/mmiap/03/vertical/savingdialog.xml
+SHA1-Digest: tsdAo+YmExG9Nl+LbPHzJsMqnn4=
+
+Name: assets/scripts/room/gdmj/entity/gdCardPanel.lua
+SHA1-Digest: FP87Ij/KbynYBAJQFIFS7qqGfHk=
+
+Name: res/layout/activities.xml
+SHA1-Digest: fTT5NrcXcZK7sMp9z6BkoiXwuD8=
+
+Name: assets/images/pin_map/left_pin.png
+SHA1-Digest: NN3tnrY2gduDetoayRSwKOx/azo=
+
+Name: assets/mmiap/01/vertical/sucresultdialog.xml
+SHA1-Digest: M9u/2tcTfDV1CKBnqJ0NoflI6mw=
+
+Name: res/anim/slide_in_from_bottom.xml
+SHA1-Digest: 07UWP09ivKAqw+AoJ7kMnhC2KRM=
+
+Name: lib/armeabi/liblua.so
+SHA1-Digest: 81oeOQ7/uZEBmi47K8kmfE3Z3hA=
+
+Name: res/drawable-hdpi-v4/gc_icon.png
+SHA1-Digest: O4NaCK/egW8plE+8Fc0c2omuu2s=
+
+Name: assets/images/kwx_tanKuang/selectPay/img_zhifubao.png
+SHA1-Digest: Ah4KImLzMyXvBSj9ZjR3A0cm+v4=
+
+Name: assets/images/kwx_tanKuang/update/img_processdi.png
+SHA1-Digest: 8xv2VSnE25vI+r2c7iaZ+7a5Wo4=
+
+Name: assets/images/kwx_common/btn_red_big.png
+SHA1-Digest: it7t4lXwPvm1w8faKc8N0bT8HIw=
+
+Name: assets/audio/ogg/kwxmj/woman_chat_01.ogg
+SHA1-Digest: bi9lDaEZuw0AcLXYplPs5eo519o=
+
+Name: res/anim/loading_gril_translate.xml
+SHA1-Digest: C8FMEoYUR0NhPXXccQpGoZRYhWM=
+
+Name: assets/images/kwx_room/accounts/negative/fen.png
+SHA1-Digest: C2voM6F/GG3remAjYd8EVtRW/Sk=
+
+Name: assets/scripts/platform/platformConfig.lua
+SHA1-Digest: E/zAqomvFUqWKFciZo7zkMFOqoo=
+
+Name: assets/images/kwx_lobby/img_2.png
+SHA1-Digest: yIFuBFOclR0D+sLE9eAr8SCsuC0=
+
+Name: assets/scripts/view/kScreen_960_640/goodsInfoItem.lua
+SHA1-Digest: IHdmTQJdKNTEIAjZS/mfDz3K7KU=
+
+Name: assets/unicom_account/accountsdk_2_float_btn_activity_pressed.pn
+ g
+SHA1-Digest: 7XRTzRdGMdKuhhtYkOMjKGnVHdk=
+
+Name: assets/unicom_account/accountsdk_2_btn_delete.png
+SHA1-Digest: ekoNcYkU3428Yi++2WYDTNELXps=
+
+Name: assets/audio/ogg/common/woman_zimo0.ogg
+SHA1-Digest: SuQDvbmO27Rxup9ECYuf1HR9OIo=
+
+Name: res/drawable-hdpi-v4/hfb_btn_pressed.9.png
+SHA1-Digest: NgyTRvaa+SAoZedVmnNkngvn3bQ=
+
+Name: assets/images/kwx_tanKuang/gameBox/img_prop_s.png
+SHA1-Digest: TOEebQoyuDhHJeOv2BThOXferN0=
+
+Name: assets/scripts/loadState.lua
+SHA1-Digest: aJmDVeY2puv/EL3ktJESK8atOLU=
+
+Name: assets/audio/ogg/common/man_card_28_1.ogg
+SHA1-Digest: /9a1NEKOhMD/nLjsJzDLuqHCW8g=
+
+Name: assets/scripts/animation/friendsAnim/sendKiss_pin.lua
+SHA1-Digest: mS4nEjuHbNsnnDUNXCrx8iAoBpc=
+
+Name: assets/unicom_account/accountsdk_2_icon_paytype_5.png
+SHA1-Digest: NtKXpXMn1U6UN/XdVkPKKU21RXM=
+
+Name: res/drawable-hdpi-v4/gc_recommend_hall.png
+SHA1-Digest: rDewc1tzymFcsMjC7YXdPOTduIU=
+
+Name: assets/scripts/view/kScreen_960_640/gainCoinLayout.lua
+SHA1-Digest: kM+cV0q57G/PgkUW8Sa792gdgsY=
+
+Name: assets/scripts/animation/friendsAnim/throwSoap_pin.lua
+SHA1-Digest: UbaV+A+OxfSY2wcE1IZqdP4nbIE=
+
+Name: assets/images/kwx_lobby/di/9.png
+SHA1-Digest: QEzJWJgIgB8hL1ZkzTvm7CSgfLY=
+
+Name: assets/audio/ogg/audio_po_chan.ogg
+SHA1-Digest: Jpo/F9Xucyz4VGiE00vb6c+n4XA=
+
+Name: assets/images/animation/lose/wind0037.png
+SHA1-Digest: L2ALgJdR9/uthcQH1RQGsH1JI1U=
+
+Name: assets/audio/ogg/kwxmj/man_card_31_1.ogg
+SHA1-Digest: 3N2QfI7NsWnz3oSTiTewlUIeycI=
+
+Name: assets/scripts/popu/public/chatPopu.lua
+SHA1-Digest: 0cV6SWUeI6dkjVg+KzQ7L5KRn/s=
+
+Name: res/drawable-hdpi-v4/umeng_update_close_bg_normal.png
+SHA1-Digest: LFbebwhRh7rVFnxWFPCtRvX5Qmg=
+
+Name: assets/audio/ogg/common/woman_piao.ogg
+SHA1-Digest: jonXCtB84b7egJlB8XpwFlhlasg=
+
+Name: assets/images/animation/roomAnim/commonMojiBg.png
+SHA1-Digest: BHDVXw6Efw3PxRifTkg1jHADdsU=
+
+Name: assets/audio/ogg/audio_exp_1009_3.ogg
+SHA1-Digest: NEDSdkZG2FuJdvUnmgaQz8QsiK0=
+
+Name: res/drawable-hdpi-v4/hpay_ok.9.png
+SHA1-Digest: doU10cfqaafCnazxUUZ8hAZ8T2M=
+
+Name: assets/scripts/atomAnim/anim/atomAnimRotate.lua
+SHA1-Digest: wtqDjHJOrGFxPg0EI3Dbh8KbBDk=
+
+Name: assets/unicom_account/accountsdk_2_pointbar.png
+SHA1-Digest: TmL6WPHd6m5ls/NMNOwgwAPUxVs=
+
+Name: assets/images/kwx_room/accounts/positive/9.png
+SHA1-Digest: KvK3wlXDFplfCxN50Fsd5pFI5Y4=
+
+Name: assets/scripts/ui/tabView.lua
+SHA1-Digest: HJRRMrUhM/yrkANa61t5da+0I84=
+
+Name: assets/images/kwx_help/img_qestion.png
+SHA1-Digest: RMjBKVPhQow8+rdu8qQL/ul5H3k=
+
+Name: assets/images/kwx_help/btn_feedbackPic.png
+SHA1-Digest: KJvtJspNcDGJ/HjWxeUjQu//k2Y=
+
+Name: assets/scripts/core/httpRequest.lua
+SHA1-Digest: aXiD18EimycKgODTwJz9zN2Lxn4=
+
+Name: res/drawable-hdpi-v4/gc_step_focused.png
+SHA1-Digest: YoE5N/l9IdIli856zxpI0uNX+5k=
+
+Name: assets/images/kwx_room/room_gameOver/detail/img_ping.png
+SHA1-Digest: 15AyIVyoCIMJYW5MYL0bE2SZD8U=
+
+Name: res/drawable-hdpi-v4/qzone_share.png
+SHA1-Digest: jW9t/Xk6jDRCC8zAY7TBriOKJac=
+
+Name: assets/images/kwx_help/img_qestionClicked.png
+SHA1-Digest: 3iY2noxhg6650KXnvjQ/YN9nB90=
+
+Name: assets/scripts/atomAnimTable/coinflash2.lua
+SHA1-Digest: 0xS/pGEip4nSUmpnnyFLeCA40Vo=
+
+Name: assets/images/animation/shaizi/5-1.png
+SHA1-Digest: 0U1QoWtddJnhFMymn8Gj0o940k0=
+
+Name: assets/mmiap/03/icon_false.png
+SHA1-Digest: fDEolNO1n1Fw+DKhkGolEMT6BOE=
+
+Name: assets/images/kwx_room/accounts/positive/fen.png
+SHA1-Digest: eW/OxF4tvmdCaBQmFBlKahM5AHk=
+
+Name: assets/scripts/atomAnim/anim/atomAnimJump.lua
+SHA1-Digest: vegT0kyxNRbJi11ok/mR6mnLQQ8=
+
+Name: res/drawable-hdpi-v4/hfb_btn_normal.9.png
+SHA1-Digest: 3UC218Xpz/bPQQBGetItdEnshAw=
+
+Name: assets/audio/ogg/audio_exp_1007_1.ogg
+SHA1-Digest: R3BuyImROmIiPpckMr+td7IleQc=
+
+Name: assets/audio/ogg/kwxmj/man_card_21_2.ogg
+SHA1-Digest: vgqay4TeLGEdo2CGa7MszPSu39w=
+
+Name: assets/images/animation/shaizi/3-1.png
+SHA1-Digest: upmdTD2u7Gq+oVDZ5Z68Pvq/jHU=
+
+Name: assets/scripts/view/kScreen_960_640/LobbyLayout1.lua
+SHA1-Digest: NaO2rg9Wec8tVUSxB2cgt/84j5A=
+
+Name: assets/scripts/platform/branch/basePlatform.lua
+SHA1-Digest: KZUeKvMwb4zrwviZc8ZhFOMCSLQ=
+
+Name: res/layout/hfb_success_3.xml
+SHA1-Digest: RhWINEz7vmODKqM/so6/bkSNV4w=
+
+Name: assets/unicom_account/accountsdk_2_wostore_logo.png
+SHA1-Digest: 4O6bHg+u1Sck4Itn42hhSmpFPbA=
+
+Name: res/drawable-hdpi-v4/gc_recommend_flow_two.png
+SHA1-Digest: dEN3aaCX8GibCOej+32OJcda8Vc=
+
+Name: assets/audio/ogg/kwxmj/man_card_32_1.ogg
+SHA1-Digest: Wjks8S18IcVWwNlupSI6fRGlH5Q=
+
+Name: assets/scripts/view/kScreen_960_640/friendItem.lua
+SHA1-Digest: dLql/IXYiE2/+5QxlqglyUvF18A=
+
+Name: res/layout-v11/bottom_web.xml
+SHA1-Digest: TDV9MB/6bGme4scvatKgeEYkxVQ=
+
+Name: assets/images/kwx_lobby/di/8.png
+SHA1-Digest: mKXlLTDsmHJtcLrTvTMqqdtLawA=
+
+Name: assets/audio/ogg/kwxmj/man_bugang0.ogg
+SHA1-Digest: mmI35SLU+wlN3XpM+TkMGWNXRX0=
+
+Name: res/drawable-hdpi-v4/top_bg.png
+SHA1-Digest: JRDVvx5BGlINbBvBc8Lvv5BxELw=
+
+Name: assets/images/kwx_lobby/number/d.png
+SHA1-Digest: Top2JAGK/oxyHslUgIZiKREv264=
+
+Name: assets/scripts/libs/json_wrap.lua
+SHA1-Digest: j1oI6m+cvJcdSy57dtq1b48zMD4=
+
+Name: res/drawable-hdpi-v4/yanwu0003.png
+SHA1-Digest: 1iYZU0ta2RN5pAhnqb3Bx5apaOM=
+
+Name: assets/images/kwx_anim/lobbyQuick/img_quick12.png
+SHA1-Digest: NAceyakJv3WZwLk9CT9U2xbivNw=
+
+Name: assets/images/kwx_anim/lobbyQuick/img_quick4.png
+SHA1-Digest: 1dhpQG0CECck9OWInjU3tqf5YEw=
+
+Name: assets/inc_btn_emphasize_pressed.png
+SHA1-Digest: eT4oY0cJHQJaZjEQ7YvA7d7P1TU=
+
+Name: res/anim/push_bottom_out.xml
+SHA1-Digest: j+38HDAJ20YZFlMbODagHiKslyQ=
+
+Name: assets/scripts/data/guideConfig.lua
+SHA1-Digest: yc+u/1HWW5abxTBD+USEkugJgmo=
+
+Name: assets/unicom_account/accountsdk_2_icon_paytype_1.jpg
+SHA1-Digest: TlcIu8p894GjB/T+/elz3e8lAyc=
+
+Name: assets/mmiap/03/vertical/failresultdialog.xml
+SHA1-Digest: A9wkd0ClL7VeSedyL5sYlbQnJ0s=
+
+Name: assets/images/kwx_tanKuang/gameBox/img_text.png
+SHA1-Digest: y/Npd8BxbmZ7VKCHi+CyaYBcdhc=
+
+Name: assets/mmiap/02/vertical/failresultdialog.xml
+SHA1-Digest: 5OeJjNpYLGZH2HRdnhucbUhrYYo=
+
+Name: assets/audio/ogg/audio_warning.ogg
+SHA1-Digest: rxAxPNyMfG+/x3NE295L6accjIc=
+
+Name: assets/images/kwx_anim/lobbyBottom/buttom9.png
+SHA1-Digest: 2W9AGtd+aaSBmlWMGaeYnJIN8DY=
+
+Name: assets/scripts/popu/lobby/entryRoomPopu.lua
+SHA1-Digest: iIoBypp5klXVVn7XTbfcuIgOFcc=
+
+Name: assets/images/animation/roomAnim/ting.png
+SHA1-Digest: EjAf+PfesJBglEwPVY+nHBqb/Oc=
+
+Name: assets/images/common/scene_hline.png
+SHA1-Digest: 9/NgjesaHa1woZduK3vjvi5wmxA=
+
+Name: assets/mmiap/01/logo1.png
+SHA1-Digest: ZTOcCOqg449YclvzglphWD1NSR8=
+
+Name: assets/scripts/atomAnim/sceneLoaderEx.lua
+SHA1-Digest: 8cZV8KdY2ILzByz2oZ64/0iWZDs=
+
+Name: assets/scripts/lobby/lobbyState.lua
+SHA1-Digest: 0x3trvl0wsr7tGhlBlTiIWfFVck=
+
+Name: assets/scripts/popu/lobby/shopPopu.lua
+SHA1-Digest: 5ZE2UuKzDUtJ5EX+AYNdxqnBUWg=
+
+Name: assets/images/kwx_anim/lobbySelect/img_select7.png
+SHA1-Digest: 8q8NBEgvdaiiGYEvyr2sCn03s0g=
+
+Name: assets/images/kwx_lobby/img_lobbydi.png
+SHA1-Digest: 1vArNyN8bXIzB2Qe39I5+zTeD/0=
+
+Name: res/drawable/hpay_ok_selector.xml
+SHA1-Digest: zzV6HSww9YkHn3NS4dNHCf0vpVM=
+
+Name: assets/images/kwx_room/gamebox/btn_box_gold_2.png
+SHA1-Digest: 3uojHptcAD4+TqJhLhAZIfKv1qo=
+
+Name: assets/audio/ogg/kwxmj/man_card_33_2.ogg
+SHA1-Digest: Xo/d/MU9PUGhSBRq8C5zA5egut8=
+
+Name: assets/scripts/atomAnim/atomAnimTableCreater.lua
+SHA1-Digest: 7xhsF3tmnB9KTe1SCSKHbY2/RtY=
+
+Name: assets/images/kwx_lobby/img_titlegjc.png
+SHA1-Digest: 4M6P7LfuK13ZqA22DuUKT+jPc8A=
+
+Name: assets/images/kwx_room/room_gameOver/detail/img_mask.png
+SHA1-Digest: 0sqkTJcBDskVuds+UwtMzgGX558=
+
+Name: assets/images/ui/switchOn.png
+SHA1-Digest: yoMRgkOCcQt/YA3R/4Bf1kMv+cc=
+
+Name: assets/scripts/view/kScreen_960_640/testToolPopu.lua
+SHA1-Digest: hofJu/rYpdFqtbyvCoSQ56mBcvI=
+
+Name: assets/scripts/popu/testWindow.lua
+SHA1-Digest: VoFBL35yfOazsapmxfiy9Zfi1A4=
+
+Name: assets/images/kwx_common/btn_blue_small.png
+SHA1-Digest: RuL5kIA445qeEbtAGi5q5ofG7P0=
+
+Name: assets/scripts/view/qn_res_alias_map.lua
+SHA1-Digest: /aDIutwk4GwH6DHp7DskSKPqj2c=
+
+Name: res/drawable-hdpi-v4/gc_center_look.png
+SHA1-Digest: bAohfULTxTxoS/aRm26MO1dknwA=
+
+Name: res/drawable/hfb_dlg_bg.xml
+SHA1-Digest: fP7Sj7HQf9I502qXFrdyuJKHmB0=
+
+Name: assets/images/kwx_chat/img_chatMark.png
+SHA1-Digest: faUkYSfNhNs6CxCjebqtEkuYW40=
+
+Name: assets/scripts/popu/lobby/help_gb_string.lua
+SHA1-Digest: ltqcSJShEvOQFmMZEANbzBL34j4=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: 9JLtESYskPHBqpB33o+PjDbjm84=
+
+Name: assets/scripts/core/gameString.lua
+SHA1-Digest: xYhzT5nw0MD8wr8AclKFS1he8/Y=
+
+Name: assets/images/kwx_room/accounts/img_touguan.png
+SHA1-Digest: RUdy9T5eGWBGCFqWF2nR7tWMqjE=
+
+Name: assets/mmiap/03/infoline.png
+SHA1-Digest: RYUCPPwehYMWB3iUCJ9WRAX/dMQ=
+
+Name: assets/images/kwx_anim/lobbySelect/img_select1.png
+SHA1-Digest: c6slVdtpA/L92osjL5KVYO2pgVE=
+
+Name: assets/images/kwx_tanKuang/bankrupt/2.png
+SHA1-Digest: j8vhAU/m3jOTyV7jLS72ltGxHBo=
+
+Name: assets/scripts/mjSocket/shmj/shmjReader.lua
+SHA1-Digest: lJEXEFijsTxz1b997lLIhAHxrrg=
+
+Name: assets/scripts/common/uiFactory.lua
+SHA1-Digest: nMLjQeF7iB/1Q7Qr4z44ZGWJ4Mw=
+
+Name: assets/images/kwx_tanKuang/bigGift/btn_gain.png
+SHA1-Digest: xWxBTrZOWLWsl2qYaetyN93Xy0w=
+
+Name: assets/images/kwx_tanKuang/gameBox/img_ongHua_s.png
+SHA1-Digest: 6CrLJvDnnZ+k9PIb37iQhssb9tk=
+
+Name: res/drawable-hdpi-v4/shade.png
+SHA1-Digest: M+ir0f/Iop1oZc7+apXZ7vijAeE=
+
+Name: assets/images/kwx_tanKuang/sign/img_defalut_2.png
+SHA1-Digest: Z7ld9vpNKVO3+i91tovIWlIiADk=
+
+Name: assets/scripts/qnPlist/coin_pin.lua
+SHA1-Digest: iGhyxdTBNdvzDCOBdTdiCUBjd08=
+
+Name: assets/images/kwx_anim/lobbyQuick/img_big.png
+SHA1-Digest: tEhbxnuriU4rX6u200faXDdevKQ=
+
+Name: assets/audio/ogg/common/woman_peng2.ogg
+SHA1-Digest: WdbFtQQQ+1UxUku6OzhJOSTEgkY=
+
+Name: assets/images/kwx_anim/lobbyBottom/buttom14.png
+SHA1-Digest: 6y4OgSnUJyTDiL/Abyopwu1Iw68=
+
+Name: assets/images/kwx_room/room_gameOver/lost/img_diBg.png
+SHA1-Digest: E2XxOKoqFzI0jGq75X/14YltG3I=
+
+Name: assets/images/kwx_room/room_gameOver/lost/number/9.png
+SHA1-Digest: uRY89J3KC0dI2RCEb+kLqqzuObk=
+
+Name: assets/audio/ogg/kwxmj/man_liangdao.ogg
+SHA1-Digest: OsO7LrejIgACig4GIxs7qoYvsO8=
+
+Name: assets/audio/ogg/audio_get_gold.ogg
+SHA1-Digest: 8EVnNd0mkwuIEynx0UZYUuPvFWQ=
+
+Name: assets/images/kwx_tanKuang/sign/img_title.png
+SHA1-Digest: RtR6LC55yI3Q5cmjry4dlLel/mI=
+
+Name: assets/scripts/data/userData.lua
+SHA1-Digest: NbpMXnthSRovMYHCSJR2++4zhhk=
+
+Name: assets/scripts/popu/lobby/exitGamePopu.lua
+SHA1-Digest: WqdOSwBIz5Kt/HTTSE12OrFtgvg=
+
+Name: assets/mmiap/02/btn_orange_click.9.png
+SHA1-Digest: TGN1wFSCDqS8wRRhr69kcT1kBsY=
+
+Name: assets/images/kwx_anim/levelUp/img_light1.png
+SHA1-Digest: wzSTK6liUHsGobeQsrKSTx+iI1s=
+
+Name: assets/scripts/pay/branch_pay/huaWeiPay.lua
+SHA1-Digest: uCdB/6nlv7QPBcLVzAfCE5hFA9s=
+
+Name: assets/images/kwx_tanKuang/sign/btn_mianban_1.png
+SHA1-Digest: +wcpTognKw4NfsfcUG/PDuuH90w=
+
+Name: assets/scripts/popu/public/testToolPopu.lua
+SHA1-Digest: +X7wG8Kge37zu5kOWLH+HNdSD+0=
+
+Name: assets/mmiap/03/logo1.png
+SHA1-Digest: N+e8Mchbjb5hiFPP7/Ogjq6hDWA=
+
+Name: assets/scripts/animation/friendsAnim/animationToPraise.lua
+SHA1-Digest: B7FYJeNbqkJJDrYOvXwlsgJS+68=
+
+Name: assets/scripts/data/updateData.lua
+SHA1-Digest: vIIv0cAYWqBKcNZTwwA+ZGuFPbc=
+
+Name: res/drawable-hdpi-v4/share_bg.png
+SHA1-Digest: cpGCEPHLw8LWUuQxMYTUZnq0Pv8=
+
+Name: assets/scripts/popu/room/gameOverLosePopu.lua
+SHA1-Digest: 3dTy5tBRFnKxxtXCA7eo3Iu8mgk=
+
+Name: assets/unicom_account/accountsdk_2_float_bg.png
+SHA1-Digest: 1i89n9mUnYCBM1jonzWeopD7ucM=
+
+Name: assets/scripts/data/fanxing.lua
+SHA1-Digest: oYdJmFPa0PRVvkBl7WyqxoxAEz0=
+
+Name: assets/scripts/mjSocket/game/baseWriter.lua
+SHA1-Digest: 7dk63n/2l2IvVLsChXXfD2AGyyU=
+
+Name: assets/audio/ogg/common/woman_card_17_1.ogg
+SHA1-Digest: sZ/lxWdQCnwlGTJsT+gDos1M2IE=
+
+Name: assets/mmiap/03/title2_bg.png
+SHA1-Digest: at2u0fbDEzTAO0+wRjZwD7WAJJs=
+
+Name: assets/scripts/common/animFactory.lua
+SHA1-Digest: Mra8J5hsytHitqAWNSkKEs0ZIEE=
+
+Name: assets/scripts/ui/gridView.lua
+SHA1-Digest: +BGozkO7ay/CKth3PNvflznx5gc=
+
+Name: assets/audio/ogg/kwxmj/woman_chat_04.ogg
+SHA1-Digest: HAISCMbR5lVERYSkBNwm6rXkZ1c=
+
+Name: assets/scripts/room/chat/faceq_res.lua
+SHA1-Digest: K4cxDULhkvEFpYhyQHtNR7Tp4ak=
+
+Name: assets/images/kwx_anim/lobbyBottom/buttom4.png
+SHA1-Digest: Sqf94zIJaUToDh0Uh3Zzoc8lO+w=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: qH0PbF2B3DWAleuAshZvSKfYa/w=
+
+Name: assets/audio/ogg/kwxmj/woman_chat_03.ogg
+SHA1-Digest: tuOW0DtEAnCz+EEXOkReE+gjt9Y=
+
+Name: assets/classez.jar
+SHA1-Digest: 88jO/7A0487P1LmDeeRu8i4Sr88=
+
+Name: assets/images/kwx_room/img_numberBg.png
+SHA1-Digest: KNSMhMlR0gU/i1JeNjFQ09YrUo4=
+
+Name: assets/images/kwx_help/img_feedback.png
+SHA1-Digest: +FOVLiKeQxxTIFCeiRlY3hO8pC0=
+
+Name: assets/images/ui/switchPendingImages/6.png
+SHA1-Digest: MKvEl2xEPEOcLUPJ1J/p7ntPeRs=
+
+Name: assets/scripts/popu/room/giveCoinPopu.lua
+SHA1-Digest: NhljowzEyyTQAwK8v4RCi+MXseQ=
+
+Name: assets/unicom_account/accountsdk_2_icon_vip_enable.png
+SHA1-Digest: Gu8cOuDh/CaDnrkBxJwkB7O6Jws=
+
+Name: assets/images/kwx_room/moneyNum/lose9.png
+SHA1-Digest: x7c6lqjaX1znP+hkig0IgRDUBXI=
+
+Name: assets/scripts/mjSocket/gbmj/gbmjReader.lua
+SHA1-Digest: whlHSsYtUHTKsGM2Gu7E+TvGX7g=
+
+Name: assets/images/kwx_chat/img_chatText_bg.png
+SHA1-Digest: WygXUlezc8vdPpARGShUzwsciuM=
+
+Name: assets/scripts/base/baseState.lua
+SHA1-Digest: anZ9AZnITYj6GpViq5JDmKQeKEo=
+
+Name: res/drawable-hdpi-v4/unchecked.png
+SHA1-Digest: 6wg1/ReeTrgoREzgUB2uKQm5bwg=
+
+Name: assets/audio/ogg/kwxmj/woman_card_23_1.ogg
+SHA1-Digest: 42w0uHMXHPpRc4rqICRikKJka6Y=
+
+Name: assets/images/animation/shaizi/6-4.png
+SHA1-Digest: YBxsjDtdvFWdjXgTAenruXweyhI=
+
+Name: res/layout/hpay_custom_confim_dialogtwo.xml
+SHA1-Digest: yxC9wIvbALdbpM6adKk2G/JYZgk=
+
+Name: res/drawable-hdpi-v4/gc_title_logo.png
+SHA1-Digest: oLllzK232p5j9KIQU4otYcLXHxo=
+
+Name: assets/scripts/animation/init.lua
+SHA1-Digest: 6cl2M2nikHLN8zYYAOhacomF1y8=
+
+Name: assets/scripts/data/gameSetting.lua
+SHA1-Digest: X8qv4S3BMa2VXPHJqrOzrmvR3v8=
+
+Name: assets/scripts/popu/lobby/rankUserPopu.lua
+SHA1-Digest: GB/eHWEOieCt38Z0iljzZ23m2w0=
+
+Name: assets/mmbclasses.jar
+SHA1-Digest: E+byKAQxdWxQSYH2TTkm5GiA8vU=
+
+Name: assets/scripts/atomAnim/atomAnimUtils.lua
+SHA1-Digest: 0Q6xc4dXBFALI6IUB2ZaZ3jhn80=
+
+Name: res/drawable-hdpi-v4/gc_contract_press.png
+SHA1-Digest: T4nijU0bhTlFRG8ckIwXcOYOt04=
+
+Name: assets/images/kwx_rank/img_fuhaoClicked.png
+SHA1-Digest: 3gDhWXgPJ5CFLRU+F9Ijecx0GaQ=
+
+Name: assets/images/kwx_anim/levelUp/img_light5.png
+SHA1-Digest: AoIaPijG26tAgKkaCSLpB+uUhxE=
+
+Name: assets/images/kwx_room/room_gameOver/detail/img_win.png
+SHA1-Digest: 1/rZIptZg7AdYrH2fFJTMXuK/so=
+
+Name: assets/images/kwx_room/accounts/positive/0.png
+SHA1-Digest: MwZbiQWkis5YZfZVmHZ2t5Wo9B0=
+
+Name: assets/audio/ogg/kwxmj/man_peng2.ogg
+SHA1-Digest: vbCai6Y+7cdMXBOgjTiCU3fHyW4=
+
+Name: res/drawable/umeng_update_button_cancel_bg_tap.xml
+SHA1-Digest: 5rw7HM5IfQn+63ndxrcj3DuqFT0=
+
+Name: assets/scripts/data/gameConfig.lua
+SHA1-Digest: wMKOESYJpzv5dmIsL+4Y1hx/Wuc=
+
+Name: assets/scripts/mjSocket/hbmj/hbmjWriter.lua
+SHA1-Digest: HJ1Qj/yQu9LxQq5tQj4lWTukbrY=
+
+Name: res/drawable-hdpi-v4/gc_share_weixinfriend.png
+SHA1-Digest: uREDWp1dPgGs4jG7cpagXPQBK1E=
+
+Name: assets/scripts/pay/branch_pay/applePay.lua
+SHA1-Digest: YXAP7YI12Ri3lLiNOE5jEnRyQS4=
+
+Name: assets/mmiap/02/close.png
+SHA1-Digest: hZtE2s/kg8XRB5AUfpgrVUNTBnI=
+
+Name: assets/unicom_account/accountsdk_2_uicom_logo.png
+SHA1-Digest: fiC8nch8wYkG7RQw6pFHczjUyWc=
+
+Name: assets/scripts/atomAnimTable/lose.lua
+SHA1-Digest: TDSO/s1wnX0mb2EphgfxWH9sNXs=
+
+Name: assets/audio/ogg/common/man_chat_01.ogg
+SHA1-Digest: JsN2PwP2a3kTrWiNrnIGBdVg2Bo=
+
+Name: assets/res/03/loading.json
+SHA1-Digest: Vub68bVGrUrs28+6fhUW7qkLjcQ=
+
+Name: assets/images/kwx_room/moneyNum/lose3.png
+SHA1-Digest: H1QB7exLXIxmbibVp8yaPsfuqhg=
+
+Name: assets/images/kwx_shop/img_split.png
+SHA1-Digest: m7N3MBfaKLAK+uCCeoO5G2Av5xQ=
+
+Name: res/drawable/hfb_btn2.xml
+SHA1-Digest: W8tqWJeu5SuUQloAd1XWdcugb8Q=
+
+Name: res/drawable-hdpi-v4/gc_window.png
+SHA1-Digest: q7y7zEUV8D4MRNdJmRyjOmEEGWM=
+
+Name: assets/armeabi/libunicomsdk.jar
+SHA1-Digest: BzvcOe5D5LG3sCaAU63jD/WhRbg=
+
+Name: assets/scripts/data/baseInfoData.lua
+SHA1-Digest: 1ndhqWKsQ6X7gae5u3e6yj3HeQw=
+
+Name: assets/scripts/data/myGoodsData.lua
+SHA1-Digest: /+lmsRvKnrnQtnYKm5jVPLw77I8=
+
+Name: res/drawable-hdpi-v4/gc_start_login.png
+SHA1-Digest: ERwpf8L6HU7gNydrdtlf8u98fR0=
+
+Name: assets/images/kwx_tanKuang/roomChat/img_textDi.png
+SHA1-Digest: EtXmh0G/w4iOWPv/mbdy5T/3Gf8=
+
+Name: assets/plugin
+SHA1-Digest: iX0hBWo0ExS2B2TDGzbB+tVC54o=
+
+Name: assets/scripts/popu/lobby/item/feedbackItem.lua
+SHA1-Digest: r5+87vleVIlTgLXkDUAOcOrqNOY=
+
+Name: assets/images/kwx_room/btn_chestOpen.png
+SHA1-Digest: b2iRe24U+FDNQR2jTHCdAyKcZ5Q=
+
+Name: assets/scripts/pay/branch_pay/weChatPay.lua
+SHA1-Digest: CmOmAwEgvil8PoMRLbYlghnuPn4=
+
+Name: assets/scripts/data/chatData.lua
+SHA1-Digest: SEEx6K02uvoCI50OxKXxNYxki3k=
+
+Name: res/drawable/hfb_btn_ok_bg.xml
+SHA1-Digest: MSRMQ2sJPGw1P0ZjtOWN9Ori7Zk=
+
+Name: assets/mmiap/image/vertical/button1_disable.9.png
+SHA1-Digest: 8m0oD2MKpmu6C0rAH1pNmR6WjpM=
+
+Name: assets/images/kwx_shop/img_coinBg.png
+SHA1-Digest: 82oO5/rMa9wHgBDzurzdZLZl1EI=
+
+Name: assets/scripts/animation/alarmTip.lua
+SHA1-Digest: tD3p/+K9FpkejRzqD411P+noee0=
+
+Name: assets/scripts/view/kScreen_960_640/signAwardLayout.lua
+SHA1-Digest: pm9XE9yHkcZZ8WqkMty7aB3exVk=
+
+Name: assets/scripts/data/mailFriendData.lua
+SHA1-Digest: LjVQdxt6Lm6jmJ8b2er1JUciiVA=
+
+Name: assets/scripts/common/frameAnimManager.lua
+SHA1-Digest: PRKhnaoS22aURzNdrMM0DaymCCk=
+
+Name: res/anim/push_bottom_in.xml
+SHA1-Digest: h0jUpyscQCgGbBnpOoHaK6ekGmA=
+
+Name: assets/scripts/data/levelConfig.lua
+SHA1-Digest: dQMsdpAOEVrGIJlROWUIgXIOt0c=
+
+Name: res/raw/pay_config
+SHA1-Digest: EjRE8I+CLxtkrb4uSiX/++avRyU=
+
+Name: assets/images/kwx_tanKuang/bankrupt/img_timeKuang.png
+SHA1-Digest: 9Pk7d8ne3tnS7Cwi2sokL68BfTk=
+
+Name: assets/images/ui/checkBox2.png
+SHA1-Digest: lSol+KG3luXQdUiWkRzeqYPouCc=
+
+Name: assets/scripts/particle/particleBase.lua
+SHA1-Digest: 2zo1R1g3HoP9J/B70Fy693SR4gY=
+
+Name: assets/audio/ogg/Audio_Game_Back.ogg
+SHA1-Digest: ELKo+6e+ka3jyRMX+3dge+NC6qk=
+
+Name: assets/scripts/view/kScreen_960_640/payConfirmLayout.lua
+SHA1-Digest: P9kf1KY3+8ouAR1a3EPCgeeQKf8=
+
+Name: assets/images/kwx_lobby/img_quicktitle.png
+SHA1-Digest: +SIRZ3g3TFiJdsRSxW4nEllR9ag=
+
+Name: assets/images/kwx_help/img_feedback.pngClicked.png
+SHA1-Digest: vahIW6ACeatCaFHa7XkvxItOQOY=
+
+Name: assets/audio/ogg/kwxmj/man_peng1.ogg
+SHA1-Digest: yBu1Mx3uYiFYvyOqznnFSEFenDc=
+
+Name: assets/scripts/data/mailSystemData.lua
+SHA1-Digest: y27eiFV+bgxb0OXc6Ccd97TN9xY=
+
+Name: assets/scripts/room/entity/cardPanel.lua
+SHA1-Digest: ul4AEjELQgbP21da6Na7QIpfV8I=
+
+Name: assets/images/kwx_room/moneyNum/win1.png
+SHA1-Digest: fxfnUhFYhFdfnhex15p17QTWuw4=
+
+Name: assets/scripts/ui/editText.lua
+SHA1-Digest: ep/YZpG+4Y7aajIIaIDQeWifOC4=
+
+Name: assets/unicom_account/accountsdk_2_btn_modify_uinfo_press.png
+SHA1-Digest: ecDc56AVFvF2IDiY+OwophzeQpY=
+
+Name: assets/images/kwx_room/gameOpeation/pass_btnnormal.png
+SHA1-Digest: ItSIU2WLHCKYJQm/P0Lj1fkpjII=
+
+Name: assets/audio/ogg/common/woman_card_27_1.ogg
+SHA1-Digest: /pyvmADNv1jZBqhJydJUTzOS+Mg=
+
+Name: assets/audio/ogg/kwxmj/man_card_28_1.ogg
+SHA1-Digest: 7b6d74SCSDRQuq1yE5tLYh1R6AU=
+
+Name: assets/scripts/room/gbmj/entity/gbPlayer.lua
+SHA1-Digest: LXsSEyUWYwwk3AjklAiZSjSziaU=
+
+Name: assets/scripts/utils/richText.lua
+SHA1-Digest: VsrXDk412cGNb/RKYf2gz9J8TpY=
+
+Name: lib/armeabi/libbspatch.so
+SHA1-Digest: DJ+tVYLZXSlAPF8ZTVgKhQnxTwo=
+
+Name: assets/audio/ogg/audio_card_click.ogg
+SHA1-Digest: 6ZbHgukgpigENblnYZY4Q8/dglk=
+
+Name: assets/scripts/atomAnimTable/shine_seq.lua
+SHA1-Digest: 2YIKE9UxRHuyK+RmWxu3xsCKyNw=
+
+Name: res/drawable-hdpi-v4/gc_toast_tip_vertical.9.png
+SHA1-Digest: rN590mpmkSFBVLwEFLDXbK1L6no=
+
+Name: assets/images/kwx_room/room_gameOver/lost/number/6.png
+SHA1-Digest: h0p0qnF7kQkXUBESxEfGoQOYjqQ=
+
+Name: assets/scripts/mjSocket/hbmj/hbmjReader.lua
+SHA1-Digest: 4ppvFqqXluaWPR8dCmnPwua2BOU=
+
+Name: assets/images/kwx_erJiCommon/img_diKuang.png
+SHA1-Digest: 6ajS0wfRtWQjohUooYG4tMTHDck=
+
+Name: assets/images/kwx_lobby/btn_xuanChangFrame.png
+SHA1-Digest: 8z1CBT5K01XUtQ61V2/csxIydNE=
+
+Name: assets/images/animation/roomAnim/quanquan1.png
+SHA1-Digest: tcGTOaWqxmhslabtceu0BPxysqs=
+
+Name: assets/scripts/view/kScreen_960_640/gameOverDrawPopu.lua
+SHA1-Digest: c6gB8b1Hfy8ZDjDkdjdaC9ncnwk=
+
+Name: assets/audio/ogg/common/woman_hu0.ogg
+SHA1-Digest: hSjzVD3SPNZqwcrmMoL1G0ZJ+bE=
+
+Name: assets/scripts/animation/toastShade.lua
+SHA1-Digest: YDGdPkmwI0yiIb/3+t+7HHyvqOo=
+
+Name: assets/images/kwx_lobby/number2/6.png
+SHA1-Digest: a3bhfUDVzk1s9Fw35/jjckBqvuQ=
+
+Name: res/anim/fade_out.xml
+SHA1-Digest: eVr7nYoUMuxHzRIbBpzUdYOBfSE=
+
+Name: assets/scripts/common/globalHttpFunc.lua
+SHA1-Digest: f+NxGTwp1vCuALSIIFHSJBMu4zY=
+
+Name: assets/scripts/view/kScreen_960_640/settingLayout1.lua
+SHA1-Digest: 165BPqGnObIEOy0NRmK6OA/lhoM=
+
+Name: assets/mmiap/image/vertical/checkbox_uncheck.png
+SHA1-Digest: hpD/XsVQpms83lUsWmEeiG1Lllo=
+
+Name: assets/images/kwx_anim/lobbyQuick/img_quick5.png
+SHA1-Digest: QOp7zRdrFo+pAhHXGpbvJC5aMSU=
+
+Name: assets/mmiap/image/vertical/right_arrow.png
+SHA1-Digest: JNGtCNh063JKm/ANWkaXBbkNoso=
+
+Name: res/drawable-hdpi-v4/hfb_btn_pressed2.9.png
+SHA1-Digest: sR5Gvrrz5NnnkKNGEU75ibFAN0E=
+
+Name: assets/scripts/view/kScreen_960_640/joinRoomPopu.lua
+SHA1-Digest: bA4Yl6jSZniFkIbm4+JeaDf/QUA=
+
+Name: assets/images/kwx_room/room_gameOver/number/9.png
+SHA1-Digest: KeETqOQfIUXX8Wy7N45Iv2wZXmk=
+
+Name: assets/images/kwx_rank/img_rank3.png
+SHA1-Digest: hHLGF/j1JHvGB0pZ37wW6+4v9WI=
+
+Name: assets/images/kwx_room/accounts/positive/8.png
+SHA1-Digest: DYnDvxXfGmU1cU4kzAawlQgTfzE=
+
+Name: assets/scripts/view/kScreen_960_640/userInfoPopu2.lua
+SHA1-Digest: 9kzT5Gx2GmOEnTAYM799meJ0Jl4=
+
+Name: assets/mmiap/02/btn_orange.9.png
+SHA1-Digest: MYWOFAW4JmsHykvnqlWQk9QNsZ8=
+
+Name: res/drawable-hdpi-v4/gc_exit_share.png
+SHA1-Digest: KSBy16YitWwiPAI9hRggcoX3p1g=
+
+Name: res/drawable-hdpi-v4/loading_yun_frame.xml
+SHA1-Digest: AKGRjRdP7rkinR2CMzNPOVcbCWU=
+
+Name: lib/armeabi/libumc-auth.so
+SHA1-Digest: m0ZXwVngg8XIH/ctkGNjhmg3apU=
+
+Name: assets/images/kwx_buyGoods/img_gold.png
+SHA1-Digest: vlZoniVi0HR7hwBY01W4vvjAGPA=
+
+Name: res/layout/hfb_creditpay.xml
+SHA1-Digest: kd8gqDWb1ipLsMVZtBa+tbM/Dcs=
+
+Name: assets/scripts/animation/friendsAnim/throwRock_pin.lua
+SHA1-Digest: vTbUkFtGBwLyh9s830zT+tC6QFQ=
+
+Name: assets/scripts/pay/branch_pay/basePay.lua
+SHA1-Digest: vkYGHmnXs28hAZ2kLBigw4F8TVY=
+
+Name: assets/images/kwx_common/img_manHead.png
+SHA1-Digest: JiE6foudJ8VubfcpEv/L886P/cU=
+
+Name: assets/images/animation/resultless/resultless2.png
+SHA1-Digest: qTcqGFBZB12AznU03Ihu0UbASkg=
+
+Name: assets/images/kwx_guide/img_tips.png
+SHA1-Digest: 681w30lzBTv1AOurZDSOYlWiwuo=
+
+Name: assets/scripts/view/kScreen_960_640/gameOverLosePopu.lua
+SHA1-Digest: t1O15/4z3X+vGngSnhzZWAEKJ00=
+
+Name: res/drawable-hdpi-v4/gc_arrow_big.png
+SHA1-Digest: WujsSMHMaBKMh8pe2LNadSlwqAM=
+
+Name: assets/images/kwx_room/gameOpeation/img_tipsBg.png
+SHA1-Digest: 3n3HrgYK5uxMFCvs6MRku9mJM60=
+
+Name: assets/audio/ogg/kwxmj/woman_chat_05.ogg
+SHA1-Digest: Zim3kfR7qfW0A2mPc213IXTicZU=
+
+Name: res/drawable-hdpi-v4/gc_animation_cmcc.png
+SHA1-Digest: 91Ly/MN95J9fvNUGd5iWho7UD+I=
+
+Name: assets/images/kwx_room/accounts/img_cai5.png
+SHA1-Digest: 65Ut0ctw9dpIgj52O1q20NQUZeM=
+
+Name: assets/audio/ogg/kwxmj/woman_peng0.ogg
+SHA1-Digest: afOOlmw8XdlclxeKXUnwlwkaapQ=
+
+Name: res/drawable-hdpi-v4/gc_step_unfocus.png
+SHA1-Digest: dRhGfI5bTobse1FF9zIjenqmdvw=
+
+Name: assets/scripts/view/kScreen_960_640/roomTimer.lua
+SHA1-Digest: a/g+8qaVIyyYsCSiy3CvwJwK3Qs=
+
+Name: assets/scripts/platform/platformPayCode.lua
+SHA1-Digest: A7zVF0UZTCixbB4oYIY/0YL2RHE=
+
+Name: assets/images/kwx_room/accounts/img_level3.png
+SHA1-Digest: iw0R0DRFLxfNJJ7eI+0yEps3L00=
+
+Name: res/drawable-hdpi-v4/fan_unselected.png
+SHA1-Digest: sAHrszPBwOXqij9ZWvshHhFniQo=
+
+Name: assets/images/kwx_anim/levelUp/img_light9.png
+SHA1-Digest: uRPHCLVxyswWd4UsLzgJrpsAxko=
+
+Name: assets/images/kwx_common/img_womanHead.png
+SHA1-Digest: Ee3HCIjjRkRiv890In+oRPedHQc=
+
+Name: assets/images/kwx_room/room_gameOver/img_star.png
+SHA1-Digest: frNKSzjvhYe5EJDt23KPW8u8Jw8=
+
+Name: assets/images/kwx_lobby/img_lobblyqb.png
+SHA1-Digest: C8z7q2cblzwAZ+UJVbBCo/5JXB4=
+
+Name: assets/images/kwx_common/img_tanKuang_big.png
+SHA1-Digest: k6Z1MkWw97rsw0MfEF2mK7gXECM=
+
+Name: assets/scripts/common/ConnectModule.lua
+SHA1-Digest: +0eTJw9U1ZvIkyblM4JkfmRXdmQ=
+
+Name: assets/unicom_account/accountsdk_2_radio.png
+SHA1-Digest: qnjDd6QbZmUH7zEzA83e5I1tJUc=
+
+Name: assets/scripts/view/kScreen_960_640/roomChatPopu.lua
+SHA1-Digest: v00s63kr2R7d41HU4aTpyKeoqnY=
+
+Name: assets/scripts/gameBase/gameSound.lua
+SHA1-Digest: WNE9d2bBRWG/EvTKj1KZCGjnmIs=
+
+Name: assets/images/kwx_common/ico_jewel.png
+SHA1-Digest: hx52XKzjDtlIZyFgqsdf0OyPTkI=
+
+Name: assets/images/kwx_lobby/di/5.png
+SHA1-Digest: hdantjPJE1iQL1pIjPUQgGQP22E=
+
+Name: assets/images/common/window_mid.png
+SHA1-Digest: XN8Z4vMuf3etaQx+pj2HchTJwHU=
+
+Name: res/anim/boyaa_dialog_alpha_exit.xml
+SHA1-Digest: PeEkxUv1/VtuCrkkvh+yHXh+q9g=
+
+Name: assets/images/kwx_lobby/number2/7.png
+SHA1-Digest: mHScQO0KbZ3aVcsE7+7/i4lX07c=
+
+Name: assets/scripts/manager/gameLoading.lua
+SHA1-Digest: g50Os+gp2K02JehMW8Eo5xpCMhU=
+
+Name: assets/com.tencent.plus.gray_disable.png
+SHA1-Digest: 0fMmhHNVjPOxFO8244xzl2vO0Jw=
+
+Name: assets/scripts/mjSocket/gdmj/gdmjProcesser.lua
+SHA1-Digest: 8Zyix1V5+FiPAg6AmcEVvR2FZ9o=
+
+Name: assets/mmiap/03/bg.png
+SHA1-Digest: sm10r5xm5xgIXfeSVVwLtZUDo8A=
+
+Name: assets/images/kwx_buyGoods/img_goods_bg.png
+SHA1-Digest: fU0Su/70N+DGs0oL9BLvugyHZg4=
+
+Name: assets/unicom_account/accountsdk_2_setup_pressed.png
+SHA1-Digest: oNcmptkhX5cdcU6cR4BzK/dQl44=
+
+Name: assets/unicom_account/accountsdk_2_konw_icon.png
+SHA1-Digest: qK+qHgiB9ZpmJ1lA19oo9IxI6j4=
+
+Name: assets/unicom_account/accountsdk_2_btn_delete_pressed.png
+SHA1-Digest: +q1mfJW3LcKNodrIaoZhyEHs1fs=
+
+Name: assets/images/kwx_buyGoods/img_number_bg.png
+SHA1-Digest: kYCRIxjE7SYaPKW2uuBGvtsV8E4=
+
+Name: res/drawable-hdpi-v4/gc_recommend_flow_third.png
+SHA1-Digest: psgoOq5Z0tR/NS0bbB9XMOnO0Co=
+
+Name: res/drawable-hdpi-v4/gc_animation_and.png
+SHA1-Digest: Rf+D/QKaN+9OH3hVMs4ZSF+taoo=
+
+Name: assets/images/kwx_erJiCommon/img_top.png
+SHA1-Digest: GC/tzXcqYjpgacqHppD1tpiT6wE=
+
+Name: assets/audio/ogg/kwxmj/woman_card_15_1.ogg
+SHA1-Digest: itnwIosvCqZ7pddKXszIAHwkMq8=
+
+Name: assets/scripts/common/loginMethod.lua
+SHA1-Digest: xzP3+StOSyjcuN6BXEzec5HRP0Q=
+
+Name: assets/images/kwx_shop/img_zhekou.png
+SHA1-Digest: yjhOVj7FeIKlMEW5JqMPu2h9d94=
+
+Name: assets/images/animation/roomAnim/peng.png
+SHA1-Digest: EydJAEv4dQq6GUl4iLr8lQc7adk=
+
+Name: lib/armeabi/libDexHelper_mmb.so
+SHA1-Digest: smA+Lx/XO/1srYmUASWv/4R4jEs=
+
+Name: assets/scripts/popu/lobby/activityPopu.lua
+SHA1-Digest: hPFt7guApj/TrT3rCY9vyIhNZQM=
+
+Name: assets/mmiap/image/vertical/line.png
+SHA1-Digest: JfevbgnxsUG+NrGALeC/D+Dqr5I=
+
+Name: assets/images/kwx_rank/img_title6.png
+SHA1-Digest: u8u4ZhHAezFx2ENLUgUVk8pe63o=
+
+Name: assets/images/common/scenc_left_decorate.png
+SHA1-Digest: K44sQLXSWxdxUznPhOkbl08pHI0=
+
+Name: assets/images/animation/shaizi/1-3.png
+SHA1-Digest: Fh/08Tmrm5MoZ+/Cyyy6C6KUiak=
+
+Name: assets/images/kwx_lobby/number2/4.png
+SHA1-Digest: LKbNmpho63czuaJz5XuTp2nYRrw=
+
+Name: assets/scripts/popu/public/guidePopu.lua
+SHA1-Digest: 8ydh349PRoVOIl1Yzz0yyrX638U=
+
+Name: assets/images/kwx_tanKuang/notice/notice_bg.png
+SHA1-Digest: X6l8k50fo8phiWqyOF6XEpnLUxg=
+
+Name: assets/audio/ogg/kwxmj/woman_card_24_1.ogg
+SHA1-Digest: oZEIoxP0VmwhkPT2ssJo0J0XBpY=
+
+Name: assets/audio/ogg/common/man_card_24_1.ogg
+SHA1-Digest: ehq6Fv5ix8R7bieaPeHdLyWI58g=
+
+Name: assets/images/kwx_anim/lobbyQuick/img_quick13.png
+SHA1-Digest: 4FYIAwhHyYsi/a6r4k9AUBo8s7g=
+
+Name: assets/audio/ogg/kwxmj/man_card_18_1.ogg
+SHA1-Digest: F/3WH6wrEUy1DRKoTViOZS4iUDI=
+
+Name: assets/scripts/view/kScreen_960_640/firstGiftBagLayout.lua
+SHA1-Digest: TE5pB7JQyrSyYUIPvM4hjGrF1gY=
+
+Name: assets/images/kwx_room/gameOpeation/cancel_btnnormal.png
+SHA1-Digest: baq3FegfBeN525WXHTSCuXJ/fjo=
+
+Name: assets/scripts/pay/branch_pay/aliWebPay.lua
+SHA1-Digest: WIooQPDG6h3kk/0up7zSUMGJHXY=
+
+Name: assets/images/kwx_rank/img_fuhaoNormal.png
+SHA1-Digest: 3liMkmuDDQHPBZVARfY2pjPaLZs=
+
+Name: assets/images/kwx_tanKuang/bankrupt/3.png
+SHA1-Digest: 2uq6Y9LORtCV6uJ3/d73JofpRJg=
+
+Name: assets/scripts/animation/expressionAnim.lua
+SHA1-Digest: Asyfssz61lyfKRenV4x6DoltABM=
+
+Name: assets/images/kwx_lobby/btn_sign.png
+SHA1-Digest: EFLqlcCEqFnUVN5APt8JWaHyBp8=
+
+Name: assets/mmiap/image/vertical/keyboard_button_delete.png
+SHA1-Digest: lBQG2fICgpQKnUWaoBv8e6tpXOI=
+
+Name: assets/audio/ogg/kwxmj/man_card_33_3.ogg
+SHA1-Digest: ge+6feuPcr9isk75L0+w/pxbGqQ=
+
+Name: assets/scripts/gameBase/socketReader.lua
+SHA1-Digest: 8/VHmoibophfxJiJcE2GJoOsYeE=
+
+Name: assets/scripts/manager/guideManager.lua
+SHA1-Digest: OwiYlW+v1cjPMiZTKOyH+vGb4j0=
+
+Name: res/drawable-hdpi-v4/tip_btn.png
+SHA1-Digest: qUtjADjc2mDMRSXlXquiwfBJYI0=
+
+Name: assets/audio/ogg/audio_exp_1010_3.ogg
+SHA1-Digest: CdO0zJpOZC8aihVd0Ox+S1aHJo8=
+
+Name: assets/scripts/atomAnimTable/bgcloud2.lua
+SHA1-Digest: aGU5Ndjt5iVidQ9AKNf4lk7NoYk=
+
+Name: assets/mmiap/image/vertical/keyboard_button_hide.png
+SHA1-Digest: EvSCNXnU8uRq4EiTbNUb0TzJYBA=
+
+Name: assets/scripts/ui/customNode.lua
+SHA1-Digest: /y7OA4yoNBlij71kT7lGSQ0vg50=
+
+Name: assets/images/kwx_anim/lobbyBottom/buttom13.png
+SHA1-Digest: Y3ipcgcdkiWA+edpNO7pLE7WS6g=
+
+Name: assets/com.tencent.plus.gray_down.png
+SHA1-Digest: 3kvmQFE/DE41dwoZpkQMHPpWtuI=
+
+Name: assets/audio/ogg/common/woman_chat_05.ogg
+SHA1-Digest: 3lEGO0L/lXjK/iadUDho2wQfgmM=
+
+Name: assets/scripts/core/systemex.lua
+SHA1-Digest: tbUmuwSlN1VMuPJBnD0akC8UZ4c=
+
+Name: assets/scripts/editor.lua
+SHA1-Digest: C/m4tt2dHWQLLoAQZ6rXd63DK/s=
+
+Name: assets/scripts/view/kScreen_960_640/shopLayout.lua
+SHA1-Digest: idj5B58oMZ421hEzXg5Z9/o2Qps=
+
+Name: assets/images/kwx_tanKuang/bigGift/img_gift.png
+SHA1-Digest: adVb4gNzCqHpQ9DjmgtccskxL0Q=
+
+Name: assets/scripts/atomAnim/anim/atomAnimTranslate.lua
+SHA1-Digest: muLRU4LyOkm7cXawfv8DTPJATi8=
+
+Name: assets/audio/ogg/common/woman_hu1.ogg
+SHA1-Digest: QMpayom7zoUptxThFnxcloUm8DI=
+
+Name: assets/scripts/atomAnimTable/loadingAnim.lua
+SHA1-Digest: 9Mgp12qtMOeJMCu654aVGavq8zw=
+
+Name: assets/audio/ogg/kwxmj/man_zimo0.ogg
+SHA1-Digest: 5yB6d+QfKnNspyDLRhgK1l1Sof4=
+
+Name: assets/audio/ogg/kwxmj/man_chat_06.ogg
+SHA1-Digest: OUhmxeNgg2iA2W+Pv0uuC/nRw4M=
+
+Name: assets/inc_more.9.png
+SHA1-Digest: nEjAZVSYwH0ZuTBZPW3LibxN+5Q=
+
+Name: assets/images/kwx_lobby/di/0.png
+SHA1-Digest: rHI29GmewlLAY+VVKdbE7HWGVbw=
+
+Name: res/drawable-hdpi-v4/gc_piccode_refresh.png
+SHA1-Digest: lDjYNypM8PqBMVhA5g/1kig6U5M=
+
+Name: res/drawable-hdpi-v4/gc_bank_icon.png
+SHA1-Digest: GnYMqkGhsHGMqhk3B8BgYeQSnu0=
+
+Name: assets/scripts/platform/branch/mutiPlatform.lua
+SHA1-Digest: bDzO+ea6caPL9y2L6ez6yRlQVwE=
+
+Name: assets/images/kwx_room/gameOpeation/pass_btnpress.png
+SHA1-Digest: eXKwxoiK9hUR9bqMwz8rmw7V7fg=
+
+Name: res/drawable-hdpi-v4/boyaa_right.png
+SHA1-Digest: etMaud0aXp77DDNiBByhjFCVSCk=
+
+Name: assets/images/kwx_anim/levelUp/img_light12.png
+SHA1-Digest: MmRPyK/fE8IkRE4a/SiGeHxaPY8=
+
+Name: assets/images/kwx_room/accounts/negative/7.png
+SHA1-Digest: k8ZUBm4dpFIHFPcaCiji1rztRBE=
+
+Name: assets/scripts/popu/public/bankruptPopu.lua
+SHA1-Digest: FNrjLiLZ1TC35gREixldBQbossg=
+
+Name: assets/audio/ogg/kwxmj/man_bugang1.ogg
+SHA1-Digest: J84xF5kvfy37Rw4lyq5QnxZ+bw8=
+
+Name: assets/images/kwx_shop/img_jewelClicked.png
+SHA1-Digest: UA75OIA2+/2GODrpDJ7IwyduIeQ=
+
+Name: assets/images/kwx_tanKuang/changeHead/btn_phone.png
+SHA1-Digest: Q/Icav4m1/CDIpUJcaPjVEPU2yg=
+
+Name: assets/scripts/statesConfig.lua
+SHA1-Digest: fAanzhFmwx9/9W0cvw5yaLQ7yLI=
+
+Name: assets/images/kwx_room/accounts/img_namebg.png
+SHA1-Digest: Pc0nkv+UTfc8tlJdM+yEaNOPhfE=
+
+Name: assets/images/kwx_tanKuang/bigGift/img_boxCoin.png
+SHA1-Digest: ziP80KuAhqLYGNxNTR7yv23C8jQ=
+
+Name: assets/images/kwx_lobby/number2/2.png
+SHA1-Digest: dCxXDS/97+UMZUZfmrwRBDAOldM=
+
+Name: res/drawable-hdpi-v4/loading_animation.xml
+SHA1-Digest: JJ5q2RxG9aLOY0EnxfS+/Ds36S0=
+
+Name: assets/scripts/animation/animAi.lua
+SHA1-Digest: CkdZxrjFsP1QTWh0orT5ObY7Bgs=
+
+Name: assets/audio/ogg/common/woman_card_22_1.ogg
+SHA1-Digest: XRMqkISjLg0LIvRBHpAzXxD1ED4=
+
+Name: assets/scripts/view/kScreen_960_640/accountsLayout.lua
+SHA1-Digest: 7W76oqR9W9BJqR9QkidRPddhm1s=
+
+Name: assets/images/swfPin/loading_swf_pin.png
+SHA1-Digest: OXqrSLT2WirOgjJcMfFnOqIGJu8=
+
+Name: res/drawable-hdpi-v4/hfb_blue_btn.9.png
+SHA1-Digest: JPNwwyqUkr9DS1EahTkfAU0Ld94=
+
+Name: assets/scripts/ui/scroller.lua
+SHA1-Digest: J14bSbOYaY/VvInUuXaebZdpZfo=
+
+Name: assets/images/common/window_big.png
+SHA1-Digest: 7k8ZL87VVLxkoOvgCDuxDyew03o=
+
+Name: assets/images/ui/sliderBtn.png
+SHA1-Digest: onqOWDJDxn/pPh47Kzb2hAFe4dA=
+
+Name: res/drawable-hdpi-v4/wechat_share.png
+SHA1-Digest: 1+v6RDkoL0oGrJxMRsxmQ247XUY=
+
+Name: assets/images/kwx_room/moneyNum/lose2.png
+SHA1-Digest: lA9fow7XKeyqTV4gnWe5BFveGOE=
+
+Name: res/anim/rotate_decorate.xml
+SHA1-Digest: Lcd41dceZaoS38GeTSe3kvVHZsc=
+
+Name: assets/images/kwx_tanKuang/lobbySetting/btn_minSound.png
+SHA1-Digest: LG6zgV4WKFnjHSUCqYLpiorQnBI=
+
+Name: res/drawable/umeng_update_button_cancel_bg_selector.xml
+SHA1-Digest: OMmEKDzY4zimhhbOqmmflDTtmIE=
+
+Name: assets/scripts/popu/lobby/help_sh_string.lua
+SHA1-Digest: lk5ObXCRUSXEvXYejxpsVsDSIO4=
+
+Name: assets/scripts/view/kScreen_960_640/telLoginLayout.lua
+SHA1-Digest: 49LqeisPtY9ELco8+hH9MkaCy/o=
+
+Name: res/anim/boyaa_dialog_enter.xml
+SHA1-Digest: RLrjoXCTi+LQA75byrDmmkIdo40=
+
+Name: assets/images/kwx_tanKuang/bankrupt/5.png
+SHA1-Digest: HkVLAdkGXBxwkiCHnx57LKDdp+Q=
+
+Name: res/drawable-hdpi-v4/bamboo_left.png
+SHA1-Digest: LKw4p/kAjp+lpTNTfK1o+KBc4H8=
+
+Name: assets/scripts/popu/room/accountsPopu.lua
+SHA1-Digest: L++U6pg92ieGYHSwF5w9Q/xOYxs=
+
+Name: assets/images/kwx_room/room_gameOver/lost/img_heart.png
+SHA1-Digest: kxqAZaY0be8Gequ3Bfqfn9E1DWg=
+
+Name: assets/armeabi/libdecrypt.jar
+SHA1-Digest: K3DZtzavi71iauLLqCOhgT+sJek=
+
+Name: assets/images/kwx_lobby/di/2.png
+SHA1-Digest: U8YghsCantONW4xkEx9oFHsQ9yk=
+
+Name: assets/unicom_account/accountsdk_2_icon_paytype_6.png
+SHA1-Digest: YdrZGEwbtw80Pz8ulnVEb5oBU3w=
+
+Name: res/layout/hfb_order_progress.xml
+SHA1-Digest: dfJi9gX9Wzsp8Sd59DhWIRqse1c=
+
+Name: assets/audio/ogg/common/man_card_22_1.ogg
+SHA1-Digest: Re/404FEEg3d1vbGmMOMoy51/zc=
+
+Name: assets/scripts/animation/animChat.lua
+SHA1-Digest: UAARmdYSez49zWiF5U9R2APCA+A=
+
+Name: assets/scripts/atomAnimTable/guangDong.lua
+SHA1-Digest: mPS2mRqcIdBSdXd8rywI/ETg3Ck=
+
+Name: assets/scripts/view/kScreen_960_640/gameOverWinPopu.lua
+SHA1-Digest: 74GRMRgtITsK0rteNxQBTDiAUZs=
+
+Name: assets/unicom_account/accountsdk_2_float_bg_expanded_lo.png
+SHA1-Digest: Jfb5zZOg/rnDjuAi1pjRJ41NQGw=
+
+Name: assets/scripts/ui/init.lua
+SHA1-Digest: rgub1MP0oNSkOEm3l3WNRbJI7t8=
+
+Name: res/drawable-hdpi-v4/gc_arrow_little.png
+SHA1-Digest: 4pGMp747bRpkgNfuG30kPXZWgj0=
+
+Name: assets/scripts/atomAnimTable/grade.lua
+SHA1-Digest: Cdbr36jKSwb+tp5MiX9DLMyIb7I=
+
+Name: assets/scripts/tt.lua
+SHA1-Digest: INPSQn6ehAE3yICOPgJz1Dmssl4=
+
+Name: res/drawable/umeng_update_title_bg.xml
+SHA1-Digest: lKUqlCtptduTaz4NroijWqTnGRI=
+
+Name: assets/unicom_account/accountsdk_2_radio_checked.png
+SHA1-Digest: dQUUf74EtFxspXouCf1xCFRpfHc=
+
+Name: assets/images/kwx_lobby/di/6.png
+SHA1-Digest: ih/K1AOyKVO4f5XxbnOgr1iXnNk=
+
+Name: assets/images/common/scenc_title_left_bg2.png
+SHA1-Digest: 7AEVDToxP7lopgBK3cjX+GfR4hs=
+
+Name: assets/scripts/ui/image.lua
+SHA1-Digest: 3PMqXySxfgSS8HDWyjp2tSHMC8Y=
+
+Name: assets/images/common/scenc_top.png
+SHA1-Digest: X+Z/61lcKzxOfKuLjryYQ66n2Xs=
+
+Name: res/layout/hfb_rdowap.xml
+SHA1-Digest: EL9d5wAIR4OncoEfCSpv4HD6Nrs=
+
+Name: assets/images/kwx_room/roomBG.jpg
+SHA1-Digest: RfoHvLVeTKiqh4KqMT/GRNCSUAE=
+
+Name: assets/audio/ogg/audio_exp_1009_2.ogg
+SHA1-Digest: ZjIEMT7UJji7eDqdlwu3FIB14EQ=
+
+Name: assets/scripts/popu/room/gameOverDrawPopu.lua
+SHA1-Digest: 8TBLBO6p4lhh5pWID0zEo6xQ+VI=
+
+Name: assets/images/kwx_common/img_noTitleBg.png
+SHA1-Digest: 1P2saa9DCo031O2Bzgttwq1jfKs=
+
+Name: assets/images/kwx_erJiCommon/img_commonBG.jpg
+SHA1-Digest: meW3zy1Do/lrAgUA9iBmB63y1l8=
+
+Name: assets/mmiap/image/vertical/keyboard_button.png
+SHA1-Digest: CtkhOTa03WkL0Ra8zpjAIpBpBhg=
+
+Name: assets/images/kwx_lobby/number/5.png
+SHA1-Digest: IIHnDG/gh/BNF+HrQLPkk84LscI=
+
+Name: assets/images/kwx_tanKuang/bigGift/img_title.png
+SHA1-Digest: E/Piy5lrmcmq/HdYz8rYYXLTPtU=
+
+Name: assets/audio/ogg/common/woman_card_26_1.ogg
+SHA1-Digest: Xf2IFq6ObKKHt0RbvB49ThzR33c=
+
+Name: assets/scripts/popu/lobby/rankPopu.lua
+SHA1-Digest: QH8tfk5nTuH15ZX81dai6Kld2go=
+
+Name: assets/scripts/popu/public/firstPayBagPopu.lua
+SHA1-Digest: 7K3M1Q23mHbs10F8Tb6SQpmDMaQ=
+
+Name: assets/scripts/manager/testToolManager.lua
+SHA1-Digest: NUUOzvBUEGpyhIhlOWgeG8cAmrw=
+
+Name: assets/images/kwx_room/room_gameOver/number/4.png
+SHA1-Digest: KoD7DNB3zW+th827fx7UVNz8fkY=
+
+Name: assets/images/common/buttons/red_samll.png
+SHA1-Digest: zf36+NCf0ZUmDjVX8i18UKjdeH0=
+
+Name: assets/scripts/popu/lobby/eMailPopu.lua
+SHA1-Digest: Lawifq3mPfuxt1haAHaE32OQURQ=
+
+Name: assets/images/kwx_shop/img_exchangeClickedl.png
+SHA1-Digest: 6vv5jer2rHVI9r01qWFs1kYTdhI=
+
+Name: res/drawable-hdpi-v4/gc_notification_icon.png
+SHA1-Digest: +53B82q34N5hSHzbygerf690LLU=
+
+Name: VERSION
+SHA1-Digest: I1ExbF+Kn1/R7/nicofWkTVz8Yk=
+
+Name: assets/audio/ogg/kwxmj/woman_card_25_1.ogg
+SHA1-Digest: QcTZpKdjsmfLAwEbcuvATmmORIY=
+
+Name: assets/unicom_account/accountsdk_2_float_bg_expand3.9.png
+SHA1-Digest: HczhEsY3KJj/IStKfeylk8Ct6hc=
+
+Name: assets/images/kwx_room/gamebox/btn_box_silver_3.png
+SHA1-Digest: iIL1wimucPc/QTl9VfLHJo/ONLU=
+
+Name: assets/scripts/core/serializer.lua
+SHA1-Digest: tLlMx64P2p9z+sE7FPoanFH4lgw=
+
+Name: assets/scripts/core/ex/resEx.lua
+SHA1-Digest: lLR6htd+3tpwQgP8suexzCaQoow=
+
+Name: assets/audio/ogg/common/woman_card_16_1.ogg
+SHA1-Digest: f+Ct92CnmGqCRyeZB8CsXiXiQ54=
+
+Name: assets/mmiap/image/vertical/keyboard_button_hide_press.png
+SHA1-Digest: WAHk880AZV9IqRxg5mi/hvUmwPk=
+
+Name: assets/scripts/utils/richConfig.lua
+SHA1-Digest: Og/OR332I+LeoY1Eb8l3k8vHCA0=
+
+Name: assets/unicom_account/accountsdk_2_icon_new.png
+SHA1-Digest: Us89N0q6E/kJi7NBsAD94sYYPYU=
+
+Name: res/layout/hfb_padquery.xml
+SHA1-Digest: DqrDNtHF+9QBaqavaqOoGt2c7ng=
+
+Name: assets/audio/ogg/common/man_card_15_1.ogg
+SHA1-Digest: 6FCjBuy7sWMF8aAdTLC4bZKYOac=
+
+Name: assets/audio/ogg/common/woman_card_11_1.ogg
+SHA1-Digest: BFuny3wq+NYWD3K7I+Il9aGmb1c=
+
+Name: assets/scripts/atomAnim/resEx.lua
+SHA1-Digest: NqvZ8R1I/pKxDyxAUNPsianXEm0=
+
+Name: assets/mmiap/01/icon_f.png
+SHA1-Digest: Y/MVsq4T3fTNc6qHrIDVxy39Rtg=
+
+Name: assets/scripts/common/globalConstant.lua
+SHA1-Digest: +BasjrQr7SzBij/pn6yVLR1dZEU=
+
+Name: assets/scripts/ui/radioButton.lua
+SHA1-Digest: 4FWZZ/B7Xz/6VMGSBozBlscsiog=
+
+Name: assets/images/kwx_room/room_timer/img_timer6.png
+SHA1-Digest: JLKOKMal/f3TNnzd3iM70duY65M=
+
+Name: res/layout/hfb_upgrade_notification.xml
+SHA1-Digest: bsU1JDvoJ5MCo8kO63b3qHxxFNs=
+
+Name: res/drawable-hdpi-v4/qq_share.png
+SHA1-Digest: 4lt4CgOaQl1w8Q7KYdEA0CHqaFo=
+
+Name: res/layout/notification_inc.xml
+SHA1-Digest: 98llmOCCVHGRFMo9W0yMZFUyGHA=
+
+Name: assets/images/ui/radioButton2.png
+SHA1-Digest: G7w4RUZYiaBvnlWwDrTz9HcKg00=
+
+Name: assets/audio/ogg/common/man_card_26_1.ogg
+SHA1-Digest: vGdzRrphsiH9NQm8/shhSU9Lxug=
+
+Name: res/drawable-hdpi-v4/gc_center_safely.png
+SHA1-Digest: WTbP4uJldJQE1lmcIuYTAV2RfVs=
+
+Name: assets/audio/ogg/kwxmj/man_card_26_1.ogg
+SHA1-Digest: lD/snAW/LXZx6CT3uLVxxuToxaU=
+
+Name: assets/images/kwx_tanKuang/gameBox/number/5.png
+SHA1-Digest: 7pZX+fkqSDDxKeftdkZC0AMN5IQ=
+
+Name: assets/scripts/common/toolKit.lua
+SHA1-Digest: ZNTFbmCc81bp8PkiAyLC6mnyXD0=
+
+Name: assets/audio/ogg/common/man_card_16_1.ogg
+SHA1-Digest: BiEpdVBeX4QMJ3DaOyUOUUt4WmY=
+
+Name: assets/scripts/lobby/ui/lobbyCoinNode.lua
+SHA1-Digest: 6f6iCq5IoPmp+H9ykdn0PnqH+zY=
+
+Name: assets/scripts/popu/room/roomChatPopu.lua
+SHA1-Digest: 1Fd8KpZIYgnsKQOlZY7rpRrs3/w=
+
+Name: assets/scripts/core/drawingPatch20.lua
+SHA1-Digest: 3F+WHz3tCbVLAmydC+2z9dxjdUs=
+
+Name: assets/scripts/view/kScreen_960_640/modifyPortraitLayout.lua
+SHA1-Digest: GQ7gYgYcWvAcIxsSuyoPolyIy20=
+
+Name: assets/scripts/common/cacheFunction.lua
+SHA1-Digest: dSlO17hO1ykJ/xce4QsztkOW8g4=
+
+Name: assets/scripts/data/dataList.lua
+SHA1-Digest: tbDeW0jRvXpP3ZX3wA1yF4YtQ80=
+
+Name: res/drawable-hdpi-v4/gc_payment_icon.png
+SHA1-Digest: c93FHMet1QzCrBhz4YveYYQzTv8=
+
+Name: assets/audio/ogg/audio_deal_card.ogg
+SHA1-Digest: +bMFihteFXmLn7KkNcq22lSAH68=
+
+Name: assets/images/kwx_lobby/img_coin.png
+SHA1-Digest: B6AiswCqQ9yMdZujpAuRkDdc2V0=
+
+Name: assets/scripts/room/gbmj/entity/myGbCardPanel.lua
+SHA1-Digest: 8vuTwj3ZfO3UchWRhF/5LHUoMgM=
+
+Name: assets/images/kwx_room/accounts/negative/8.png
+SHA1-Digest: 7OEXlHDPKv6xlbnSd7mGtw7168c=
+
+Name: assets/images/kwx_rank/img_zhanshenClicked.png
+SHA1-Digest: ZxzWkhZi8NYaWmnZptV/tnckqZk=
+
+Name: assets/scripts/config.lua
+SHA1-Digest: VUojmfrHIztttacg1IUQg6shpvE=
+
+Name: assets/scripts/room/gdmj/gdmjRoomController.lua
+SHA1-Digest: +6Aj0r8/BD6/67ywcHcE3HV2XGo=
+
+Name: assets/inc_btn_emphasize_normal.png
+SHA1-Digest: E/xaOz/cAWHN86DcjGye2tD9J4c=
+
+Name: assets/images/kwx_mail/img_msgbg.png
+SHA1-Digest: G93hxdtFmu6jIu3dpKKdZ1+F6ss=
+
+Name: res/drawable-hdpi-v4/common_btn.png
+SHA1-Digest: h4h+g/ay4bIzZwhcGU7bfleNGqY=
+
+Name: assets/scripts/view/kScreen_960_640/buyGoodsLayout.lua
+SHA1-Digest: FFYVhO1KxNnx9Mol65JVNZsiKqU=
+
+Name: assets/unicom_account/accountsdk_wobireceive_notice.png
+SHA1-Digest: BGXB2Faj52krwfF+zs74YxTz1BQ=
+
+Name: assets/scripts/animation/animationCoinFly.lua
+SHA1-Digest: 3KFy4eFKyqoT6+zVN1q8w7KhLE0=
+
+Name: assets/scripts/atomAnimTable/left_oppo.lua
+SHA1-Digest: 6DRaRudT6hOWim3D9TX8nwXdd0I=
+
+Name: assets/images/animation/shaizi/5-4.png
+SHA1-Digest: rm4g4NzJgMcGgbckNeUt8spWRkU=
+
+Name: assets/scripts/popu/public/userInfoPopu.lua
+SHA1-Digest: X/LsqOkIiVxGJ7fb31Av7WH8Gkw=
+
+Name: assets/images/kwx_tanKuang/lobbySetting/btn_maxSound.png
+SHA1-Digest: obBXEbiNNgsqClxvWz1sj0KHxVA=
+
+Name: assets/images/kwx_room/moneyNum/lose5.png
+SHA1-Digest: KJTeWP9SCHhHZ9hIU47Cg2WTENk=
+
+Name: assets/audio/ogg/kwxmj/man_card_17_1.ogg
+SHA1-Digest: pK8A73+sCaGYFHyMDR1rlId6Oyk=
+
+Name: res/anim/umeng_socialize_fade_out.xml
+SHA1-Digest: mATuWnKwSQ4VWpfkM+oC8E7hENg=
+
+Name: assets/images/kwx_room/room_gameOver/btn_share.png
+SHA1-Digest: 9Pdx9/MAdg7cPskNohKqblDQR8M=
+
+Name: assets/images/common/scenc_title_left_decorate.png
+SHA1-Digest: 0v9D69fe11FsrgdivqBVy+WJEVQ=
+
+Name: assets/images/kwx_chat/img_commonUse_bg.png
+SHA1-Digest: fluIWUd40XUp6YAQty/lVo1cUnk=
+
+Name: assets/images/kwx_anim/levelUp/levelUp3.png
+SHA1-Digest: fjEHKaiLhQv+D52gRwZfhPHXD20=
+
+Name: assets/images/kwx_lobby/number/7.png
+SHA1-Digest: JeM+6TvCVe6461LgpaT1Dva1Jt4=
+
+Name: assets/images/kwx_anim/levelUp/img_light14.png
+SHA1-Digest: zRqM7Jr9/gWevDPXErPCpGHRjjo=
+
+Name: assets/unicom_account/accountsdk_2_btn_green_press.9.png
+SHA1-Digest: 9N22JHjnyUtmvD/0JRFVxwrziJI=
+
+Name: assets/unicom_account/privilege_button_unfolded.png
+SHA1-Digest: CAr9teDWOqFWq5uJlUtVDVbKb7s=
+
+Name: assets/images/kwx_room/room_timer/img_timer9.png
+SHA1-Digest: Mlu1e6Npz1ApxzV+XTQVhty1IjI=
+
+Name: assets/images/ui/sliderFg.png
+SHA1-Digest: BJeQeKNTucT+tPAPxUGfbmTOr2Q=
+
+Name: assets/scripts/libEffect/shaders/mirrorVertical.lua
+SHA1-Digest: RLvAphgMv3f6h35H611zx3Fd4dU=
+
+Name: res/layout/hfb_alert.xml
+SHA1-Digest: bVF8TEkk+oiir8pBRVq1rVGsVQQ=
+
+Name: assets/images/kwx_anim/lobbySelect/img_select8.png
+SHA1-Digest: xcXiGYLAIuuoIW/GqdCqJchIYSI=
+
+Name: assets/images/kwx_anim/lobbyQuick/img_quick8.png
+SHA1-Digest: Es1uLUiwdd4qbG0ZOdLK+mkH0oI=
+
+Name: assets/scripts/ui/scrollBar.lua
+SHA1-Digest: 3oKl8u1TQZldNoSFKsHqwCpM2ag=
+
+Name: assets/audio/ogg/common/man_card_19_1.ogg
+SHA1-Digest: xE7x7KieqDWTtwzQhpd5zhIvPRE=
+
+Name: assets/images/kwx_anim/levelUp/img_light6.png
+SHA1-Digest: rxhlnXjK2EB8xvRZCL1KGxbvHpo=
+
+Name: assets/scripts/data/hallConfig.lua
+SHA1-Digest: g395Y9w27lscUkHyvr9L1jHU/jM=
+
+Name: assets/images/kwx_erJiCommon/btn_tagNormal.png
+SHA1-Digest: AWxZI/hw7I+bLa0K6VV8ODyRtBs=
+
+Name: assets/images/kwx_lobby/number/4.png
+SHA1-Digest: DKtRFs7pSIrHAuFmVMVzjTmVFEk=
+
+Name: res/raw/platform_config
+SHA1-Digest: D95+C4xZL5cD7rrznW4huAFMLjQ=
+
+Name: assets/mmiap/01/bg.png
+SHA1-Digest: sm10r5xm5xgIXfeSVVwLtZUDo8A=
+
+Name: res/drawable/umeng_update_button_cancel_bg_focused.xml
+SHA1-Digest: 1071EpuS6ab1CIimk+q29Fo6Z6E=
+
+Name: res/drawable-hdpi-v4/gc_game_service_tel.png
+SHA1-Digest: 4AR3nvOBWXQ2Xd7IHNs/A/O3kWE=
+
+Name: assets/scripts/view/kScreen_960_640/rankSelfTuHaoItemLayout.lua
+SHA1-Digest: 4GmIhgRgZSbszN2oIq5U/WtD9R4=
+
+Name: assets/scripts/data/firstPayBag.lua
+SHA1-Digest: HB7ik2PO2rN7GbQAh93TgEWO7Sw=
+
+Name: assets/unicom_account/accountsdk_2_icon_progress_2.png
+SHA1-Digest: NGP08GLH/Rm7NSyoS0tMQdmvId8=
+
+Name: assets/images/kwx_room/room_player/woman_2.png
+SHA1-Digest: Nhm3HeajKewa2R34TUS/PCDWwZo=
+
+Name: assets/images/kwx_shop/img_goldClicked.png
+SHA1-Digest: 9cTNyLv7XAVcQInCn2JolSgUTjY=
+
+Name: assets/scripts/gameBase/gameEffect.lua
+SHA1-Digest: ub8FBh2N95ySQ6TG9OvAeAqZXpI=
+
+Name: assets/mmiap/03/loading.png
+SHA1-Digest: F/+VFVjbI3Rcwj/oEo94pUJqTBA=
+
+Name: assets/images/kwx_room/gameOpeation/cancel_btnpress.png
+SHA1-Digest: 7Yt7rFwl556DHCSJqbsxU/Sm7dE=
+
+Name: assets/images/kwx_common/img_enterKuang.png
+SHA1-Digest: zkq6Pa2zaZ7zj0jK33YTT08zO/o=
+
+Name: assets/images/kwx_tanKuang/lobbySetting/img_processBg.png
+SHA1-Digest: 6sf5BrZ+TqaM/A4WSo81pWlksuc=
+
+Name: assets/images/ui/image.png
+SHA1-Digest: zrEthdTVviXFQlr2UvCVT2OVhw0=
+
+Name: assets/scripts/mjSocket/common/commonReader.lua
+SHA1-Digest: 1M35z/f01JDRUOPsgKxyURwNpEI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: OwpZ+fqyi1nyI5mdnkeXnMrcHJg=
+
+Name: assets/images/kwx_room/img_chestNumber.png
+SHA1-Digest: duDNddmrW9Ydkd2nSZzstXsOlFY=
+
+Name: assets/scripts/swfTween/drawingex2.lua
+SHA1-Digest: taZ1HdyajWdYfYtnLFzdM+9kFVc=
+
+Name: assets/scripts/popu/lobby/help_gd_string.lua
+SHA1-Digest: pqvWJJ4m/NcQsA3BoBCvctL0H9Y=
+
+Name: assets/images/ui/switchPendingImages/static.png
+SHA1-Digest: 1fr2wMeF4PYuyLuwNZSHb/XH8qc=
+
+Name: assets/scripts/mjSocket/shmj/shmjProcesser.lua
+SHA1-Digest: fVyrQK55h9nRBH/FRn0RaDKmieI=
+
+Name: assets/com.tencent.open.config.json
+SHA1-Digest: TCAijjFuxJdEM20Vc3Fnk4fUJoQ=
+
+Name: assets/images/kwx_tanKuang/roomUserinfo/img_head.png
+SHA1-Digest: rdI/RZY7W3qJ9e3sBDgGj+aLYwo=
+
+Name: assets/audio/ogg/kwxmj/woman_bugang0.ogg
+SHA1-Digest: fe+Ycdqzhq5mqW9pPa8gBypdzBM=
+
+Name: res/drawable/umeng_update_dialog_bg.xml
+SHA1-Digest: 7BrUbaYZi+GcpqrXcYVz7nuVOf8=
+
+Name: assets/images/animation/shaizi/2-4.png
+SHA1-Digest: U3BIZ9zybOm57DoWY7EpzfNVppA=
+
+Name: assets/unicom_account/accountsdk_2_inputbox.9.png
+SHA1-Digest: BYrkPYRr6LjCkfrgim7gO5e/gmA=
+
+Name: assets/scripts/data/ruleData.lua
+SHA1-Digest: 70523YgGJD2K2P9rbmfQMoTX6QA=
+
+Name: assets/scripts/particle/particleSystem.lua
+SHA1-Digest: w/ICD1gC6NeS2ftOsqbaLgmG5Kw=
+
+Name: assets/images/kwx_room/accounts/positive/2.png
+SHA1-Digest: Bzi9wSKUtZ68dNblIH1fAc/jJ1M=
+
+Name: assets/images/kwx_room/img_tableInfoBg.png
+SHA1-Digest: sQF/KKOesSnSVE+L8VjRe+NUEZQ=
+
+Name: assets/images/kwx_room/btn_giveCoin.png
+SHA1-Digest: 55nYIwwp07+f8ipKBfbbRTxKvAU=
+
+Name: assets/scripts/mjSocket/gbmj/gbmjProcesser.lua
+SHA1-Digest: zFsjLXzAq/gxOyp4RFWKMhSUYNU=
+
+Name: assets/com.tencent.plus.logo.png
+SHA1-Digest: B+1AMe3cF/KE17U2+A9Ol1T9mEA=
+
+Name: assets/buttonPost.png
+SHA1-Digest: jAZacXy5ocEht6Mv0CIw6+BDN/w=
+
+Name: assets/images/kwx_room/moneyNum/lose8.png
+SHA1-Digest: aL58AsjiSLx5cxRxKoj/EVkkkcw=
+
+Name: assets/images/animation/shaizi/4-3.png
+SHA1-Digest: Y7h4LsH6qIInSc73ngbx62PLfKs=
+
+Name: assets/images/animation/roomAnim/chi.png
+SHA1-Digest: bugTXkG/jhmN7S30jNzaG8efmiM=
+
+Name: assets/mmiap/02/vertical/sucresultdialog.xml
+SHA1-Digest: wsfdb/8foKfpa64DfpIlGEQRpUQ=
+
+Name: assets/scripts/pay/unitePay.lua
+SHA1-Digest: 9Nmm5Ji+VTAPUsfsstaLfYQS840=
+
+Name: assets/images/kwx_room/accounts/img_level2.png
+SHA1-Digest: R0aaM9RmeqSZFLlAXpdaPTSimSg=
+
+Name: assets/images/kwx_lobby/img_quickGame.png
+SHA1-Digest: M6vHQ+FS9eJ39a1W/Nea8dKaTHI=
+
+Name: assets/audio/ogg/audio_ting.ogg
+SHA1-Digest: ra/uPDEggiO+hjLnL+k9S7Oo+6U=
+
+Name: assets/scripts/common/httpModule.lua
+SHA1-Digest: 0wg/nyMrfAgHQip1ruxMUHfE45g=
+
+Name: assets/images/kwx_common/img_dikuang.png
+SHA1-Digest: jrqSCcErt5+DO4frL+mvZYf+/HQ=
+
+Name: assets/images/kwx_tanKuang/bankrupt/1.png
+SHA1-Digest: c+giTDRmvwLkzReMhUU34h4IDrI=
+
+Name: assets/images/kwx_buyGoods/btn_cut.png
+SHA1-Digest: cMV44xGzrWG+ggk1WfXWYJLau54=
+
+Name: assets/images/kwx_room/room_gameOver/lost/img_chibang_r.png
+SHA1-Digest: Hy4IXg4uFi1UsDL7o2mDC73nmAk=
+
+Name: res/drawable/hfb_merdesc_info_bg_3.xml
+SHA1-Digest: hZ/ScWmO9dHm8DOL19ETC8Hm+UY=
+
+Name: assets/scripts/atomAnimTable/shine.lua
+SHA1-Digest: 7DnjxeAXg28Zm4azMYjEqwgwWtM=
+
+Name: res/drawable-hdpi-v4/umeng_update_btn_check_on_focused_holo_ligh
+ t.png
+SHA1-Digest: OPd6H183jIbgtjLlC2gEX9NZh4w=
+
+Name: assets/images/animation/roomAnim/quanquan2.png
+SHA1-Digest: Hdorf67Vafe/rGniqS6sfGiRuvw=
+
+Name: assets/audio/ogg/common/woman_card_25_1.ogg
+SHA1-Digest: MKk4QxJ0VjRP1D9cExRHcLN0fAU=
+
+Name: assets/mmiap/03/bg2.png
+SHA1-Digest: FxglQyxK66Zuxcq3JKkVMxuqj0s=
+
+Name: assets/images/kwx_mail/inviteTipBg.png
+SHA1-Digest: sSjTuzT9W1lgLNP0oYTK4GRray8=
+
+Name: assets/scripts/popu/lobby/createRoomPopu.lua
+SHA1-Digest: 60fcDVLwRCYNMkHMG891QxF3dDY=
+
+Name: assets/images/common/line.png
+SHA1-Digest: D+LZanekhXeLb4PM8znF1ugjV3E=
+
+Name: assets/scripts/atomAnimTable/shanghai.lua
+SHA1-Digest: GIskxnBvyuNYhdIdp0Zxd9+0E3I=
+
+Name: assets/scripts/view/kScreen_960_640/room.lua
+SHA1-Digest: +Ic5HVNDadIkcRoV/Ql7t9bO8DQ=
+
+Name: assets/images/kwx_lobby/number/w.png
+SHA1-Digest: T9WDmHLxIJphSDyXOzUwwOYozUs=
+
+Name: assets/audio/ogg/common/man_card_18_1.ogg
+SHA1-Digest: FkVt238dX+KWllrmj8RjNMQAruw=
+
+Name: assets/images/kwx_help/img_playtypeClicked.png
+SHA1-Digest: pOctMPMvHPNZAY5zb/b9y5DAuag=
+
+Name: assets/images/kwx_tanKuang/sign/img_defalut_1.png
+SHA1-Digest: ujCAJ9PMbxGrLUCda2uKpcUDMzE=
+
+Name: assets/images/kwx_room/accounts/img_cai1.png
+SHA1-Digest: g5hGigjNNI4IUnDYqrBst5/eq/g=
+
+Name: assets/scripts/animation/friendsAnim/animationThrowBomb.lua
+SHA1-Digest: apJbuAFLVSuofBao0ywUTIwRgeI=
+
+Name: assets/images/common/scenc_title_left_bg1.png
+SHA1-Digest: gU6G7sLi+WrRJw4KUOBsOV7zCYI=
+
+Name: assets/images/kwx_tanKuang/gameBox/number/6.png
+SHA1-Digest: ibXGLTvl43VgL2xWyrcjU69wiWU=
+
+Name: assets/mmiap/03/button_back.png
+SHA1-Digest: 7Bwdo88LV52b4bn/nCb/ApIjHtA=
+
+Name: assets/images/common/scenc_title_bg.png
+SHA1-Digest: Z4DYMIdeJW49bF+2YOph9tEjFDw=
+
+Name: assets/scripts/view/kScreen_960_640/operatePanel.lua
+SHA1-Digest: 1T4fmRxLJXSD/QtpJ8WH8HJv3xQ=
+
+Name: assets/scripts/view/kScreen_960_640/rankTuHaoItemLayout.lua
+SHA1-Digest: 8c5Lv36P5RJwohlAhS10UBh3C+E=
+
+Name: assets/scripts/view/kScreen_960_640/billingItem.lua
+SHA1-Digest: +b8NWszbFZQwtNDm3E+OswoWa24=
+
+Name: assets/mmiap/image/vertical/logo1.png
+SHA1-Digest: N+e8Mchbjb5hiFPP7/Ogjq6hDWA=
+
+Name: assets/images/kwx_room/room_timer/img_bTimer.png
+SHA1-Digest: PS89QFDycD7yb1dklP5KkXP2Mjg=
+
+Name: assets/scripts/core/drawingPack.lua
+SHA1-Digest: P8LH/UgvaoyGq7Iy7l2AJ4KP9ps=
+
+Name: assets/scripts/animation/animFade.lua
+SHA1-Digest: XYcf1IoV/J3nqIraQm64+he81MA=
+
+Name: assets/scripts/view/kScreen_960_640/rankZhanShenItemLayout.lua
+SHA1-Digest: Eolb7FwTjq4pcQu4UeX2Y46W8xI=
+
+Name: assets/images/kwx_guide/img_tipsLeft.png
+SHA1-Digest: /fAV/i6Rm5WMaSd7pjB8/xQT/b0=
+
+Name: assets/images/kwx_uesrInfo/img_womanIcon.png
+SHA1-Digest: paQLi+TZeBVQK/3G4fgvyS6Gr2w=
+
+Name: assets/scripts/room/entity/roomTool.lua
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/images/kwx_room/room_gameOver/lost/img_chibang_l.png
+SHA1-Digest: lq2NUbU4iGJudrgouwfViFWpsac=
+
+Name: assets/images/kwx_room/exit.png
+SHA1-Digest: zzpeO7BWHrdfwpUDpHK8UtJ0RM4=
+
+Name: assets/images/common/window_common1.png
+SHA1-Digest: IWTy22fc187gNg/03epmRuI0VL4=
+
+Name: assets/scripts/tmp.lua
+SHA1-Digest: s/Ned7JjtZyqblOYeMJ+/2Vk8ko=
+
+Name: res/layout-v11/activities.xml
+SHA1-Digest: W6W6qUnizZtCgQyFwQEl2b3El+Q=
+
+Name: res/drawable-hdpi-v4/refresh.png
+SHA1-Digest: huK3JPpvEEuuXbdVk0V1/QsZNnk=
+
+Name: assets/scripts/popu/public/messageBox.lua
+SHA1-Digest: 4jVmjX0ittN8ObMMO+PZ2YD8yZU=
+
+Name: assets/unicom_account/accountsdk_2_float_btn_point.png
+SHA1-Digest: ua/lU89+wlVq9EA9aEXgoZxCrU4=
+
+Name: assets/scripts/view/kScreen_960_640/roomSetting.lua
+SHA1-Digest: 7eYeYM4ZVCdISt+Y+XcdY5iM/Mc=
+
+Name: assets/scripts/data/createRoomConfig.lua
+SHA1-Digest: 9Ro+gwmrkAOy5jsdNQqawuCm8oY=
+
+Name: assets/scripts/data/shop.lua
+SHA1-Digest: FGYdgHIvk8POoXIaKbqW9EoFyMo=
+
+Name: assets/background.9.png
+SHA1-Digest: M3YQ4bymCLlirCApFCkEMdWdqrA=
+
+Name: assets/images/kwx_anim/lobbyBottom/buttom8.png
+SHA1-Digest: 8VHYITgGHxaStsIBQOJOFuFwSBY=
+
+Name: res/drawable-hdpi-v4/separate_line.png
+SHA1-Digest: Xc+Q/d+LgmK7PrzaC3CmTnoJJo0=
+
+Name: assets/audio/ogg/audio_exp_1007_3.ogg
+SHA1-Digest: 4btXyURnph5z75m3zHrvztWk4J4=
+
+Name: assets/audio/ogg/audio_tip_operate.ogg
+SHA1-Digest: 7vdnLGgEmQxbf8lTN+juha0JWYQ=
+
+Name: res/drawable-hdpi-v4/fan_selected.png
+SHA1-Digest: 6hFFr7UTLooX1+jHhQb6kgn53qw=
+
+Name: res/drawable-hdpi-v4/loading_cloud.png
+SHA1-Digest: ZOugKFbURecHm1zd6CDypmSMm2Y=
+
+Name: assets/scripts/common/music.lua
+SHA1-Digest: aYQUTBWbGK22PhWOqfHxb2t7Jgg=
+
+Name: res/drawable-hdpi-v4/gc_and_icon.png
+SHA1-Digest: HiaTCedCjMIa/8/VOIWgQVx65DA=
+
+Name: assets/images/kwx_goodsInfo/img_goodsName_bar2.png
+SHA1-Digest: eRD6jCfm1isjiLVJBTS++kGB7yM=
+
+Name: res/drawable-hdpi-v4/hfb_ipt_bg.9.png
+SHA1-Digest: RQk8nYSosfPKlzI4eKfZ62BtiSM=
+
+Name: assets/images/kwx_anim/levelUp/levelUp1.png
+SHA1-Digest: fX9OuqiKdE/HaygjKl3Jj5ZMyVE=
+
+Name: assets/scripts/core/ex/easing.lua
+SHA1-Digest: 24Aruy/jiCJxuCuZTIqWH3mTbr4=
+
+Name: assets/scripts/pay/branch_pay/jidiLuoMaPay.lua
+SHA1-Digest: XS11bZb53AGO9ZvD18RActglXdM=
+
+Name: assets/images/kwx_task/img_task.png
+SHA1-Digest: L4ztpbemRFXmfJJ2CBkA23kPeh4=
+
+Name: assets/audio/ogg/common/man_chat_02.ogg
+SHA1-Digest: OC914lvk1wGeJxmmzqCGW7Bk6WA=
+
+Name: lib/armeabi/libmegjb.so
+SHA1-Digest: TPEHv9Xb7RqdHnlNJ+Dw1BhrDuw=
+
+Name: assets/images/kwx_room/gameOpeation/peng_btnnormal.png
+SHA1-Digest: 9ga7w8jt5QO8/PF8BCaFoorj8no=
+
+Name: assets/images/kwx_tanKuang/gameBox/img_oneHua_g.png
+SHA1-Digest: cn9fjMSjSQhAWG5lPp9MvgyBd6Q=
+
+Name: assets/scripts/spider/spiderError.lua
+SHA1-Digest: ie3R9oK5A0T/B/hlsqimqL1hLj8=
+
+Name: assets/scripts/popu/room/roomLoading.lua
+SHA1-Digest: CqDMHj0X4IOu1NOewisq6mqGN68=
+
+Name: assets/scripts/animation/friendsAnim/cheers_pin.lua
+SHA1-Digest: tH5Rl6WE0r/y3aD2hyGfK1D3mvk=
+
+Name: assets/images/kwx_tanKuang/login/btn_confrim.png
+SHA1-Digest: IYiUmjjRA1vwaJws39r2p2WjCNE=
+
+Name: assets/scripts/room/entity/card.lua
+SHA1-Digest: jcYaLancbX4C5nwr5yHqScYjyHg=
+
+Name: assets/scripts/main.lua
+SHA1-Digest: WTxEFMInPVjqD5InU+GGD/ogkww=
+
+Name: assets/images/kwx_tanKuang/bankrupt/6.png
+SHA1-Digest: VgVPusHuodtI+2LYvIUDmOvhIxc=
+
+Name: assets/images/kwx_guide/img_tipsBottomSmall.png
+SHA1-Digest: MZWagcQ5ZS9dzyznoQlbN5o2oM0=
+
+Name: assets/images/kwx_uesrInfo/img_iconUserinfo.png
+SHA1-Digest: PBOgHY9y0mo2IIk0Hwimg+ZGbvY=
+
+Name: res/drawable-hdpi-v4/hfb_logo.png
+SHA1-Digest: ATwnFkdSVmzFt3zE/FQQJ9aNejM=
+
+Name: assets/inc_click_down.png
+SHA1-Digest: rJBvqYzhvpAOiXfGJP1+Ex1DO9U=
+
+Name: assets/images/kwx_room/accounts/img_title.png
+SHA1-Digest: HVyzh5MDwJpGMBBNcC3GxhaBWwo=
+
+Name: assets/audio/ogg/common/woman_card_21_1.ogg
+SHA1-Digest: 30RuEpmo0TN1qqlw7gxXIz/x0Yk=
+
+Name: res/drawable-hdpi-v4/start_screen.jpg
+SHA1-Digest: H/JSF7NaiFpdf6WOAXYRV6XSA4c=
+
+Name: assets/scripts/atomAnimTable/coinflash1.lua
+SHA1-Digest: ShwYoUE5CaMWBjM16gpuJo7fDbw=
+
+Name: assets/scripts/libEffect/shaders/frost.lua
+SHA1-Digest: pYg3x3d885MxfD+uvVmtQxitFRg=
+
+Name: assets/images/kwx_help/img_fanshu.png
+SHA1-Digest: wYKWAmeqXsXKVRegrG9QfdPn+ic=
+
+Name: assets/images/kwx_common/img_entryK.png
+SHA1-Digest: e8M3WCYuVX68DGrY+/ji6C43GpA=
+
+Name: res/drawable-hdpi-v4/yanwu0001.png
+SHA1-Digest: raNIiZ4itCgYT4Lcr/W73np1xCI=
+
+Name: assets/images/kwx_room/accounts/img_cai3.png
+SHA1-Digest: aJePnhUtdfMhSaxJ5y3eMbAM/JI=
+
+Name: assets/audio/ogg/kwxmj/man_card_33_1.ogg
+SHA1-Digest: ItcYbf9WbwrE9TT+K7E3TvQhKTQ=
+
+Name: assets/images/animation/shaizi/4-4.png
+SHA1-Digest: D/5UNyBAorllyzH6hw2dD0XFNMA=
+
+Name: assets/scripts/view/kScreen_960_640/historyLayout.lua
+SHA1-Digest: l51VdlhLWZneCGIB4WXAG8d92Bw=
+
+Name: assets/scripts/common/ui/broadcastPaoMaDeng.lua
+SHA1-Digest: n2cqBZiGIP0iqbaAtk8zBeBS5EM=
+
+Name: assets/scripts/core/global.lua
+SHA1-Digest: AbyWWYIkQblaLyAeO+cZ46UEOv4=
+
+Name: assets/audio/ogg/common/woman_card_14_1.ogg
+SHA1-Digest: wgtbhqCEWqWQB9EHb+JqyoXS5+k=
+
+Name: res/drawable-hdpi-v4/input_box.9.png
+SHA1-Digest: fReVwVGp/3uJTE2zhjJuxwb4f6E=
+
+Name: assets/images/kwx_goodsInfo/img_goodsName_bar.png
+SHA1-Digest: wy/JQevzv9e4X1JQGbfWVPxR4M0=
+
+Name: assets/images/kwx_anim/lobbyQuick/img_quick3.png
+SHA1-Digest: 9jPz2iNsbdb/60OiltgQSrRz7Fw=
+
+Name: assets/audio/ogg/audio_get_card.ogg
+SHA1-Digest: NDfWeKHEEvsldsVYeRiEjZPWJDA=
+
+Name: assets/audio/ogg/common/man_chat_07.ogg
+SHA1-Digest: 9Mes+UxHifwWJZ43gubsP3NOscA=
+
+Name: res/drawable-hdpi-v4/gc_share_sina.png
+SHA1-Digest: oZLDz/oeszo2UfL3idAMBfpLLBI=
+
+Name: assets/images/kwx_room/room_gameOver/number/1.png
+SHA1-Digest: xxNmOL+Ry6OoxS2sT0xmHIhL8HU=
+
+Name: res/drawable/umeng_update_button_ok_bg_selector.xml
+SHA1-Digest: LhXkZeaInsT78bX1Xw0WvyXOGNk=
+
+Name: assets/images/kwx_room/gameOpeation/img_cardBg.png
+SHA1-Digest: bqcgymX0WReFJ9C3zVZADu7Y7GQ=
+
+Name: assets/scripts/atomAnimTable/guobiao.lua
+SHA1-Digest: k6b8YOqqIV8lgZX01WaJ3Jak4Pk=
+
+Name: assets/scripts/mjSocket/common/commonWriter.lua
+SHA1-Digest: HSnGBbxX9kRjS0NwRgKv2v9BK30=
+
+Name: assets/images/kwx_tanKuang/login/img_checked.png
+SHA1-Digest: moDJxtXctlk7TD8Ey95rEtGJux8=
+
+Name: assets/images/kwx_room/gameOpeation/gang_btnpress.png
+SHA1-Digest: 1Dx9w+PvuNT4BCDKZb4ywwN6ru4=
+
+Name: assets/mmiap/image/vertical/infoline.png
+SHA1-Digest: RYUCPPwehYMWB3iUCJ9WRAX/dMQ=
+
+Name: assets/scripts/room/entity/choiceView.lua
+SHA1-Digest: MN1abbxffrgVVpAMII0HceO12pM=
+
+Name: assets/images/common/female_icon.png
+SHA1-Digest: +JbDgb4MjO5LgJfkk3rplgC3wcM=
+
+Name: assets/scripts/animation/friendsAnim/sendRose_pin.lua
+SHA1-Digest: HGwzHJ+rMp11qVF0xIrtqNc8HS8=
+
+Name: assets/inc_setup_bg.png
+SHA1-Digest: cUrBLUK8AMshgLJWgFxmWSYiCWQ=
+
+Name: assets/mmiap/01/vertical/savingdialog.xml
+SHA1-Digest: 1gsLjRjsHZ5RgG6cBrIRu2ibZfU=
+
+Name: assets/scripts/core/res.lua
+SHA1-Digest: +rxte8DbxGIKNFds87kBEDX0mUk=
+
+Name: assets/scripts/view/kScreen_960_640/noticeItemLayout.lua
+SHA1-Digest: QMRqTy0tLN0vf3GThsEGlMZrXZ4=
+
+Name: assets/scripts/atomAnimTable/coinflash9.lua
+SHA1-Digest: XfiK7+UT7hr1IQ/v7q4rQi4qG1k=
+
+Name: assets/images/kwx_lobby/img_redNumbe.png
+SHA1-Digest: dXQPrY/LhF+osYxt22MOM2VEhuo=
+
+Name: assets/scripts/atomAnimTable/test.lua
+SHA1-Digest: TKsMtr0A7MqRhKBbDHGIUjLRoXc=
+
+Name: res/drawable-hdpi-v4/gc_edit_del.png
+SHA1-Digest: GYGG1Rd7rWa+0yMnN9vf4yHus9I=
+
+Name: assets/scripts/mjSocket/gdmj/gdmjReader.lua
+SHA1-Digest: dt50ehs6TezXBq2s9A07exaqyfQ=
+
+Name: assets/images/kwx_anim/lobbyBottom/buttom7.png
+SHA1-Digest: NdezkNf7ILp4M60sSGG27esEmjc=
+
+Name: assets/scripts/particle/particleFireWork.lua
+SHA1-Digest: Ygm6G5yI4CQSXRf1ELbGmakkPvQ=
+
+Name: assets/images/kwx_lobby/number/3.png
+SHA1-Digest: 35aguXMh2enc1AJEKZ67rKUw/5A=
+
+Name: assets/scripts/mjSocket/base/phpManager.lua
+SHA1-Digest: lEjfohlCQERbm7RISrLMZWATLf0=
+
+Name: assets/scripts/view/kScreen_960_640/roomPlayerInfoOther.lua
+SHA1-Digest: VveemWk166bLxHDFTxaLRI457Pc=
+
+Name: assets/images/kwx_task/img_iconTask.png
+SHA1-Digest: r26mVZIuQNBwhr86GfahjVdIMEY=
+
+Name: assets/audio/ogg/common/man_card_25_1.ogg
+SHA1-Digest: ZzXJS/S+d9dr4Th3VKAXZAHwULA=
+
+Name: res/layout/load_resource.xml
+SHA1-Digest: 4d37pQ/LAEwjEfugmrE1MGxralg=
+
+Name: assets/audio/ogg/common/woman_peng1.ogg
+SHA1-Digest: G13RCDcMY1QLwvJlTGfEeDCupy0=
+
+Name: assets/scripts/popu/lobby/taskPopu.lua
+SHA1-Digest: /Vf+NKom+T7h+Sk72I/fD+PLPT0=
+
+Name: assets/images/kwx_shop/img_remen.png
+SHA1-Digest: reN7YDrXg/XvulPv35dfiIkyPCA=
+
+Name: assets/images/kwx_anim/lobbyQuick/img_quick6.png
+SHA1-Digest: H4CzITSeGyrFtzFMWlXfBEobpoI=
+
+Name: assets/scripts/core/shaderManager.lua
+SHA1-Digest: e1iDVxgin0AiNzqI1W8UeQk05/A=
+
+Name: assets/audio/ogg/common/woman_hu2.ogg
+SHA1-Digest: rJaSBKmMlJYDDuYEKmVXRUEQK5E=
+
+Name: assets/scripts/ui/scrollView.lua
+SHA1-Digest: 1/G2UFt68xpwUq+lv2aJ9LH2kUA=
+
+Name: assets/scripts/animation/friendsAnim/animCurve.lua
+SHA1-Digest: /0LMdy4La6wZ4dv6WDFrC4pJf28=
+
+Name: assets/scripts/core/drawing.lua
+SHA1-Digest: q/RESBBAa6HclmCZQ4faJTeNH10=
+
+Name: assets/images/kwx_common/img_v_split.png
+SHA1-Digest: m0PCUPT3/LXNaB+GiqneAkXQZSM=
+
+Name: assets/images/kwx_room/room_timer/img_timer7.png
+SHA1-Digest: QcDLL2kuwQTSkHyOh4AKbHdh+ys=
+
+Name: assets/images/animation/shaizi/1-2.png
+SHA1-Digest: AnTTYzwXmXn4qjqZqrdf6BHu2XM=
+
+Name: res/drawable-hdpi-v4/gc_padview_pad_ic.png
+SHA1-Digest: ru1wL2QZC9jWpnlcsrbvE1eP5DI=
+
+Name: assets/images/kwx_mail/str_systemmsgN.png
+SHA1-Digest: g2cOQCsGHVPz3Zqu2tI1t3zLuaU=
+
+Name: assets/audio/ogg/kwxmj/woman_bugang1.ogg
+SHA1-Digest: 6Q8ECMiboUs6CNeG/DGJEkgtVIU=
+
+Name: res/drawable-hdpi-v4/gc_compact_logo.png
+SHA1-Digest: 5DTHKQbfpmc/mLSQSTPPEJkqyCI=
+
+Name: assets/images/kwx_rank/img_title7.png
+SHA1-Digest: ywzn+0zEbrAWD3EKzA/c8ai+u4M=
+
+Name: assets/images/kwx_tanKuang/bigGift/img_coin.png
+SHA1-Digest: 48+3EpqotGTMJgqighn8tFOIVe8=
+
+Name: assets/scripts/animation/animationBase.lua
+SHA1-Digest: 6sDiRtFtjFR+qBRga6jHvVng3WQ=
+
+Name: assets/mmiap/03/btn_gray_click.png
+SHA1-Digest: oynUUwfXfwXCFTgTcGZoHdJ5Ais=
+
+Name: assets/images/kwx_room/accounts/positive/6.png
+SHA1-Digest: quiJJTZ5XpHadtRbvZEoxBrzs0k=
+
+Name: assets/images/kwx_lobby/number/p.png
+SHA1-Digest: RXYk4I1Sbsh13CfAix9ZlF/daJM=
+
+Name: assets/images/kwx_common/img_man.png
+SHA1-Digest: dqPhu6tzKUpFqf0NvlqLVXzOoQs=
+
+Name: assets/images/kwx_common/img_h_split.png
+SHA1-Digest: QVZ4YUx08SrcmzcF06zqoeBYoQg=
+
+Name: assets/images/kwx_tanKuang/roomUserinfo/img_8.png
+SHA1-Digest: EGIWbOydnAGPFSVjEhkPQQ7KBu8=
+
+Name: res/layout/hfb_progress.xml
+SHA1-Digest: 2oDOstBj2yS+bxGsbBlOek8MxYM=
+
+Name: assets/images/kwx_lobby/number2/8.png
+SHA1-Digest: Ji8BkR42yICIJasf7Tmmu3inwzI=
+
+Name: assets/inc_setup.png
+SHA1-Digest: orkRefpmQEkLa+ar/kc9cL556+g=
+
+Name: assets/images/kwx_room/room_gameOver/detail/img_lost.png
+SHA1-Digest: I6ozEDEuiZYliAZN6Swsa4fyIwg=
+
+Name: assets/images/kwx_room/accounts/img_headK1.png
+SHA1-Digest: ERXs7y0R7joim+XAQ//e7d8zFYs=
+
+Name: assets/images/kwx_shop/img_coinNormal.png
+SHA1-Digest: +MaJu347dmnCs5vdFGakj4GL0sc=
+
+Name: assets/images/ui/switchPendingImages/5.png
+SHA1-Digest: 0i84cxaE3IM0TtI/x4NwfHk0lXk=
+
+Name: assets/audio/ogg/common/man_gang0.ogg
+SHA1-Digest: xFeLVAiHO19DoKz7ojyDrkpkXOM=
+
+Name: assets/images/kwx_rank/img_rank2.png
+SHA1-Digest: KmfVwmVgqdjTjrYT1caIkBBTIcE=
+
+Name: assets/scripts/atomAnimTable/moneybag.lua
+SHA1-Digest: wuWQzSK7Zr1rxBVvXLx7uagvflQ=
+
+Name: assets/unicom_account/accountsdk_2_icon_paytype_default.png
+SHA1-Digest: uMcQlMHmLDLiftEic/68hYZxbIg=
+
+Name: assets/scripts/mjSocket/gbmj/gbmjWriter.lua
+SHA1-Digest: NAOFWYRgtXvwl2YE+oxXelp0wrI=
+
+Name: assets/scripts/popu/lobby/noticePopu.lua
+SHA1-Digest: EYmSQOORuANGnwVRk7zDbypFIUI=
+
+Name: assets/ind.dat
+SHA1-Digest: ZUtmvrqbqXggeh/CsHNtWUv8GDM=
+
+Name: assets/com.tencent.plus.bar.png
+SHA1-Digest: Uqc6Y8bgiyAUESBhMAg2jzRRLpk=
+
+Name: assets/images/kwx_tanKuang/gameBox/number/2.png
+SHA1-Digest: xLDV6k+7OBp5VTXIzs0h0mzOsos=
+
+Name: assets/images/kwx_tanKuang/gameBox/img_prop_g.png
+SHA1-Digest: Cvz6ADm2abrddp8qmnhMNfGHoIs=
+
+Name: assets/images/kwx_room/gainCoin.png
+SHA1-Digest: J8j/sgQBOPvg8PQT1xw255Zx9nE=
+
+Name: assets/images/kwx_tanKuang/update/img_process.png
+SHA1-Digest: 5iJ3yFZqbXpKy400fLYs9brhIKs=
+
+Name: assets/images/kwx_goodsInfo/img_goodsTipNum_Bg.png
+SHA1-Digest: FwWXRIQ0g5HlrCjSGQa6Pm5QIFM=
+
+Name: assets/images/kwx_lobby/img_titlelxc.png
+SHA1-Digest: rsbdZJNKpYx3/BOp4hxhvJC3Mug=
+
+Name: assets/images/animation/resultless/resultless3.png
+SHA1-Digest: 5vKhT8ds9OqPaVSP79iUo5TbcNA=
+
+Name: assets/images/animation/shaizi/5-3.png
+SHA1-Digest: s2xDvUR2m5SSC09dXFo7yqGXfd4=
+
+Name: assets/images/kwx_lobby/di/1.png
+SHA1-Digest: aK/6ul1Tgjg4GUZeoZsMlkwEDxc=
+
+Name: assets/audio/ogg/kwxmj/man_gang_AG.ogg
+SHA1-Digest: Qm9QiMOpUkvrSZb/S3XPTsXSS+s=
+
+Name: assets/images/ui/switchPendingImages/3.png
+SHA1-Digest: o9Ky5nGXPcIivmXWjIKxG28UeVs=
+
+Name: assets/images/animation/lose/wind0007.png
+SHA1-Digest: x/dWZuPfZ7NP0G7TKcq9xZgAp8E=
+
+Name: assets/images/common/scenc_title_mid_bg2.png
+SHA1-Digest: KNSaKOdZ7/AkBH7moz+q4rvumvc=
+
+Name: assets/images/kwx_lobby/number2/1.png
+SHA1-Digest: zvY+ShgMU5ngbkJDdPtRi9JLHeo=
+
+Name: assets/images/kwx_tanKuang/gameBox/number/7.png
+SHA1-Digest: a5zakck85YCWADMJoVEBfZrd1Qw=
+
+Name: assets/images/kwx_lobby/lobbyBackGround.jpg
+SHA1-Digest: GlZvF0B1hPjYEJ0VAJv8gTU1Jm8=
+
+Name: assets/audio/ogg/kwxmj/woman_chat_08.ogg
+SHA1-Digest: EWHu2T3fJuJ+5W80spgazA+T2MU=
+
+Name: assets/images/animation/shaizi/1-1.png
+SHA1-Digest: e37xpDHMM2+Qly1E3pDhbrCV+GI=
+
+Name: assets/images/kwx_lobby/logo.png
+SHA1-Digest: 79jrbqbKO1fFvf0rpQoyjV62i3s=
+
+Name: assets/images/kw_tiaoKuang/img_fuwu.png
+SHA1-Digest: FUQuxsdh7339AJoj9iPaswMuyqM=
+
+Name: assets/mmiap/02/icon_info.png
+SHA1-Digest: Tzxt0fKmD3jerOCKPnUUJCGeoC8=
+
+Name: res/drawable-hdpi-v4/loading_gril_frame.xml
+SHA1-Digest: Zv4r9vMYHiaYziNPWd+7Sq46ZlI=
+
+Name: assets/images/kwx_room/moneyNum/win2.png
+SHA1-Digest: Rmr5nmLND4fnsgffui3RGpdzGEs=
+
+Name: assets/scripts/popu/lobby/helpPopu.lua
+SHA1-Digest: OgmEPCIUi//Cg0zJYU4dC9nS/U0=
+
+Name: assets/images/common/scenc_title_right_bg1.png
+SHA1-Digest: RVS818Y1iV5inQ9/QtmFRRBCf7M=
+
+Name: lib/armeabi/libcmcc_haze.so
+SHA1-Digest: fueu3Dw8foid97w9tOAzu3HB4os=
+
+Name: res/anim/umeng_socialize_shareboard_animation_out.xml
+SHA1-Digest: gtKpiE2Q5Vh+3JXd/5kWXef7bh0=
+
+Name: assets/scripts/core/dict.lua
+SHA1-Digest: n+1ClvOiBi+mWjtiXsZD4QJvZC0=
+
+Name: assets/images/kwx_mail/str_friendmsgP.png
+SHA1-Digest: w1t0PlOHKOhx44rzcCLeKnayi8Q=
+
+Name: assets/scripts/ui/textView.lua
+SHA1-Digest: nN1KdVJuIm4e9mRREbsWg2ASD6A=
+
+Name: assets/unicom_account/accountsdk_2_btn_back_press.png
+SHA1-Digest: +veRS3X2KHjVBLT3/EQD23imdWg=
+
+Name: assets/audio/ogg/common/man_bugang0.ogg
+SHA1-Digest: ZtjwxFjmRaLkkKPDu2TpJPM5Rjo=
+
+Name: assets/audio/ogg/common/woman_card_24_1.ogg
+SHA1-Digest: i3DHKUXjtX4zkGBdLisVLCQyZsk=
+
+Name: res/drawable/umeng_update_button_ok_bg_normal.xml
+SHA1-Digest: e2JtCfjXZHx8qXDkr8vUsLgkT20=
+
+Name: assets/images/kwx_room/room_gameOver/number/7.png
+SHA1-Digest: QOsP+6V4Tj6xSu0ciAPnT28V3/g=
+
+Name: assets/audio/ogg/common/man_card_14_1.ogg
+SHA1-Digest: FkCWk2XYjOBHQtVbFfrgJukokoA=
+
+Name: assets/images/kwx_room/room_timer/img_timer8.png
+SHA1-Digest: +3IKCcE4eBQ6C70qHk5ncSTIBtg=
+
+Name: assets/scripts/ui/ex/ScrollViewEx.lua
+SHA1-Digest: 5K8TBE8LiA8NPm49XJ5wACPVOms=
+
+Name: assets/audio/ogg/audio_tuo_guan.ogg
+SHA1-Digest: /vqzJ5D7HxEX+VVTf9Vf5UdYvkQ=
+
+Name: assets/images/kwx_room/img_headMask.png
+SHA1-Digest: urIO/Gga+SQocWDjhpwEsHZwjVs=
+
+Name: assets/images/kwx_lobby/btn_quickStart.png
+SHA1-Digest: MJ1Eqn9d1EnLQUE4ILzIVc14ib8=
+
+Name: res/drawable-hdpi-v4/checkbox.xml
+SHA1-Digest: A+p4qmpufL6V9JPLpZWgLyqUpRQ=
+
+Name: assets/images/common/hline.png
+SHA1-Digest: R3VEGouzQIzUX9Mdx7tcPlQV+Yc=
+
+Name: assets/images/common/buttons/scenc_back.png
+SHA1-Digest: JGAQ9pL/xGzM5NNiahLXLRbrLMs=
+
+Name: assets/scripts/motion/Transmission.lua
+SHA1-Digest: C0CoaD4xrRAgkuFFdt++urvUaO0=
+
+Name: assets/images/kwx_guide/img_tipsRight.png
+SHA1-Digest: LXYgS8cQTkOCH24cPFDjifwhx50=
+
+Name: assets/images/kwx_tanKuang/gameBox/img_coin_s.png
+SHA1-Digest: zvc98VZoPckzL1ohglQi6q4svmA=
+
+Name: assets/scripts/room/entity/userReadyView.lua
+SHA1-Digest: A2wakupKbnTvnH7GdCleySDyrU4=
+
+Name: assets/unicom_account/accountsdk_2_btn_green.9.png
+SHA1-Digest: 6gEy0Z35Kifvr33C2iFJ5A8Ilqk=
+
+Name: assets/scripts/popu/lobby/portraitPopu.lua
+SHA1-Digest: f9xH2Q/ZhnB8/HgMJH8M5OcV1aU=
+
+Name: assets/mmiap/image/vertical/keyboard_bg.png
+SHA1-Digest: 3Mvk4x4VIjjbqnqwrit50fGt9pU=
+
+Name: assets/images/kwx_mail/img_line.png
+SHA1-Digest: g4+zVjpDzVJI0ldJQ+4fD54qTZo=
+
+Name: res/drawable-hdpi-v4/gc_more_game.png
+SHA1-Digest: mhqZb9Kn8nZrRCz5pL6x8vEKPj4=
+
+Name: assets/mmiap/02/btn_gray.9.png
+SHA1-Digest: AQEiFMfV8+mmvD/zyyaa88X2Dq0=
+
+Name: assets/images/kwx_room/moneyNum/jin_icon.png
+SHA1-Digest: mUPWvVeacOI4CMq5bMkrSNT+JYI=
+
+Name: assets/images/kwx_room/room_gameOver/lost/img_lose.png
+SHA1-Digest: g8GANP4nVWfprcdqAFmCZO64jX0=
+
+Name: res/drawable-hdpi-v4/gc_user_center.png
+SHA1-Digest: iNNihr4IcIdnOkp6fWquaXd69IA=
+
+Name: assets/images/kwx_erJiCommon/img_infoBg.png
+SHA1-Digest: 2YFEmZSv1PyoA7PLdTt5y4Z9Xiw=
+
+Name: assets/audio/ogg/common/woman_zimo1.ogg
+SHA1-Digest: Cn8yHCHfn0O4MeqefN/zGgArRlc=
+
+Name: assets/audio/ogg/audio_ready.ogg
+SHA1-Digest: oOxfVxbAVrtgwLfaRO9aJTmn3Eo=
+
+Name: assets/unicom_account/accountsdk_2_checkbox_unset.png
+SHA1-Digest: Gl/qXLWvcS9eQtoqenmjHqgF3Eo=
+
+Name: assets/audio/ogg/kwxmj/woman_card_27_1.ogg
+SHA1-Digest: nIKXN34cGFA82kJN7dXFtt4NLak=
+
+Name: assets/images/kwx_rank/img_title5.png
+SHA1-Digest: pI/zEVTIenUoMjkQXed+yXJHmT4=
+
+Name: assets/images/kwx_mail/img_sysmsgmark.png
+SHA1-Digest: OgLjbmjWiCGF/cCueiJVX8E4+ww=
+
+Name: assets/images/kwx_buyGoods/btn_add.png
+SHA1-Digest: NPv2V8s/jBIAZ7HBmuHkURONUoQ=
+
+Name: assets/images/animation/shaizi/5-2.png
+SHA1-Digest: FwMT+FwxRMM4qQBGDOlMODo1cj8=
+
+Name: assets/audio/ogg/common/woman_card_19_1.ogg
+SHA1-Digest: RkTrwFEA6rAlZdP4b+uASeIJIwY=
+
+Name: assets/scripts/mjSocket/game/baseReader.lua
+SHA1-Digest: nIfmYmCjEE9UxRkQnu4Tb/Z5m8o=
+
+Name: assets/UnicomConsume.uwc
+SHA1-Digest: X56Fm83nYG8/xSC0ADDT+uFOUh8=
+
+Name: assets/arm64-v8a/libdecrypt.jar
+SHA1-Digest: XoA98BQlM4fcTi5w6ZK8jM++Pvo=
+
+Name: assets/mmiap/image/vertical/get_verificationcode.9.png
+SHA1-Digest: F93ixYNe+RkZVuToVd3p+g/AKUY=
+
+Name: assets/image/01/loading.png
+SHA1-Digest: +UX+Sz4Ga/RZ6Xcchv+MM7YHdD0=
+
+Name: assets/mmiap/03/vertical/progressdialog.xml
+SHA1-Digest: IoYkgSSs64p7DJ4+Ebhh9KMlg5M=
+
+Name: assets/buttonNegt.png
+SHA1-Digest: M/KJLlnIIzm0mx/H8xU6UaR6OUo=
+
+Name: assets/button_red.9.png
+SHA1-Digest: z8N2pqVNkCyZz5wtpznaYVj1Als=
+
+Name: assets/audio/ogg/audio_win.ogg
+SHA1-Digest: mB2qAvRx/1dr/RuqIX+99iAfydM=
+
+Name: assets/images/kwx_room/gameOpeation/img_selectHu.png
+SHA1-Digest: wyTnk6V/2ZUkd4oBictJxkxd0AU=
+
+Name: assets/scripts/room/chat/expression.lua
+SHA1-Digest: oR/4lYy0TwI3wr7IdLyBgxi1DYw=
+
+Name: assets/images/kwx_room/room_gameOver/lost/number/3.png
+SHA1-Digest: gA8WmEbTvMpXX1LqIIHVVRGgkJo=
+
+Name: assets/images/ui/__scroll.png
+SHA1-Digest: 6zt8iRPxBFVCtY2uUBG3nRshZLs=
+
+Name: assets/inc_pause.png
+SHA1-Digest: UkLcpnPC6Coap0C5kU17jfKcXVk=
+
+Name: assets/scripts/room/shmj/shmjRoomController.lua
+SHA1-Digest: QP5pXkftXji5iaQlf3i9qjV4e1Q=
+
+Name: assets/scripts/view/kScreen_960_640/testLoadLayout.lua
+SHA1-Digest: kbdkawBcj+Frfci8AtwvdMHbd2Q=
+
+Name: assets/images/kwx_tanKuang/bigGift/btn_close.png
+SHA1-Digest: aavwtdu0rmqyAqn0QDClzwpPVQE=
+
+Name: assets/images/kwx_room/room_gameOver/number/0.png
+SHA1-Digest: S6ezG1346J48qSryFszdSzjTyKQ=
+
+Name: assets/scripts/room/entity/tingTipView.lua
+SHA1-Digest: EcM//18PnngEMA0eh/CYmOt7deI=
+
+Name: assets/audio/ogg/common/woman_card_32_1.ogg
+SHA1-Digest: sgD1tmoKKBBImeA63U7AoPZTY04=
+
+Name: assets/scripts/libs/XML_README.md
+SHA1-Digest: g4nndui64p3EOYJl+/SRatGw2Ds=
+
+Name: assets/images/kwx_room/room_gameOver/number/6.png
+SHA1-Digest: hoQBBar/bhCvS9ojYOSanywxM7w=
+
+Name: assets/images/kwx_anim/levelUp/img_light11.png
+SHA1-Digest: WAXl/e5vBzbxWMQt8BnFYSMEej4=
+
+Name: assets/scripts/data/exchange.lua
+SHA1-Digest: OImClQ0gjnbdBlqY1faBWqTny2g=
+
+Name: assets/audio/ogg/common/woman_chat_04.ogg
+SHA1-Digest: a9tWIN1hp0GKn2NquFK7Wn7Pjr4=
+
+Name: res/drawable-hdpi-v4/gc_title_exit.png
+SHA1-Digest: sXbNVIP6Fm9ZjT4XVr9jpIPnFKo=
+
+Name: assets/weibosdk_dialog_bg.9.png
+SHA1-Digest: WXvo3k+6TIebf1AC+9PbdGgTOF4=
+
+Name: res/drawable-hdpi-v4/gc_padview_two_icon.png
+SHA1-Digest: Ij5a9JOLHxC9GM23pjxW5KmbB5c=
+
+Name: assets/images/kwx_room/accounts/negative/9.png
+SHA1-Digest: vyaqHLpAqthXD6lEg7ypvECcb+Q=
+
+Name: assets/images/kwx_room/room_gameOver/lost/number/5.png
+SHA1-Digest: qz9aBT8E5sqAXok1N5cjbHVA2k4=
+
+Name: assets/scripts/core/prop.lua
+SHA1-Digest: qbA/yQYQj38icygNAYvKwbWNnJo=
+
+Name: assets/scripts/pay/branch_pay/qiHuPay.lua
+SHA1-Digest: pYHbMHgfwcQoKM2ZMreUceKGH2Q=
+
+Name: res/drawable/umeng_update_button_ok_bg_tap.xml
+SHA1-Digest: idej0iLnhOjYlaNHRbAQzCPAjLE=
+
+Name: assets/audio/ogg/kwxmj/woman_zimo1.ogg
+SHA1-Digest: wS0AWhEfoe8njDN9Ab8BpDfBzh4=
+
+Name: assets/scripts/animation/animationParticles.lua
+SHA1-Digest: Kqix7FKQ6nUyN9LAMpPLJKm9D8Y=
+
+Name: assets/armeabi-v7a/libunicomsdk.jar
+SHA1-Digest: ge/29VS0OSne19o9hD8vWIxS2MY=
+
+Name: assets/images/kwx_common/btn_close.png
+SHA1-Digest: LWe+zb/oSe2jhZRaPxQ0ZkD+qWA=
+
+Name: assets/scripts/view/kScreen_960_640/LobbyLayout.lua
+SHA1-Digest: /pMRG7J36n+AKAny2S9IL6JYzyY=
+
+Name: assets/scripts/data/activitiesData.lua
+SHA1-Digest: cYUFzZbLGwpF0lQly8YRIMX2GTE=
+
+Name: assets/scripts/ui/angleImage.lua
+SHA1-Digest: 2CxaBJZxcvO9jmX0NCr/44pV2M0=
+
+Name: assets/images/cards_pin2.png
+SHA1-Digest: 0DCChszpHJTwlRaKq/rxAhlhlkA=
+
+Name: assets/images/animation/lose/wind0049.png
+SHA1-Digest: pKfNgaDc05p+98hgK8itIITloy4=
+
+Name: assets/images/kwx_chat/img_divisionLine_bg.png
+SHA1-Digest: G3IMgkKKYb9478tNM+ZF4seCktA=
+
+Name: assets/images/kwx_goodsInfo/btn_goodsOptionN.png
+SHA1-Digest: Gv/XOwYenacO6OZaM51C8V64iag=
+
+Name: res/anim/push_bottom_in2.xml
+SHA1-Digest: XrbNRgvhJtNW7WIVmKse0+E2hP8=
+
+Name: assets/images/kwx_tanKuang/roomUserinfo/img_2.png
+SHA1-Digest: Oq4x7srRpY2uft3dDauDzK/OZvI=
+
+Name: assets/audio/ogg/common/woman_card_29_1.ogg
+SHA1-Digest: kMqscYedApF90+/avvpB0ajqqWc=
+
+Name: assets/images/kwx_anim/levelUp/levelUp7.png
+SHA1-Digest: DcLjCi8gDo5TFr/I3UqHT/89sw8=
+
+Name: assets/images/kwx_lobby/number2/3.png
+SHA1-Digest: OkQFhXI3FF/M/hKBMM2Rigpg2ck=
+
+Name: res/drawable/hfb_dialog_bg_3.xml
+SHA1-Digest: F0g50ik2aGZcqNIhf9oQFOCKGiA=
+
+Name: assets/images/kwx_uesrInfo/img_manIcon.png
+SHA1-Digest: sRmqLUsM0ZVjwW12C5Z01N9pimE=
+
+Name: assets/scripts/animEditor.lua
+SHA1-Digest: MQBi5fpTLcP/yhL+4dKP6fV6400=
+
+Name: assets/audio/ogg/kwxmj/man_hu0.ogg
+SHA1-Digest: rzdHWM+kOwQKESM/gq7F/9jiJhc=
+
+Name: assets/scripts/room/gbmj/entity/gbCardPanel.lua
+SHA1-Digest: ooa6/R6y2YuFrMd0RVqKKPPd1FQ=
+
+Name: res/drawable-hdpi-v4/umeng_update_btn_check_on_pressed_holo_ligh
+ t.png
+SHA1-Digest: LRfTTUEUavLv1hy7gIc9D3NfFno=
+
+Name: assets/armeabi/libunicomSimplesdk.dat
+SHA1-Digest: MrumoTAXDXihU3kbKwqR+ns2G6k=
+
+Name: assets/images/kwx_anim/levelUp/levelUp4.png
+SHA1-Digest: 6WKqwr/eZbBxz/dGuV+Tu0M75+o=
+
+Name: assets/scripts/systemInfoWnd.lua
+SHA1-Digest: R9YFyGdVJdkzsAe4PzrVz8Tmazk=
+
+Name: assets/images/kwx_rank/img_rankBg.png
+SHA1-Digest: fOY38qi0760FNjBlHREme3y0Cj0=
+
+Name: assets/images/kwx_goodsInfo/img_goodsStrP.png
+SHA1-Digest: mQ4asS2I2YTA2ibqUjzIwv6YZL4=
+
+Name: assets/images/kwx_mail/item_bg.png
+SHA1-Digest: yU+yfBUK3toWWdfjVqr/laP0+2I=
+
+Name: assets/scripts/swfPin/loading_swf_pin.lua
+SHA1-Digest: POV19XjBlWbcNM7E4fuuVWtX390=
+
+Name: res/raw/login_config
+SHA1-Digest: gKmWe+poh5CjB36UFuWEkBwkcFI=
+
+Name: assets/audio/ogg/common/man_card_33_1.ogg
+SHA1-Digest: 9S9XQpEWTotdw8ZNwXmTlLyRgnI=
+
+Name: res/anim/fade_in.xml
+SHA1-Digest: OqTeOi0Y+T3pYljQud3FnT+PcU4=
+
+Name: assets/images/kwx_common/btn_blue_big.png
+SHA1-Digest: ImLNliSPr8m2+SjaV2N1lrIGqvE=
+
+Name: res/layout/notification_message_pic.xml
+SHA1-Digest: 4ixa4bRNSl0z8wC49uHNrAxGc9U=
+
+Name: assets/images/kwx_anim/lobbyBottom/buttom6.png
+SHA1-Digest: N1bONiOYrEVS2kjS1Qw58QSwnC8=
+
+Name: assets/images/kwx_lobby/number/1.png
+SHA1-Digest: GMWn4rOCROb2ky7eK074GIx4zZA=
+
+Name: res/drawable-hdpi-v4/lt.png
+SHA1-Digest: h3JMxd9B8+V0mBnMkFk9iVupTBQ=
+
+Name: assets/scripts/animation/friendsAnim/smogs_pin.lua
+SHA1-Digest: atuFBOwKj8EbpBululk8W5EzaoA=
+
+Name: assets/scripts/common/stateChange.lua
+SHA1-Digest: iu/s4v/Odbrtsgr+Mpj4ElGX0tE=
+
+Name: res/drawable-hdpi-v4/gc_center_online_service.png
+SHA1-Digest: 33uCd3DvsYVic7UUxDRo3gNffA8=
+
+Name: assets/images/kwx_rank/img_title4.png
+SHA1-Digest: 5jByeMZGsgoNtsox1T36NHnTXrQ=
+
+Name: assets/images/kwx_tanKuang/gameBox/img_twoHua_s.png
+SHA1-Digest: ycemJ3YPvLe7xJbOUK6Jryb/I1U=
+
+Name: assets/mmiap/image/vertical/button1_Confirm_Press.9.png
+SHA1-Digest: UzrvQws9fuS5mdrnlq5z3WKXU9c=
+
+Name: assets/audio/ogg/common/man_gang2.ogg
+SHA1-Digest: 6RqrbW6Gn+cfplL10p5uqqsVbG4=
+
+Name: assets/images/common/buttons/green_big.png
+SHA1-Digest: nwD3ynnXG4pLwrmI51ZluPpoazw=
+
+Name: assets/mmiap/02/title1_bg.png
+SHA1-Digest: Mk9uKdROHrMkoWDpgcd7Pm85gfU=
+
+Name: assets/images/kwx_rank/img_headPortrait.png
+SHA1-Digest: In2hP4x+d1mogoCCPA9e3OamxP4=
+
+Name: assets/scripts/core/state.lua
+SHA1-Digest: lgKRVqnsehqkuy/nkN5HicSi33c=
+
+Name: assets/inc_icon_close.png
+SHA1-Digest: XIJEXNQL+eOxk1m/ucC455SqXCE=
+
+Name: res/layout/start_screen.xml
+SHA1-Digest: kQgM5MJ6ejRyq0s/Vo7tKMtxm08=
+
+Name: assets/images/kwx_lobby/btn_mall.png
+SHA1-Digest: ARX4ygvppiBT7/Bm3s1HGrDVM0w=
+
+Name: assets/scripts/view/kScreen_960_640/taskLayout.lua
+SHA1-Digest: 3M71Js3n5LbhJTmYSPEQdkBkuCM=
+
+Name: assets/scripts/qnPlist/left_pin.lua
+SHA1-Digest: 3lkJFQ7bVwoShmkkKS9Xghk8feY=
+
+Name: res/drawable-hdpi-v4/left_bg.9.png
+SHA1-Digest: oxCUew/ZziVueE7/+4NaDUCG1IA=
+
+Name: assets/scripts/popu/lobby/updatePopu.lua
+SHA1-Digest: YDVLDnLVOLrKL90M7wt/jyInDJ8=
+
+Name: assets/mmiap/image/vertical/checkbox_checked.png
+SHA1-Digest: tNxwrYwo2vZ8gDN2Ee8fIEbJoEI=
+
+Name: res/layout/increment_popup_dialog.xml
+SHA1-Digest: r6Q3rpA4YdM41oDb71ML8rPrbqg=
+
+Name: res/layout/hpay_custom_confim_dialogthree.xml
+SHA1-Digest: ppiKGfAa99LBhYueWhxc5qO0cKs=
+
+Name: assets/audio/ogg/kwxmj/man_card_29_1.ogg
+SHA1-Digest: nQvT5mfndZ4oifzD5CaejrvpuqQ=
+
+Name: assets/images/kwx_mail/img_headMask.png
+SHA1-Digest: 3LjfqbWjYdFDD3f20nxPwb5PxKk=
+
+Name: assets/images/kwx_room/gameOpeation/peng_btnpress.png
+SHA1-Digest: QN9/pP1ZsGC7t68l0N+PaL8M/Ig=
+
+Name: assets/scripts/view/kScreen_960_640/payLayout.lua
+SHA1-Digest: UvseFSQSlNDRlywXZ6Qmjrkbtg0=
+
+Name: assets/scripts/ui/tableView.lua
+SHA1-Digest: U2JDdSL0LJz3MCu4WyizFlWsNKw=
+
+Name: assets/mmiap/image/vertical/button1_Confirm.9.png
+SHA1-Digest: 4R7Eld1CWay8DOJmOL2lNUDttNo=
+
+Name: assets/audio/ogg/kwxmj/man_chat_08.ogg
+SHA1-Digest: JwVEWPu70zB4DD/MPjCQerrSPnU=
+
+Name: assets/scripts/utils/init.lua
+SHA1-Digest: cjqlIbGW4/HQaoBgI0eBTq3pXVg=
+
+Name: res/drawable-hdpi-v4/hpay_cancel.9.png
+SHA1-Digest: Vvy4+ZxaKjuWLcuaoYPNzz3uS0o=
+
+Name: assets/audio/ogg/common/woman_card_31_1.ogg
+SHA1-Digest: GE7bw8KMyV8jglIENrpaIIRYh0o=
+
+Name: assets/images/animation/roomAnim/ming.png
+SHA1-Digest: /gzL3QFacuK5+DmE5n6wTcHuCSY=
+
+Name: assets/image/01/loading_bg.png
+SHA1-Digest: YWHoTGtmDG6yK5+jpeg3NM7bHlA=
+
+Name: assets/images/kwx_lobby/img_LXC.png
+SHA1-Digest: Sg0yVCpgeCVmHJ8vcefB/d/8BXg=
+
+Name: assets/images/kwx_tanKuang/roomUserinfo/mask_head.png
+SHA1-Digest: 0LelROatWDMMFWSNEgKxtWp6RuY=
+
+Name: assets/scripts/libEffect/shaders/flash.lua
+SHA1-Digest: sCpl37hx6JsOUER4phxwSIYNFAM=
+
+Name: assets/mmiap/02/logo1.png
+SHA1-Digest: N+e8Mchbjb5hiFPP7/Ogjq6hDWA=
+
+Name: assets/audio/ogg/common/woman_bugang0.ogg
+SHA1-Digest: wtUaQwy1vN/IFsItgBc1D0vfV7A=
+
+Name: assets/images/kwx_anim/lobbyBottom/buttom2.png
+SHA1-Digest: wJrqNBVf0+SAe3hkwPd0/iq5JKI=
+
+Name: res/layout/share_window.xml
+SHA1-Digest: OSFONbJ0L7xrjSO4oBwUf/kq6dE=
+
+Name: assets/scripts/data/exchangeData.lua
+SHA1-Digest: SonVV6aACzhokIbER91NCmJov3Q=
+
+Name: assets/images/kwx_rank/img_selfBg.png
+SHA1-Digest: a3xSdL9FOlLd2X91BtU7ByJoolE=
+
+Name: assets/images/kwx_lobby/number/9.png
+SHA1-Digest: aE26rPYzE8O/TRMqjEyOkUwkl88=
+
+Name: res/drawable-hdpi-v4/yanwu0002.png
+SHA1-Digest: 4Ptka8EZjWau3/O2nbktWmL3w+c=
+
+Name: assets/audio/ogg/kwxmj/woman_peng2.ogg
+SHA1-Digest: 0MiC2yB3qV76Bpa2NmR5535bh5A=
+
+Name: assets/audio/ogg/common/man_gang_AG.ogg
+SHA1-Digest: WToi2g8v4CBxubbNNxTI0OgVKIE=
+
+Name: assets/audio/ogg/common/woman_card_15_1.ogg
+SHA1-Digest: Hg7exO6iD2rzYTFkFxTFvSMpewU=
+
+Name: assets/scripts/core/sound.lua
+SHA1-Digest: VOQeV4/HX79Sk7lKYpBpDKLox40=
+
+Name: res/drawable-hdpi-v4/minihuodong_bg.png
+SHA1-Digest: y9RqRqMHkh1NXFnkfHxVM/SU3wE=
+
+Name: assets/images/animation/lose/wind0019.png
+SHA1-Digest: 9/jflqTk9+2S2yY+QGjRBvFtpHM=
+
+Name: assets/scripts/pay/branch_pay/luoMaPay.lua
+SHA1-Digest: G8dSOx1s2Lnm/gOP8cOgrZIxX8Q=
+
+Name: assets/images/kwx_room/accounts/negative/4.png
+SHA1-Digest: 78paMsWN2M9n9ogvLybZbsfyHJY=
+
+Name: assets/audio/ogg/common/man_chat_08.ogg
+SHA1-Digest: 0qF7R14zNblZvScmat97ob5Vq1o=
+
+Name: assets/audio/ogg/audio_card_out.ogg
+SHA1-Digest: 6mgnylZ7CiiXp+x0hFnuc/BRukI=
+
+Name: res/drawable-hdpi-v4/vertical_line.png
+SHA1-Digest: jES2ZgDOXENp+pO2ZvYXCExt0yk=
+
+Name: assets/images/animation/lose/lose0001.png
+SHA1-Digest: 2EX3rNN5RoNYKH6vY8aDJVpeByU=
+
+Name: assets/scripts/popu/lobby/userPopu.lua
+SHA1-Digest: 5ZeUIn6x8aNz+kDYyhT1vuUSecU=
+
+Name: assets/images/animation/lose/wind0025.png
+SHA1-Digest: Iu+tmndw5TNxFB4GgOMo4I34weA=
+
+Name: assets/scripts/data/shieldData.lua
+SHA1-Digest: rX50cLMWE46GlA17T1Yq1TBio/8=
+
+Name: assets/audio/ogg/common/woman_chat_07.ogg
+SHA1-Digest: 5jjRFVmxwNjD/YY6AWv1uNmHQms=
+
+Name: assets/scripts/ui/checkBox.lua
+SHA1-Digest: ykjVhIvZ3jALPhFU6+oIElhClZc=
+
+Name: assets/images/kwx_common/img_tanKuang_small.png
+SHA1-Digest: UlFM1ak0Yh6O/SijU8AEnIjGdug=
+
+Name: assets/scripts/atomAnimTable/bgcloud.lua
+SHA1-Digest: 7MhFh+u0U2AHw0wAqhfjixFGjH0=
+
+Name: assets/mmiap/02/vertical/progressdialog.xml
+SHA1-Digest: o8fkE/qxQD/skl/3UGu/WcphL9c=
+
+Name: res/layout/hpay_custom_confim_dialogfour.xml
+SHA1-Digest: obk+F0FexFeFfRHAIQ0uoK/3uyk=
+
+Name: assets/scripts/pay/branch_pay/gvPay.lua
+SHA1-Digest: W2X4jonwMzQmQUELAnMoLSViK3w=
+
+Name: assets/images/kwx_room/room_gameOver/number/3.png
+SHA1-Digest: 4rAtKXPXdQVKhvQo+H8SKrGKroI=
+
+Name: assets/scripts/utils/display.lua
+SHA1-Digest: A8mkQr0+oPEDH6sZDEpNGBegl34=
+
+Name: res/drawable-hdpi-v4/close_ad.png
+SHA1-Digest: yFNvsIC9M7BJlk0THQITJDPxeyE=
+
+Name: assets/images/ui/switchPendingImages/2.png
+SHA1-Digest: 9iMRqdqcPBmoEBbALDZlajMV2/s=
+
+Name: assets/scripts/libs/bit.lua
+SHA1-Digest: CGunoIpMfUEcAmxDyR7H400VH5s=
+
+Name: assets/images/kwx_lobby/img_newPack.png
+SHA1-Digest: UiLaODV3f9bM778UTTlkI7RvtUw=
+
+Name: assets/images/kwx_room/gameOpeation/ming-btnpress.png
+SHA1-Digest: GW2s8n+Nw7WoXA3/gTZ0RWKkIt0=
+
+Name: assets/images/common/close.png
+SHA1-Digest: Skjwm/M1B4KALCTHTwR99DFoU/E=
+
+Name: assets/scripts/error.lua
+SHA1-Digest: OipsyD6bZQWnnkB/iQLjI4Q0FOk=
+
+Name: assets/audio/ogg/audio_shaizi.ogg
+SHA1-Digest: m8wyXEB09xnGNdAegn0XRMErNOY=
+
+Name: assets/scripts/view/kScreen_960_640/rankSelfZhanShenItemLayout.l
+ ua
+SHA1-Digest: qGAIyvfX8g5IbSmsBgi+Zacst6Y=
+
+Name: assets/scripts/room/hbmj/hbmjRoomController.lua
+SHA1-Digest: gmrbHaL38zDYZRTt6mVd/kFZMfQ=
+
+Name: assets/images/kwx_room/room_timer/img_timer2.png
+SHA1-Digest: Iin/TBxJX2aOkM+bqxQLJllDXHo=
+
+Name: res/drawable-hdpi-v4/gc_animation_game.png
+SHA1-Digest: EiYZLsKYW7VXO2z4V+7ugyEvgxM=
+
+Name: assets/scripts/data/signAwardData.lua
+SHA1-Digest: vpCB5y6aqvdQKURIimlVybpDQwg=
+
+Name: assets/images/kwx_room/room_gameOver/img_chibang_l.png
+SHA1-Digest: C1uxY3MIfPFaJkbiAJaZ8Yy8+pQ=
+
+Name: assets/res/02/loading.json
+SHA1-Digest: tBzFpMWJPMe0d6V8ruIS0BX0ses=
+
+Name: assets/scripts/common/helper.lua
+SHA1-Digest: 8XySVyHyz9smMIOhTg4+/qcwMeg=
+
+Name: assets/scripts/platform/umengEvent.lua
+SHA1-Digest: Qyhl3E6wIJ/7lcDgrIXzh/TiT6E=
+
+Name: assets/scripts/gameBase/gameState.lua
+SHA1-Digest: 5Td/Zpps0YUNIu77DJszwi74ZZg=
+
+Name: assets/scripts/view/kScreen_960_640/exchangeInfoLayout.lua
+SHA1-Digest: 4/NPVpEev/Tz76Z3Gs4Xg1FF+yA=
+
+Name: assets/scripts/data/fanData.lua
+SHA1-Digest: fakqFtBni/ES0fBLFGNIdv9VcmM=
+
+Name: assets/scripts/libEffect/shaders/common.lua
+SHA1-Digest: 19Ghpxrbk3OiehtbFBpYoXT+pJc=
+
+Name: assets/scripts/popu/lobby/antiAddictionPopu.lua
+SHA1-Digest: cCVaYwZylqtAtS7wYgN9TVP6sgU=
+
+Name: assets/images/kwx_room/img_score.png
+SHA1-Digest: aQ0xcE3SkhaGrTlB9owAcHTPJww=
+
+Name: assets/images/animation/resultless/leaf0001.png
+SHA1-Digest: XkVDJhNc5NWwCDw2pIDLBPYatN4=
+
+Name: assets/scripts/animation/friendsAnim/friendAnim_pin.lua
+SHA1-Digest: 8U5qzBMLR6gTUeGNScl2dWmbBKo=
+
+Name: assets/unicom_account/privilege_icon.png
+SHA1-Digest: qOpjPCeZYoCTRxavXtC+PaNS8AI=
+
+Name: assets/audio/ogg/kwxmj/woman_card_17_1.ogg
+SHA1-Digest: /xinP+yL61CDpNhCK8j6M6L9tSQ=
+
+Name: assets/images/ui/scroll.png
+SHA1-Digest: 0U3u9IoE3DCJwEqfz6NFkluUBo0=
+
+Name: assets/audio/ogg/kwxmj/woman_zimo0.ogg
+SHA1-Digest: zD0dQTFLWmqwm5BT/dlzofpo8cE=
+
+Name: assets/images/kwx_tanKuang/bankrupt/9.png
+SHA1-Digest: HiOCF+nAN0BbMcA9ycTskblU/cA=
+
+Name: assets/images/kwx_anim/lobbyQuick/img_quick10.png
+SHA1-Digest: D5XZUKVKFr2cNPpdVXjgsTSKVXc=
+
+Name: assets/scripts/atomAnim/atomAnimManagerEx.lua
+SHA1-Digest: BsFIieS7CoQVLY7TmJgHPyM6n94=
+
+Name: assets/audio/ogg/kwxmj/woman_card_31_1.ogg
+SHA1-Digest: mlVBDQzZbCeTnqgo58OTjRYqWW4=
+
+Name: assets/inc_open.png
+SHA1-Digest: d6B0nBjiBBcBEakxTIfee4BCL4E=
+
+Name: assets/scripts/particle/particleBubble.lua
+SHA1-Digest: kfbbU/MHcXaJMSy+eTgWeoAX2w4=
+
+Name: assets/unicom_account/accountsdk_2_checkbox_set.png
+SHA1-Digest: riACU7oQkVKJ2eTqvdUFKQJ88sU=
+
+Name: assets/images/kwx_shop/img_light.png
+SHA1-Digest: GD10jchYLS01suBp4tchR9dRc6g=
+
+Name: assets/UnicomConsume/UnicomConsume.uwc
+SHA1-Digest: v4WAGdSS1s01/y2RQbqDdH0GTfM=
+
+Name: assets/images/kwx_room/accounts/positive/3.png
+SHA1-Digest: /sXdAyzVhQhEbl+0B00BqnfXBzQ=
+
+Name: lib/armeabi/libentryexstd.so
+SHA1-Digest: 0qkQ8YwQaD/1KQLJgCO6GnkhitM=
+
+Name: res/drawable-hdpi-v4/hfb_order_gif.gif
+SHA1-Digest: fh5Rhsa4NZN4qCy52VuVHubllbk=
+
+Name: assets/audio/ogg/kwxmj/man_card_12_2.ogg
+SHA1-Digest: XyoA+Y80sKkERVWkLX0SQ+1khTI=
+
+Name: assets/scripts/data/taskData.lua
+SHA1-Digest: y1TxuHM5aUGJi68aZ3qmpnN7A/4=
+
+Name: assets/images/kwx_erJiCommon/btn_back.png
+SHA1-Digest: Cg5wNa83j8suCyrkrGQphiuI8gA=
+
+Name: assets/audio/ogg/kwxmj/woman_gang1.ogg
+SHA1-Digest: OoKyTOE2+bk9xs6pL/rMRmQOy3A=
+
+Name: assets/images/common/buttons/red_big.png
+SHA1-Digest: rEsxC1riTg/RjXBRds94lOtPhSM=
+
+Name: assets/images/kwx_tanKuang/bigGift/img_add.png
+SHA1-Digest: eyC8C1d6C+VKT/J+2gmQ0SBkHik=
+
+Name: assets/images/common/bubble.png
+SHA1-Digest: mJ7T1NH2KWByfV3v/YPip1SBpFc=
+
+Name: res/drawable-hdpi-v4/gc_anim_title.png
+SHA1-Digest: h41ohBbvff4jxpdYdLwK32FXb14=
+
+Name: assets/unicom_account/accountsdk_2_float_btn_account.png
+SHA1-Digest: u/FUcLtiHo0+LzpzcvUdBT8eWmk=
+
+Name: assets/images/kwx_tanKuang/roomChat/img_v_split.png
+SHA1-Digest: 6ehysfpgpGUvQ9rOgbnWWaIvQFo=
+
+Name: assets/images/kwx_tanKuang/exitGame/img_iconHuoDong.png
+SHA1-Digest: aS+1er2x+WUAccW/m75GkNx28DE=
+
+Name: assets/scripts/mjSocket/common/commonProcesser.lua
+SHA1-Digest: Kktxzh4/p0+4ClC7JP50G3hY0IA=
+
+Name: assets/unicom_account/accountsdk_2_float_logo.png
+SHA1-Digest: 0/3/ZNPHo+KGt5IIkDmdjz6NwYs=
+
+Name: assets/images/kwx_common/img_scrollerBar.png
+SHA1-Digest: L7FVNpKq0tnV+Z3lM6mDkqOTxsg=
+
+Name: assets/scripts/atomAnim/anim/atomAnimFrame.lua
+SHA1-Digest: nLjr5B/ImtwKuMXWXf46z6dA7zs=
+
+Name: assets/scripts/atomAnim/anim/atomAnimScale.lua
+SHA1-Digest: +S+VH4XHv/A9L7VrxEqLem2Ii1E=
+
+Name: assets/scripts/view/kScreen_960_640/gameBoxLayout.lua
+SHA1-Digest: L8vDFkfWMcsyH9RnE7Pk1LQ3UtM=
+
+Name: assets/scripts/common/nativeEvent.lua
+SHA1-Digest: GOQbcQE7fH8Kwz3ORY11+cnFRQ4=
+
+Name: assets/images/kwx_mail/img_headbg.png
+SHA1-Digest: WepGdGkt3D31Im+o4qr70j9GQC0=
+
+Name: res/drawable-hdpi-v4/gc_center_about.png
+SHA1-Digest: f88xHd6QNG/yMZ73lBYlJLL4C58=
+
+Name: assets/images/kwx_room/moneyNum/win6.png
+SHA1-Digest: /0Hy+wGjgccelbYvmP789AYUMiU=
+
+Name: assets/images/common/scenc_title_right_bg2.png
+SHA1-Digest: DEJHrZa1oNH1KMN+1QNDF3Yjw14=
+
+Name: assets/scripts/data/fan.lua
+SHA1-Digest: oo8qHf0dyJQv8qB+Wqn/6CcrnMw=
+
+Name: assets/scripts/view/kScreen_960_640/mailFriendMsgItem.lua
+SHA1-Digest: iyEOJu1/+zf5t9UE6OJdC91LDEc=
+
+Name: assets/images/common/window_small.png
+SHA1-Digest: J4+nt8oR0Mzr++/AwcXTaU/HSN4=
+
+Name: assets/scripts/view/kScreen_960_640/quickPurchaseLayout.lua
+SHA1-Digest: wzczUf/X8BhkZZfLm1ORmobUUKw=
+
+Name: assets/images/kwx_lobby/btn_help.png
+SHA1-Digest: nVBuJuJ5DV66b0jaN1iqq8lzEv0=
+
+Name: assets/audio/ogg/audio_exp_1008_2.ogg
+SHA1-Digest: 8/qAZLswnZNifyhPaZ4YJTevjYc=
+
+Name: assets/audio/ogg/audio_exp_1011_2.ogg
+SHA1-Digest: xpRMfiNABuCQ/N8MSKC69bq/5Mo=
+
+Name: assets/scripts/atomAnimTable/coinflash4.lua
+SHA1-Digest: vaxqTfGz+g5BfgTq92pQVXcamRQ=
+
+Name: assets/mmiap/image/vertical/get_verificationcode_press.9.png
+SHA1-Digest: w9wI7hWNoLR+B2e4eP4YkD27SlY=
+
+Name: assets/audio/ogg/common/woman_card_18_1.ogg
+SHA1-Digest: fCTXBm9VzUYS01PPQCTYL+yMvYY=
+
+Name: assets/scripts/core/http.lua
+SHA1-Digest: xLp2FgtaEneZltxZht9iKbhwpXY=
+
+Name: assets/images/kwx_tanKuang/bankrupt/4.png
+SHA1-Digest: 4BOgfqknS19arUbSQ0oS/jtfRjU=
+
+Name: assets/images/kwx_tanKuang/gameBox/img_boxDefalut.png
+SHA1-Digest: FaKohZHpzkuUVZAmx7nMCWUilOc=
+
+Name: assets/audio/ogg/kwxmj/man_card_21_1.ogg
+SHA1-Digest: 4PQ72babSWymrhw4fjwqepzb5WE=
+
+Name: assets/images/kwx_anim/lobbySelect/img_select3.png
+SHA1-Digest: OPNuf/u9fvL2VHIubSK9ijcQJ1w=
+
+Name: assets/images/kwx_mail/red_small_btn.png
+SHA1-Digest: THuMIfs8D5lLzTVyGlUxmY2dWIc=
+
+Name: assets/images/kwx_tanKuang/roomUserinfo/img_5.png
+SHA1-Digest: +MDmQtaHbt63h32NQSkJz1tiOY4=
+
+Name: assets/unicom_account/accountsdk_2_float_bg_expand_rl.9.png
+SHA1-Digest: M2oAtphN6lx6G1f7cH7qmqTXAfA=
+
+Name: assets/scripts/lobby/ui/lobbyMajhongButton.lua
+SHA1-Digest: HeMcsSuYRf8k4FNm0a6OLZuqW/A=
+
+Name: assets/images/kwx_room/gameOpeation/gang_btnnormal.png
+SHA1-Digest: WVXQcM+SK9stucQd447qTHT9H6A=
+
+Name: assets/images/kwx_tanKuang/bigGift/img_caidai.png
+SHA1-Digest: ycaKcgRxZf+beu4DKutbYx3k5NM=
+
+Name: assets/images/common/scenc_right_decorate.png
+SHA1-Digest: 9zKWwhuoH0Fy085Xh8KmvoDcGks=
+
+Name: res/drawable-hdpi-v4/scenc_bottom_bg.png
+SHA1-Digest: fV54LYEMLNztJFYk0b7DLwXwNtA=
+
+Name: res/drawable/umeng_common_gradient_green.xml
+SHA1-Digest: ZDyisfAamRM9mdew8+tq1DegzP8=
+
+Name: assets/audio/ogg/kwxmj/man_card_15_1.ogg
+SHA1-Digest: P5mv2GC/2n8GWFUsxPw/gGjTVqc=
+
+Name: res/drawable-hdpi-v4/hpay_cancel_p.9.png
+SHA1-Digest: Sb9lDQZBY8Li221xw8yDbcLb/YA=
+
+Name: assets/images/kwx_lobby/img_titleyhf.png
+SHA1-Digest: fgPvGp70+Md3l/t1rU6QwqQ6MZM=
+
+Name: assets/inc_click_up.png
+SHA1-Digest: AxkE96KfnHVU6y5wrgjXHtWRsKY=
+
+Name: assets/images/kwx_room/room_gameOver/img_chibang+r.png
+SHA1-Digest: Dz4ksd7iF7+x9fXpfwzEbxFfFeQ=
+
+Name: assets/audio/ogg/audio_exp_1009_1.ogg
+SHA1-Digest: QLrPhPiYMTgeueHlR2HDx1Q0u4I=
+
+Name: assets/scripts/atomAnimTable/coinflash3.lua
+SHA1-Digest: jAvwSm3ljPjxmVd4hxx0//+2Rz0=
+
+Name: assets/scripts/atomAnim/anim/atomAnimColor.lua
+SHA1-Digest: dx40zdilmQVmOTvXR8xG/MAt0vg=
+
+Name: assets/mmiap/01/vertical/progressdialog.xml
+SHA1-Digest: 8oZzte+lGCWU1P9EsJic9E7F8WM=
+
+Name: assets/scripts/room/coord/cardPanelCoord.lua
+SHA1-Digest: aT6bLQD64Gxxta59rVsj559o4TI=
+
+Name: assets/res/01/loading.json
+SHA1-Digest: rvNoXU7GLsQi5MtaalRBthqsCuQ=
+
+Name: assets/unicom_account/accountsdk_2_float_btn_account_pressed.png
+SHA1-Digest: teJ3le9ULVBvs7ItYsouJlVec3c=
+
+Name: assets/audio/ogg/kwxmj/woman_card_29_1.ogg
+SHA1-Digest: AcLuTeXCtsn+LwF7w2c8B5OWQ6U=
+
+Name: assets/images/kwx_tanKuang/bigGift/img_buy.png
+SHA1-Digest: mM07ZV6QnGULdgz7RWUIOzcQEL4=
+
+Name: assets/unicom_account/accountsdk_2_arrow_right_green.png
+SHA1-Digest: opC+pIHX2M4IhRu3BzUM6+4chT8=
+
+Name: res/drawable-hdpi-v4/close_btn_normal.png
+SHA1-Digest: /KEEJZmmR8WrDc+tK8jYpHCwDss=
+
+Name: assets/scripts/view/kScreen_960_640/taskItemLayout.lua
+SHA1-Digest: 8KYRKyeE6iOIFQH6NTI6BU5KiLI=
+
+Name: assets/scripts/app.lua
+SHA1-Digest: ABYcNOekJX8Sh6zdgvzsEdTrQZ8=
+
+Name: lib/armeabi/libegamepay_dr2.so
+SHA1-Digest: LSUXzR57/lc/BtuzQyX2UXMT04Q=
+
+Name: assets/scripts/pay/branch_pay/lianxiangLuoMaPay.lua
+SHA1-Digest: Ibcq584vDeLeOIhqh+HvUv6/7mU=
+
+Name: assets/unicom_account/accountsdk_2_portrait_default.png
+SHA1-Digest: f1Ek73+l1wmxeEoLoDAsLN0wPeo=
+
+Name: mmiap.xml
+SHA1-Digest: XM8jqacUw9hCPXl7Cp6ZzZs9vT0=
+
+Name: assets/images/kwx_anim/lobbySelect/img_select2.png
+SHA1-Digest: VTz1EvuoyjauOxyn0GW6IyIE+qc=
+
+Name: assets/images/kwx_lobby/img_infoFrame.png
+SHA1-Digest: qwYiIpXhw8O20X55uwAuMmV02VE=
+
+Name: assets/images/animation/shaizi/2-1.png
+SHA1-Digest: zujyjPCTuRuSOlTMGOOZeh7SDlI=
+
+Name: assets/mmiap/02/close_click.png
+SHA1-Digest: CTR5KnKg5iDdRa3gj3SW6jDcsh0=
+
+Name: assets/images/kwx_goodsInfo/btn_goodsOptionP.png
+SHA1-Digest: 4WT0lxdAc1u+nBcvvMWzROPo7hY=
+
+Name: assets/images/kwx_room/accounts/img_level1.png
+SHA1-Digest: 9XecQB7CJy1Zt9pa4u7QrXSQVWU=
+
+Name: assets/scripts/popu/lobby/exchangeInfoPopu.lua
+SHA1-Digest: 0bQrJrC82Ij+LhfyvmPRJMRLm+8=
+
+Name: res/drawable-hdpi-v4/middle_title_bg.png
+SHA1-Digest: cTHJEZZD96uBeM7NrWvv9WT7cdQ=
+
+Name: assets/scripts/view/kScreen_960_640/telRegisterLayout.lua
+SHA1-Digest: c6rpPEpAHFWzT31WO4621epaDp0=
+
+Name: assets/scripts/ui/adapter.lua
+SHA1-Digest: oFyvFmg1Subd7ur56Gv1Ohy9KOI=
+
+Name: assets/images/kwx_room/gameOpeation/img_tingtips.png
+SHA1-Digest: uKpsKRoELIdIN37d0Ob7Wt1uRno=
+
+Name: assets/scripts/animation/operateAnim.lua
+SHA1-Digest: jxHJcFeXWbEJJ2sSHUh22eCF6Z4=
+
+Name: assets/images/kwx_tanKuang/roomSetting/img_selected.png
+SHA1-Digest: FjCNuP1sKSxbq+YOCTpypUGkYBo=
+
+Name: assets/scripts/string_zh.lua
+SHA1-Digest: pCK9/y+s1l1DuBFAeqdBbdf4jxM=
+
+Name: assets/scripts/view/kScreen_960_640/loginLayout.lua
+SHA1-Digest: 7Rz0Lo8gFSAchQcKKavzooNMZx8=
+
+Name: assets/scripts/gameBase/socketProcesser.lua
+SHA1-Digest: 83cKHzfgKvpYmCn4VdmfNhw4CHA=
+
+Name: assets/scripts/libEffect/shaders/internal/shaderInfo.lua
+SHA1-Digest: K74r6uU9G5isIibnRe0bCp1GM2c=
+
+Name: res/drawable/hfb_merdesc_info_bg.xml
+SHA1-Digest: K6snrd80J954EXSx+OsnkANrTDE=
+
+Name: res/drawable-hdpi-v4/gc_sound_off.png
+SHA1-Digest: Sdy65qOJLw49VycnF3LopU+NPCs=
+
+Name: assets/scripts/pay/branch_pay/unicomLuoMaPay3.lua
+SHA1-Digest: RkE3uDypZw0PLjPnqAb3HTiotT0=
+
+Name: assets/images/kwx_uesrInfo/btn_headBg.png
+SHA1-Digest: c7rVp4otHY2QnTCId+VYPvY04mI=
+
+Name: assets/audio/ogg/kwxmj/man_card_27_1.ogg
+SHA1-Digest: tqoTwaYPrrPZghJqYjdNV24WNz8=
+
+Name: assets/scripts/core/systemEvent.lua
+SHA1-Digest: 7IfU++rFoudRrq6wzc1ley3u5eI=
+
+Name: assets/images/animation/lose/wind0055.png
+SHA1-Digest: 9WXpVLi3C9ikkRak2Y6L6vIrYqI=
+
+Name: assets/scripts/mjSocket/gdmj/gdmjWriter.lua
+SHA1-Digest: /ZZcpoyVTzQuXlYrGND0gbCpB60=
+
+Name: assets/images/kwx_room/img_strhu.png
+SHA1-Digest: xSOzXv4xJGSmVHDxnbM4oNtA9FI=
+
+Name: assets/scripts/ui/groupNode.lua
+SHA1-Digest: ibnm3Atj7DEkaNIFuvd6afv/Pkg=
+
+Name: res/drawable-hdpi-v4/gc_padview_one_icon.png
+SHA1-Digest: BgslbfmGNOw++G0NsI0yr23tQCo=
+
+Name: assets/images/kwx_common/btn_shangPin.png
+SHA1-Digest: iu8Z66FZf5ThpediNXGWT2eMlJw=
+
+Name: assets/scripts/popu/public/goodsBuyPopu.lua
+SHA1-Digest: U48ADgT25JMGRrOGRz9zJWI+b9c=
+
+Name: assets/image/activity_bg.jpg
+SHA1-Digest: meW3zy1Do/lrAgUA9iBmB63y1l8=
+
+Name: res/drawable-hdpi-v4/scenc_back.png
+SHA1-Digest: Nc+3pdtTQZJJd7g4Cpe4PCECh80=
+
+Name: assets/images/kwx_tanKuang/gameBox/number/3.png
+SHA1-Digest: KFyiYXs6WR7Kg033RMno9P4/BeE=
+
+Name: assets/images/kwx_tanKuang/sign/img_get.png
+SHA1-Digest: YOQz1Jkn4KqtQFPT0H5qgLTEOgE=
+
+Name: assets/images/animation/lose/wind0043.png
+SHA1-Digest: idU2l08eHA8L319REl22CD4YaUw=
+
+Name: assets/images/kwx_room/moneyNum/lose-.png
+SHA1-Digest: sARGtISTAI0NK47l8zAfBuofEvo=
+
+Name: assets/audio/ogg/common/woman_chat_02.ogg
+SHA1-Digest: 58rNpE1hohUgASlbyY0vNqYNIeU=
+
+Name: assets/scripts/common/transition.lua
+SHA1-Digest: MMFjYW3VslnMUhqQRuiKZqtezaE=
+
+Name: assets/images/kwx_room/out_bg.png
+SHA1-Digest: ZVui0vymDGd819HyQwKKYSqxIn8=
+
+Name: assets/images/kwx_room/accounts/negative/0.png
+SHA1-Digest: JjhBnm6MMoibT0v6+kUkJPV7V80=
+
+Name: assets/images/kwx_room/room_gameOver/lost/img_dark.png
+SHA1-Digest: mc+YBkasp2A4DYpAA67O8ZMjn1g=
+
+Name: assets/audio/ogg/kwxmj/woman_gang_AG.ogg
+SHA1-Digest: Uvf8uNbwWIBuqDwYILu7OBRT4+k=
+
+Name: assets/audio/ogg/kwxmj/man_piao.ogg
+SHA1-Digest: M4CW2NwVl6o1mmhhl1TmOVNlvxE=
+
+Name: assets/images/kwx_anim/levelUp/img_light8.png
+SHA1-Digest: jp5fq9KwSTspmkPcCCl9TXI9u5Y=
+
+Name: assets/images/kwx_anim/lobbyQuick/img_quick7.png
+SHA1-Digest: in00tPVhiuxEe4flLhRvbfpD1Ug=
+
+Name: assets/images/kwx_room/img_braodcastBar.png
+SHA1-Digest: bl+4LFCec0vL8aebFg7WZX4o9Rk=
+
+Name: assets/audio/ogg/kwxmj/woman_liangdao.ogg
+SHA1-Digest: 87AkEMmGmk8X9Cq4Rm87iumlMcE=
+
+Name: assets/scripts/libEffect/shaders/mirrorHorizontal.lua
+SHA1-Digest: oiNZMPZljHisi5El2y1Yms/gXZE=
+
+Name: assets/mmiap/image/vertical/btn_weiview_close.png
+SHA1-Digest: JCQ6vcsDTF4r9nflefe+TK4K0VA=
+
+Name: assets/mmiap/02/horizontal/savingdialog.xml
+SHA1-Digest: 22loBftLvhGsE9ka14VkXMykY2E=
+
+Name: assets/images/kwx_room/room_gameOver/detail/img_headBg.png
+SHA1-Digest: QLTxR7CagH1oAw0V0LQrlE1x0g4=
+
+Name: assets/images/kwx_room/room_gameOver/number/d.png
+SHA1-Digest: wE6+aqAeBXyt0yXZcmPaMX90tIA=
+
+Name: assets/images/kwx_room/room_gameOver/number/5.png
+SHA1-Digest: x2eVK0gQRZtVXKCcn+bgP0OQgVs=
+
+Name: assets/scripts/room/utils/roomConfig.lua
+SHA1-Digest: 3rcD7ewKXmbIxmd7GZDSSPX6Nx8=
+
+Name: assets/images/kwx_room/img_zhuang.png
+SHA1-Digest: +7rNKwMU/3e5byaHc8AfBIta7QM=
+
+Name: assets/audio/ogg/audio_exp_1008_1.ogg
+SHA1-Digest: B9/wJXXp44RNcf35F1NOsJqezZQ=
+
+Name: assets/scripts/ui/viewPager.lua
+SHA1-Digest: MPXSTODXdqxF1TCWzIyF0m/j37Y=
+
+Name: assets/images/ui/shade2.png
+SHA1-Digest: nN4zZCzGoiS1fmqAQD3zlM/gL/o=
+
+Name: assets/images/kwx_room/gameOpeation/ting_bg.png
+SHA1-Digest: rCuFRsPy3egO5UXRBFH3wBRZ4kI=
+
+Name: assets/mmbclasses.dgc
+SHA1-Digest: wv8W+ltvxPQH2vGDPjuRZWfo1fA=
+
+Name: assets/images/kwx_room/img_qipao.png
+SHA1-Digest: cZY/ubqpqrS1uAZbP5x2bnVQxDk=
+
+Name: assets/images/kwx_room/accounts/negative/3.png
+SHA1-Digest: 4uXtoghhWREDMvTk7lWWyMBBfLU=
+
+Name: assets/scripts/view/kScreen_960_640/userLayout.lua
+SHA1-Digest: JkgqabSFirh+Ztmc+DcltXix2aU=
+
+Name: assets/scripts/atomAnimTable/bgcloud_circu.lua
+SHA1-Digest: AXRBoUPk765BeQmO0eEnK2sbjSk=
+
+Name: assets/scripts/view/kScreen_960_640/messageBox.lua
+SHA1-Digest: 1JSCu2HtzIbm8Suyiy+uiFAyzqs=
+
+Name: assets/mmiap/image/vertical/btn_smalltitle_close.png
+SHA1-Digest: vk1A9sc0iJHxlPOE5okAG4DNEOs=
+
+Name: assets/scripts/gameBase/gameResMemory.lua
+SHA1-Digest: UhLgvb4tBXfALy/QAj0kg7paqSk=
+
+Name: assets/audio/ogg/common/woman_chat_01.ogg
+SHA1-Digest: RRxQH4FMPIjYC3qzP1EeM3zPSD4=
+
+Name: assets/images/animation/shaizi/1-4.png
+SHA1-Digest: LBNLoBDzfEHL4B/X1lrOyweFnpg=
+
+Name: assets/scripts/animation/friendsAnim/animationSendRose.lua
+SHA1-Digest: C42Bmong6n/2SbOAH8ig1DT7uh8=
+
+Name: assets/audio/ogg/kwxmj/woman_card_19_1.ogg
+SHA1-Digest: xZJf32yMx/dkTVHA49fNQ5Uuo1c=
+
+Name: assets/images/animation/awardTipBg.png
+SHA1-Digest: kUIKOF4GeOtN3FBVnMR93pZG3WM=
+
+Name: assets/audio/ogg/audio_exp_1010_2.ogg
+SHA1-Digest: ymQOyN9NVEShA75wBTWGbFVovxc=
+
+Name: res/drawable-hdpi-v4/hfb_fail.png
+SHA1-Digest: B53aijwlB/doJLxBQ6YneobA3uo=
+
+Name: assets/images/kwx_rank/img_dianfengNormal.png
+SHA1-Digest: 6GQLbwLGU45P2bxjfKxT2trlKHo=
+
+Name: assets/scripts/common/downloadImage.lua
+SHA1-Digest: y/7Xzu4I23jUTzFgGZqwraCk9+g=
+
+Name: assets/unicom_account/webview_bk2.png
+SHA1-Digest: NztHPaotn4bzngBM9cshFH8duLI=
+
+Name: assets/mmiap/03/icon_success.png
+SHA1-Digest: loG43GVYgeqRQiI63nV9iCASmVY=
+
+Name: assets/images/kwx_lobby/img_createRoom.png
+SHA1-Digest: xC7A8wiQC1yCW8E0mcmcAOIPfew=
+
+Name: assets/images/kwx_tanKuang/gameBox/number/8.png
+SHA1-Digest: gXakDkRaWyvYPZt3ZC+RubeouMM=
+
+Name: assets/mmiap/01/infobg.9.png
+SHA1-Digest: FwQrOBt3bKF94Eg5Gg6rZYZNbkA=
+
+Name: assets/scripts/mjSocket/common/commonPhpProcesser.lua
+SHA1-Digest: G2zvQKWkDtZc1IL8H8xKEByl0nU=
+
+Name: assets/audio/ogg/common/man_peng1.ogg
+SHA1-Digest: YRVOzxQXn0RYGSmaMbnV73JLMCY=
+
+Name: assets/mmiap/03/infobg.9.png
+SHA1-Digest: FwQrOBt3bKF94Eg5Gg6rZYZNbkA=
+
+Name: assets/images/kwx_mail/green_small_btn.png
+SHA1-Digest: vtsi4kMmf1LwBKAioCuaiWcMBl0=
+
+Name: assets/audio/ogg/audio_button_click.ogg
+SHA1-Digest: ZfI2G7qDY+Nt0lTOsuIYtr3f8B0=
+
+Name: assets/images/kwx_erJiCommon/btn_tagClicked.png
+SHA1-Digest: emZWB19RMylJVYdSjPtgtws0wKM=
+
+Name: res/anim/push_up_in.xml
+SHA1-Digest: guhChOT1+IOEUszNUAvmmQfT1hI=
+
+Name: assets/audio/ogg/kwxmj/woman_card_33_1.ogg
+SHA1-Digest: CXe1/ROnWf+JiVldMXoTt8T6HpM=
+
+Name: assets/images/kwx_tanKuang/loading/img_loadingText.png
+SHA1-Digest: m3m2tzj4NfIfgK3ciIj+xTVJgnM=
+
+Name: assets/scripts/atomAnimTable/resultless.lua
+SHA1-Digest: Y6BLxoiVLI0A3nDViI9iJJmbvxo=
+
+Name: assets/images/animation/roomAnim/hu.png
+SHA1-Digest: LKMJOxPegpbs54qhcoy/o4rpZqs=
+
+Name: res/drawable-hdpi-v4/hfb_red_btn.9.png
+SHA1-Digest: rmyxo9ljBpI/plk8W7PeUmJ6GK4=
+
+Name: assets/scripts/animation/friendsAnim/animationThrowEgg.lua
+SHA1-Digest: lwt1FGkTzufBns51vCURVqeyCRo=
+
+Name: assets/scripts/popu/lobby/telForgotPopu.lua
+SHA1-Digest: HOzcDtPWsOTBnL3iccsGPObfOhU=
+
+Name: assets/scripts/qnPlist/cards_pin3.lua
+SHA1-Digest: 1NPbvK8qt4lyli/NrmeAyu+Uegc=
+
+Name: assets/scripts/atomAnim/atomAnimManager.lua
+SHA1-Digest: qCmgBxhuqazbc6Y826er/irO4HQ=
+
+Name: assets/images/kwx_shop/img_goldNormal.png
+SHA1-Digest: dhivqPxqAGxmAotqlV8sewZL9Z8=
+
+Name: assets/scripts/moduleTest.lua
+SHA1-Digest: jC++oA5gegXNaOaDLz8bGDc3OSA=
+
+Name: res/drawable-hdpi-v4/gc_piccode.jpg
+SHA1-Digest: KeVM83RPxSkO1j/GzwaQpkYWsDA=
+
+Name: assets/images/animation/lose/wind0001.png
+SHA1-Digest: gr26+2rNSMZBFsjWSWqbuGosDGs=
+
+Name: assets/scripts/particle/particleLeaf.lua
+SHA1-Digest: 4L8ro/VpEMMEo+/+Wv1y1Hb5wfU=
+
+Name: res/raw/basic_config
+SHA1-Digest: S8n5glgsaGvo59l9PgFSPEXRrGQ=
+
+Name: assets/images/kwx_mail/str_friendmsgN.png
+SHA1-Digest: XXiNOwO2aPYjG5d6zXtx55fx5i4=
+
+Name: assets/images/kwx_room/room_gameOver/lost/number/d.png
+SHA1-Digest: Aeik0MxLAk0oIonEWtucy0rb+bg=
+
+Name: assets/images/kwx_room/room_top.png
+SHA1-Digest: AqIFX2b9gAV/oR3hvPzE6t/jPVk=
+
+Name: assets/scripts/room/gbmj/entity/gbUserPanel.lua
+SHA1-Digest: rRM09fPS/PRRJhIwadX0p30x3Z0=
+
+Name: assets/mmiap/02/icon_success.png
+SHA1-Digest: loG43GVYgeqRQiI63nV9iCASmVY=
+
+Name: res/drawable-hdpi-v4/hfb_step2.png
+SHA1-Digest: I8PQkHzXsgX9Ru8tWYxwU58CZgU=
+
+Name: assets/unicom_account/accountsdk_2_reflesh_press.png
+SHA1-Digest: ZqWbO4cFv54f59D4Tw3higXRLBc=
+
+Name: assets/mmiap/02/bg.png
+SHA1-Digest: sm10r5xm5xgIXfeSVVwLtZUDo8A=
+
+Name: assets/images/cards_pin1.png
+SHA1-Digest: yt01iypYUeeC9yMPbxSMDVblfik=
+
+Name: assets/scripts/room/entity/timerClock.lua
+SHA1-Digest: KlPVpv8UmzFYNWO7eyvxvuyEQdk=
+
+Name: res/drawable-hdpi-v4/tip_bg.png
+SHA1-Digest: qAcX4qui+9Wq9HsDIMYyY5ONJfA=
+
+Name: assets/images/ui/switchPendingImages/7.png
+SHA1-Digest: 4GQzhapFaFJaBiZHMq7ysa7+5YE=
+
+Name: assets/audio/ogg/common/man_peng0.ogg
+SHA1-Digest: ytjB4WqYpKvhY8c/ZsYVzS0deNs=
+
+Name: assets/images/kwx_uesrInfo/img_userinfoN.png
+SHA1-Digest: j1PGb7pBWJ1+1s+90e2ijVCGIVo=
+
+Name: assets/images/animation/lose/wind0013.png
+SHA1-Digest: 4dn3HZn/6SiBoIfGWuVuokW2df8=
+
+Name: assets/images/kwx_anim/levelUp/img_light3.png
+SHA1-Digest: ciAksFXThNqy50O5Bv0OugZNsos=
+
+Name: assets/scripts/pay/branch_pay/aYXPay.lua
+SHA1-Digest: kbXW2x9xnjuZ6jgSKinGt3PqAlU=
+
+Name: assets/scripts/view/kScreen_960_640/goldShortageLayout.lua
+SHA1-Digest: 92bii3ajMK2VBKF0n0aVsQ3Pwww=
+
+Name: assets/unicom_account/accountsdk_2_bg_white.9.png
+SHA1-Digest: +UHdUv+fN2txhnGMZDyKfFG157c=
+
+Name: assets/images/kwx_room/room_timer/timerBg.png
+SHA1-Digest: f3IHOxth9KWA0BZHK/Swbzf6nUE=
+
+Name: res/drawable-hdpi-v4/umeng_update_btn_check_off_pressed_holo_lig
+ ht.png
+SHA1-Digest: tIG1r++3vO7AWXDg4QVX1wKrvPc=
+
+Name: assets/images/kwx_room/room_gameOver/img_heart.png
+SHA1-Digest: qVKpE0X5jYWdYOCJdfcHf99Zyh8=
+
+Name: assets/images/kwx_lobby/number/8.png
+SHA1-Digest: rzlbMyDmNA+K1OirrRI41LeIrQE=
+
+Name: assets/images/kwx_lobby/img_touXiangMask.png
+SHA1-Digest: TI0duaZlhlsgNld+mQ4iSbOKVjA=
+
+Name: res/drawable-hdpi-v4/yanwu0005.png
+SHA1-Digest: hSW9j3vxHciHggNgHyvTfHDYyNs=
+
+Name: assets/images/kwx_uesrInfo/img_changeHead.png
+SHA1-Digest: lkISUduTShfCpRty940p8DUcYDw=
+
+Name: assets/images/kwx_lobby/number/y.png
+SHA1-Digest: yR4HCA/nd5ht/5fwsdXUwEJ5QOc=
+
+Name: assets/audio/ogg/kwxmj/woman_card_32_1.ogg
+SHA1-Digest: 5rVhZQSSJqM6Ei21fGqpBoFApGI=
+
+Name: assets/scripts/view/kScreen_960_640/eMailLayout.lua
+SHA1-Digest: ThN4JIQzHz6mgIWjBrrvF/qivf8=
+
+Name: assets/scripts/room/roomState.lua
+SHA1-Digest: IC3r44bfngcrSngWghePPcJhvYY=
+
+Name: assets/images/kwx_anim/lobbyQuick/img_light.png
+SHA1-Digest: eK4+7rgB10a6pCVycArBuK8UFe4=
+
+Name: assets/audio/ogg/common/man_card_29_1.ogg
+SHA1-Digest: KCFotxNnmAHhvvXjM0cNM/wRchE=
+
+Name: assets/mmiap/02/horizontal/purchasedialog.xml
+SHA1-Digest: VRcfGLekYUNupc7Fus7Mt5HmsMA=
+
+Name: assets/images/kwx_lobby/img_billNormal.png
+SHA1-Digest: /49jpncIVKVgehN7bRNgw8LB1aI=
+
+Name: assets/images/kwx_tanKuang/loading/img_icon.png
+SHA1-Digest: xbJ4PlPbtDjvL0e0wvvTU37XJFw=
+
+Name: assets/images/kwx_tanKuang/login/btn_selectlogin.png
+SHA1-Digest: y5zAg57Q7BjPbbroogv0RT7d7EA=
+
+Name: assets/scripts/popu/room/gameBoxPopu.lua
+SHA1-Digest: E5eQX6Ga1FpqEVNC8kN5IlrnNno=
+
+Name: assets/images/kwx_shop/img_pic.png
+SHA1-Digest: IfKpXSBmx/nn5AZdBmO+ksAcQD0=
+
+Name: assets/images/kwx_common/img_scrollerbg.png
+SHA1-Digest: C6+nrIs0JrFGyCtgN5PYS3CvUjo=
+
+Name: assets/scripts/ui/node.lua
+SHA1-Digest: 5o/VHOVjEmT4v4Hugfe1Trqc3Ro=
+
+Name: res/layout/getui_notification.xml
+SHA1-Digest: WMhXIjuY+CL+T/z6Sp4nXB+3BEs=
+
+Name: res/drawable-hdpi-v4/push.png
+SHA1-Digest: b6yf8p3M5ofdnR8WjRJMTGmqtSs=
+
+Name: assets/scripts/pay/branch_pay/unicomLuoMaPay2.lua
+SHA1-Digest: sLK1cbtgKV4UGTY5i5HGMstuo4I=
+
+Name: assets/images/kwx_room/room_player/man_2.png
+SHA1-Digest: OYUXzJvWEto3hspVMzLTgqf9eaM=
+
+Name: res/drawable/hfb_dialog_bg_2.xml
+SHA1-Digest: /k0iXMz+r+CIo9hVk3vwQu2jq0A=
+
+Name: assets/audio/ogg/common/woman_card_23_1.ogg
+SHA1-Digest: cu087SMkAGPtlDbADQ1Fypufyxw=
+
+Name: assets/images/kwx_lobby/img_guest.png
+SHA1-Digest: eNX63FnWlCAOAjLA3sUCs4EtbGw=
+
+Name: assets/images/kwx_tanKuang/roomUserinfo/img_3.png
+SHA1-Digest: GPAy1PLcL+8u7RFzEa6+zA91518=
+
+Name: assets/scripts/pay/branch_pay/oppoPay.lua
+SHA1-Digest: E3aFXNv7sJcyUhIZKEFsxPbOswA=
+
+Name: assets/scripts/view/kScreen_960_640/inviteFriendPopu.lua
+SHA1-Digest: eVj0KS/artu+pR4N1RW4CLzVuf0=
+
+Name: assets/images/kwx_room/img_giveLight.png
+SHA1-Digest: Yt8ONQNoicQT9utEougzfstaUK8=
+
+Name: res/drawable-hdpi-v4/activity_back_selector.xml
+SHA1-Digest: h4b4Ct7r1bW8ArKcQLaDHJRZfBc=
+
+Name: assets/scripts/atomAnim/anim/atomAnimBezier.lua
+SHA1-Digest: eghHB/JCqu9uDQoIvShr53uh0Ms=
+
+Name: assets/scripts/gameBase/init.lua
+SHA1-Digest: AaVGUHx7MFRILKmsC6EPT+y1RO4=
+
+Name: assets/audio/ogg/common/woman_card_12_1.ogg
+SHA1-Digest: MtROrVSwJDKE/8hz33f7OnwlKcA=
+
+Name: assets/scripts/mjSocket/shmj/shmjWriter.lua
+SHA1-Digest: kiHQVVQ9xvzAlsDpcUIVn5Kbpq0=
+
+Name: assets/audio/ogg/kwxmj/man_card_23_1.ogg
+SHA1-Digest: Pu8Zfk/RuBO65HGEX3UPNbNPrC4=
+
+Name: assets/images/animation/shaizi/6-2.png
+SHA1-Digest: 9e6HweIfXtkNWDc/EPIkO23sSlM=
+
+Name: assets/scripts/guide/guideInfo.lua
+SHA1-Digest: IZg4WkGefNdZ8YQXtwNqhWQFwME=
+
+Name: assets/audio/ogg/common/man_chat_05.ogg
+SHA1-Digest: EiaD2kgR5GbDehIKTJQeUB3l9FU=
+
+Name: assets/scripts/ui/ex/buttonEx.lua
+SHA1-Digest: JL0ym61Ateg0zhf9sMDJByMfbIQ=
+
+Name: assets/audio/ogg/kwxmj/woman_card_11_1.ogg
+SHA1-Digest: gdfW0kCvXGGXVUkyPvKJDWQq0+E=
+
+Name: assets/images/animation/resultless/mo0002.png
+SHA1-Digest: 3ixY0zGSM8CGOeoANSnixKANRCg=
+
+Name: assets/images/kwx_anim/levelUp/img_light10.png
+SHA1-Digest: gWCLzPNra4EA5/OwDExHhsBWhCU=
+
+Name: lib/armeabi/libboyaa20.so
+SHA1-Digest: 4qsqfVX+FN5wA/faz/u4ccJgaG4=
+
+Name: res/drawable-hdpi-v4/gc_arrow_text.png
+SHA1-Digest: gt9+ynXHzTlE5oW2ti8+/7qMjYk=
+
+Name: assets/audio/ogg/audio_left.ogg
+SHA1-Digest: 43r/EEeaoWsFcxbO8F7avGJjC9Y=
+
+Name: assets/scripts/atomAnimTable/left_side.lua
+SHA1-Digest: k+QG5XcuLuVrxDJuM9LFoKOoBsc=
+
+Name: assets/images/kwx_uesrInfo/mask_head.png
+SHA1-Digest: lJV5hvDT+35TGI+3Wp7NW2REXKU=
+
+Name: assets/images/kwx_anim/levelUp/img_xingxing.png
+SHA1-Digest: Kv8ZBayc9aia84NOgIS8zMTIpYY=
+
+Name: assets/mmiap/01/vertical/purchasedialog.xml
+SHA1-Digest: os9qi1Gl1TvgUotFzha4UQm8BUM=
+
+Name: assets/images/animation/resultless/resultless4.png
+SHA1-Digest: guF6AJqhJfTiuwX9WJKApzxL5xQ=
+
+Name: res/layout/hfb_billingcode_3.xml
+SHA1-Digest: zjlCa1q2cFXtczDkHGaa59++jQ0=
+
+Name: assets/audio/ogg/kwxmj/woman_chat_02.ogg
+SHA1-Digest: 15ZkZ3PSD6WmccLhd7SMGBtK+VY=
+
+Name: res/drawable-hdpi-v4/gc_center_help.png
+SHA1-Digest: 7tN90O+slzYiK7uVrPEyj0eAagA=
+
+Name: assets/images/common/scenc_title_right_decorate.png
+SHA1-Digest: aeLsR8lkeUI43iE5ITt1DTLOPIs=
+
+Name: assets/images/kwx_mail/img_tipsbg.png
+SHA1-Digest: wzu8Tqb8J3AkB7u3cvpOD/tfDJ4=
+
+Name: assets/images/kwx_common/img_zhezhao.png
+SHA1-Digest: /xcvPAckzJpamPNyyNxzkUSOFg8=
+
+Name: assets/audio/ogg/kwxmj/man_chat_03.ogg
+SHA1-Digest: qJ8OdMSWXh1EbC+CzkvepXOPMLc=
+
+Name: assets/com.tencent.plus.gray_normal.png
+SHA1-Digest: P6NA2qEQVIJ4nGyUaUEQaY6LYrQ=
+
+Name: assets/scripts/swfPin/loading_swf_info.lua
+SHA1-Digest: NFCzbT81GDFIh3yb/OEQt2YbTvU=
+
+Name: res/drawable-hdpi-v4/boyaa_poster_bg.png
+SHA1-Digest: 3+dFjPQk2tyFVqv7rAnWjP2xH3s=
+
+Name: assets/unicom_account/accountsdk_2_icon_check.png
+SHA1-Digest: ktkZzcWGWO+tfMSY2BVKd6OjPyM=
+
+Name: assets/images/kwx_room/img_history.png
+SHA1-Digest: LWM39nkGkdBqr9IctWmaqDQoXpE=
+
+Name: assets/scripts/utils/inspect.lua
+SHA1-Digest: HLdICtQ4CQOHkb7vLJZh+y3YV0o=
+
+Name: assets/mmiap/01/btn_3.9.png
+SHA1-Digest: yjjKbULRoDE8GpIAFqsq/EuTz9U=
+
+Name: assets/images/kwx_room/moneyNum/win+.png
+SHA1-Digest: OeJv4lvCq+KuefzhBL9giYhSUeM=
+
+Name: assets/scripts/pay/branch_pay/aliPay.lua
+SHA1-Digest: tltvFG3c0+X1fpfn2U6Ehynmxrs=
+
+Name: assets/scripts/utils/TableLib.lua
+SHA1-Digest: 4Gff2nC0cGvpcylIAm+vT7wT4k8=
+
+Name: assets/audio/ogg/audio_upgrade.ogg
+SHA1-Digest: HvjJg38lkur3Ws3Vq2u1qIe18N8=
+
+Name: assets/images/kwx_rank/img_rank1.png
+SHA1-Digest: um5OODyMpaDhLAnJgLW4xvW0A7M=
+
+Name: assets/images/kwx_lobby/btn_setting.png
+SHA1-Digest: hTBqFxovrdCY1akLM+smliYvsZQ=
+
+Name: assets/images/common/loading.png
+SHA1-Digest: 1ShTK4DnLkQdaO86UNOulnRG1fU=
+
+Name: assets/images/kwx_lobby/number2/0.png
+SHA1-Digest: SODQcFDnMP0aQHd1kIjFaq+MLdI=
+
+Name: res/anim/umeng_socialize_shareboard_animation_in.xml
+SHA1-Digest: VVKrqI1BrNTq6GwZAxs7aHAl7Mo=
+
+Name: assets/scripts/qnPlist/cards_pin2.lua
+SHA1-Digest: qV0m733maC3CmbFKd8xNjCZrRMU=
+
+Name: assets/audio/ogg/audio_exp_1008_3.ogg
+SHA1-Digest: JeDEsr07Pwz6osRB2dZmXSyCZ3w=
+
+Name: assets/scripts/atomAnim/atomAnimLoader.lua
+SHA1-Digest: m2lINaplLsIsvxa7onaUY6ovVjU=
+
+Name: assets/images/kwx_lobby/img_YHF.png
+SHA1-Digest: efqTWiIWI88qbWs4aGwZdb02L5M=
+
+Name: assets/images/kwx_anim/lobbyBottom/buttom10.png
+SHA1-Digest: 7JK3R7KyobvS+CbOYIZUhGE9BcI=
+
+Name: res/drawable-hdpi-v4/gc_member_green.png
+SHA1-Digest: Cy00ZHjfewFCIAl+bBRYDb/liDM=
+
+Name: assets/images/kwx_room/btn_invate.png
+SHA1-Digest: SahPB64A6EWLPrdYG40Tdj1FBxA=
+
+Name: assets/images/kwx_common/btn_red_small.png
+SHA1-Digest: whqholdseRHADdIM7eG1Wumj/pc=
+
+Name: res/drawable-hdpi-v4/gc_recommend_flow_one.png
+SHA1-Digest: ODsburFDvpH4jYRF4gitl+VhH3k=
+
+Name: assets/scripts/data/friendData.lua
+SHA1-Digest: P9m4K75+6lY+SP7k6u3c9HNas1s=
+
+Name: res/drawable-hdpi-v4/scenc_left_decorate.png
+SHA1-Digest: /Lm8z7/NMGlHEp0RwSneNheVfAg=
+
+Name: assets/audio/ogg/common/woman_gang1.ogg
+SHA1-Digest: 68kEVdnho4FSQdq0xadFVbOB5xE=
+
+Name: assets/scripts/pay/branch_pay/weChatApplePay.lua
+SHA1-Digest: N0UIPQP0yOImPv50A0A/fnXkFfo=
+
+Name: assets/scripts/program.lua
+SHA1-Digest: 0thqBXaS8dbVNBV8JWb63EIGL/4=
+
+Name: res/drawable/hfb_btn_white_bg.xml
+SHA1-Digest: IT3+Flka6TSJg/hDyxDg9nZvVFE=
+
+Name: assets/scripts/popu/lobby/mailSysAnnexPopu.lua
+SHA1-Digest: NHhCFrCkaCBMAjmL/89pwOazwsc=
+
+Name: assets/unicom_account/accountsdk_2_icon_progress_1.png
+SHA1-Digest: ff9mjZUAcPUiWVuqWIqEjNhttvA=
+
+Name: assets/images/animation/shaizi/3-3.png
+SHA1-Digest: Rl/vLcuCmEtskBJe+5rtKbAUets=
+
+Name: assets/mmiap/image/vertical/keyboard_button_delete_press.png
+SHA1-Digest: yv7satnRxZ23IwgQS1qqoJGaamE=
+
+Name: assets/audio/ogg/kwxmj/man_chat_02.ogg
+SHA1-Digest: YmoHmXrmT5wG0H99dMxCYJo0hdo=
+
+Name: assets/unicom_account/accountsdk_2_btn_blue_press.9.png
+SHA1-Digest: i+Z6ThQ7i9qz08RTVQBwOr7kCK0=
+
+Name: assets/images/kwx_room/room_gameOver/number/j.png
+SHA1-Digest: wfCdXyKjZgoVJ4pNN7Q2MXg2Zbk=
+
+Name: res/drawable-hdpi-v4/friend_circle_share.png
+SHA1-Digest: zKMB0ZMf2egwEpMLN8Vg5TAlLq4=
+
+Name: assets/images/kwx_lobby/img_gaoJiChang.png
+SHA1-Digest: ospUeX6INxZv0YXfjZFlzUN/jsI=
+
+Name: assets/scripts/animation/animShake.lua
+SHA1-Digest: HSFg7nZlaiA5uFhH6D4Ouppu5X8=
+
+Name: res/drawable-hdpi-v4/gc_start_cmcc.png
+SHA1-Digest: 91Ly/MN95J9fvNUGd5iWho7UD+I=
+
+Name: assets/images/kwx_anim/lobbyQuick/img_quick9.png
+SHA1-Digest: 7Ak685eNKx8NMvQHGIY95D+QDn0=
+
+Name: assets/images/kwx_room/moneyNum/lose7.png
+SHA1-Digest: p2UrFgEHDR+YJdEZp/DRdGAr20s=
+
+Name: assets/images/kwx_shop/img_coinClicked.png
+SHA1-Digest: i2vqQ6c1piedygiZp66ucF4Ny/I=
+
+Name: assets/scripts/data/levelConfigData.lua
+SHA1-Digest: N8pgmzgjSD7e1BaysSnM6fWkazQ=
+
+Name: assets/scripts/data/noticeData.lua
+SHA1-Digest: BsgeF92HHHwcYaDHsmEj5J4uxQE=
+
+Name: res/drawable-hdpi-v4/gc_share_sms.png
+SHA1-Digest: P3VVN9UcG2QAYVgjUd5MhVAYVS8=
+
+Name: res/drawable-hdpi-v4/boyaa_left.png
+SHA1-Digest: yWNyn3+Nwl7yFX5wXkEM73RUUy4=
+
+Name: assets/arm64-v8a/libunicomSimplesdk.dat
+SHA1-Digest: 0eU9pjfdF8HIK4KYzIqwq1mBPeA=
+
+Name: assets/images/kwx_room/room_gameOver/number/8.png
+SHA1-Digest: ZQ5HUR84dintbta7H9bPYqXtO5M=
+
+Name: assets/scripts/room/gdmj/entity/gdPlayer.lua
+SHA1-Digest: Ld66NWeMw1VOzYNFPTkhBv+usAM=
+
+Name: assets/unicom_account/accountsdk_2_float_btn_activity.png
+SHA1-Digest: yPo7C0Q4d2EmfZLfIl/4S0Yih3E=
+
+Name: res/drawable-hdpi-v4/gc_toast_tip_horizontal.9.png
+SHA1-Digest: hIHj0FJEbjmWunnbQkNA3q7yuTI=
+
+Name: assets/mmiap/03/vertical/sucresultdialog.xml
+SHA1-Digest: W4Ca3B1U7rLiGwtofKcXfZPgs94=
+
+Name: assets/images/kwx_room/gamebox/btn_box_gold_3.png
+SHA1-Digest: cHXCoUoZpTEup00sGu/QOP9FtaI=
+
+Name: assets/scripts/animation/friendsAnim/animationThrowRock.lua
+SHA1-Digest: 1FWoRUYYjh9/bm/lwhL9L/WWt7Q=
+
+Name: assets/scripts/popu/lobby/telRegisterPopu.lua
+SHA1-Digest: jt47gwp10eZgIJvvzuBoQzojmeU=
+
+Name: assets/images/kwx_chat/img_chatRed_bg.png
+SHA1-Digest: xzwpfnzn/HstNZhCOvHPJDH1oso=
+
+Name: assets/images/kwx_lobby/logoBG.png
+SHA1-Digest: RoDro5aaNu2gPMcwkAAQz6BPVWs=
+
+Name: assets/scripts/gameBase/socketWriter.lua
+SHA1-Digest: 9/5fxWro311d1WLa4Ca7VDfD6ro=
+
+Name: assets/audio/ogg/kwxmj/woman_hu1.ogg
+SHA1-Digest: plds/+fA2D836eq1p2les7CyGhw=
+
+Name: lib/armeabi/libhfswpay.so
+SHA1-Digest: 02JBnVWIEDP/yqCUZf1qxKYNvb4=
+
+Name: assets/images/kwx_room/setting.png
+SHA1-Digest: weFU1EodfohV9DZxZTTSFMzxAnA=
+
+Name: assets/images/kwx_tanKuang/login/img_vistor.png
+SHA1-Digest: W/D+/kBYiDeEpUVIlMg/b8cL8nQ=
+
+Name: assets/mmiap/03/icon_info.png
+SHA1-Digest: Tzxt0fKmD3jerOCKPnUUJCGeoC8=
+
+Name: assets/scripts/room/gameServer.lua
+SHA1-Digest: bJBm4T2/VhlO7rQFOP1AFsaxN1A=
+
+Name: assets/mmiap/image/vertical/splash_h.jpg
+SHA1-Digest: pQTNLInmQuMvaWhiYODWLql56GU=
+
+Name: assets/images/kwx_room/gameOpeation/hu_btnpress.png
+SHA1-Digest: FPOTC3KZU/d1hsoGwigfaEcdtqA=
+
+Name: assets/images/kwx_tanKuang/lobbySetting/btn_process.png
+SHA1-Digest: jVdYqDUdVXATZiJMj2eO3oVongA=
+
+Name: assets/images/kwx_shop/btn_select.png
+SHA1-Digest: Q3H+Tf/7Uo6l6/rr/+i+2hIVYKA=
+
+Name: res/drawable-hdpi-v4/gc_gamehall.png
+SHA1-Digest: B7+ymuUrRv5IQF/MWz2g8lVbt5k=
+
+Name: assets/button_green.9.png
+SHA1-Digest: 72N51zPrka+KUNiJfTjwx3sHXAI=
+
+Name: assets/images/kwx_room/img_piao.png
+SHA1-Digest: +oACjxabut20Psjrkz/Btw+YnE4=
+
+Name: assets/images/kwx_tanKuang/roomSetting/img_select.png
+SHA1-Digest: HAgpbuCd+u9mF7EwDiBPCq0nbB8=
+
+Name: res/drawable/umeng_update_button_close_bg_selector.xml
+SHA1-Digest: FQfP8HR7uacWjCGdzdlH4XN0Aac=
+
+Name: assets/mmiap/01/horizontal/progressdialog.xml
+SHA1-Digest: 8oZzte+lGCWU1P9EsJic9E7F8WM=
+
+Name: assets/scripts/swfTween/swfPlayer.lua
+SHA1-Digest: /RXoCx/5n3TU4P1+gith0rve6vo=
+
+Name: assets/mmiap/01/horizontal/failresultdialog.xml
+SHA1-Digest: c2SrmD+fMFKUxPHnYCEbSw410PU=
+
+Name: res/drawable-hdpi-v4/share_image.png
+SHA1-Digest: +XJVVZgO1QI6EFJ+DTj4y4/5H+8=
+
+Name: res/drawable-hdpi-v4/gc_startview_bg_land.jpg
+SHA1-Digest: 6WWSEIdxFwwp/qstk8gQqDLALpI=
+
+Name: res/layout/hfb_title.xml
+SHA1-Digest: 2C8hwC0R6/NuYElQw7w/DGync0E=
+
+Name: res/layout/boyaa_login.xml
+SHA1-Digest: cVEHwRM7DMG3fMiYjKB3xwvHe0Q=
+
+Name: assets/scripts/data/propData.lua
+SHA1-Digest: tJSWcLY6ET6WGpbY//du3JeCb0w=
+
+Name: res/drawable-hdpi-v4/umeng_update_btn_check_off_holo_light.png
+SHA1-Digest: LV/7eNLcJG6YuRPWli/QPnabT+s=
+
+Name: assets/mmiap/image/vertical/icon_false.gif
+SHA1-Digest: QJUchWVIgEv3GjWyNk4Svz+i/Ms=
+
+Name: assets/images/common/buttons/gray_small.png
+SHA1-Digest: /9E7fnmn2FSWo3I5GP7Ca4GomfE=
+
+Name: assets/unicom_account/accountsdk_2_float_btn_recharge.png
+SHA1-Digest: MPA+C+TRieEBLSAeLfBkaEK3fzg=
+
+Name: assets/images/kwx_room/room_gameOver/lost/number/2.png
+SHA1-Digest: VlORxtVrnte0Etip6V00CB5hspk=
+
+Name: res/layout/hfb_billingcode_2.xml
+SHA1-Digest: FOoPFxuUD6SdgRfHSlJyifLaJHk=
+
+Name: assets/images/kwx_room/gameOpeation/img_selectPai.png
+SHA1-Digest: ZE0DcR1VIilAdETrgBlE/HR+Ov0=
+
+Name: assets/audio/ogg/audio_exp_1011_1.ogg
+SHA1-Digest: 4QVEKV4PZpDOp3hH0eA2wE7YolA=
+
+Name: assets/mmiap/03/button1_confirm.9.png
+SHA1-Digest: 4R7Eld1CWay8DOJmOL2lNUDttNo=
+
+Name: assets/images/kwx_tanKuang/sign/btn_mianban_2.png
+SHA1-Digest: Mf6oiFbd0S9u/IH31RkTS0Xt8sw=
+
+Name: assets/scripts/popu/gameWindow.lua
+SHA1-Digest: XRTM7W7ZU8Mh/8pmQRIgDakavn0=
+
+Name: assets/audio/ogg/kwxmj/woman_piao.ogg
+SHA1-Digest: O6qIUa79IvI7pv4D39IotMQed4s=
+
+Name: assets/mmiap/image/vertical/editbg_a.9.png
+SHA1-Digest: QGXMb8LjWODylPkVZ1y373junbM=
+
+Name: assets/scripts/ui/uiConfig.lua
+SHA1-Digest: 6RZ7csK2gcNZpFX7RCmWL6rxkjQ=
+
+Name: assets/audio/ogg/kwxmj/man_gang0.ogg
+SHA1-Digest: kMNJ7x9xo58kQ6NwLtHArvQBUMs=
+
+Name: assets/scripts/core/anim.lua
+SHA1-Digest: GsPPRl3ZaPAW9LyqN79RlkypdO0=
+
+Name: assets/images/kwx_tanKuang/login/img_check.png
+SHA1-Digest: GmfSo9raHQQkeI045NpnW/3dMQ0=
+
+Name: assets/audio/ogg/common/man_hu2.ogg
+SHA1-Digest: 7Vl7Q87mAhmEUZtyk7adVzgdma8=
+
+Name: assets/images/kwx_anim/lobbyBottom/buttom3.png
+SHA1-Digest: 81vFUi/TJ0yYXGlQF1949Tm+FLY=
+
+Name: assets/scripts/room/entity/player.lua
+SHA1-Digest: IZKe4MN0Tx1efgHj5+5Ettxd4lQ=
+
+Name: res/drawable-hdpi-v4/title_bg.png
+SHA1-Digest: 5hRki7sA/dcyhmlW7g68iuM5OVk=
+
+Name: assets/unicom_account/accountsdk_2_portrait_default_square.png
+SHA1-Digest: psR9QqmntWFscKQmT5kFxrUHKbw=
+
+Name: res/layout/main.xml
+SHA1-Digest: BFvkd8dQzBxOvCD3YmHo6xGQdz0=
+
+Name: assets/images/kwx_room/img_palyerBg.png
+SHA1-Digest: vydXCnaq3j1J2hdZVPDIenpFD8E=
+
+Name: assets/images/kwx_tanKuang/selectPay/img_yinlian.png
+SHA1-Digest: 6kvo9oFar/N4yskza0cw4f0BYBo=
+
+Name: res/drawable/hfb_btn_cancel_bg.xml
+SHA1-Digest: eyXyNqUs5Yp/SvWweGCFKAYDnVc=
+
+Name: assets/scripts/atomAnimTable/shake.lua
+SHA1-Digest: Y4XhaaTOghsWAiD+Rl+SeCLCRoE=
+
+Name: assets/audio/ogg/common/woman_chat_03.ogg
+SHA1-Digest: bvYpeok9Eir32/q/D4gbkCprcOA=
+
+Name: assets/audio/ogg/common/man_card_13_1.ogg
+SHA1-Digest: n/3rSzHsr3LhkNZ2q/d4I0u/CGE=
+
+Name: res/drawable-hdpi-v4/hfb_query.png
+SHA1-Digest: /klS7FyrdTNcePj8x17JqJDVS8M=
+
+Name: assets/scripts/platform/platformFactory.lua
+SHA1-Digest: RUr8Z9t2VEkKarVxdAawsrveqZ8=
+
+Name: assets/images/kwx_friend/img_add.png
+SHA1-Digest: K+F9TErLzxl9HExOdjF/Yit+OL8=
+
+Name: assets/mmiap/image/vertical/icon_info.gif
+SHA1-Digest: fmI+/YbNZdIsN0WvSG+lm5zh7ig=
+
+Name: assets/scripts/atomAnimTable/coinflash5.lua
+SHA1-Digest: JXSTHtE4F3NPSHY8imxBKLawstU=
+
+Name: res/anim/slide_out_from_bottom.xml
+SHA1-Digest: zw0QFnj+4kwx22Dyyfu6dS8PzFE=
+
+Name: assets/audio/ogg/common/man_zimo1.ogg
+SHA1-Digest: DN8iOmEKF0TT1dRTmlaI7zF6Cbc=
+
+Name: res/drawable-hdpi-v4/boyaa_snail_one.png
+SHA1-Digest: PhAK6kAOJTqrk/6+ZY9fx9SHOhs=
+
+Name: assets/audio/ogg/common/man_card_31_1.ogg
+SHA1-Digest: L2EThtD0mwxXAboRIWenZny71yY=
+
+Name: assets/images/kwx_tanKuang/bigGift/img_huaFei.png
+SHA1-Digest: qWUrLZUGgbTyalz2mXMtSrsbJFg=
+
+Name: assets/images/kwx_room/room_timer/img_lTimer.png
+SHA1-Digest: 3saTvIdlcUJ3iJKREL3KWtyeyqo=
+
+Name: assets/images/kwx_anim/lobbySelect/img_select5.png
+SHA1-Digest: gfYq++BIuUy4/NvtaSnOFFPQRxQ=
+
+Name: res/layout/hpay_text_progress.xml
+SHA1-Digest: p4ol1t57IJc5cTv7tHBvfjoAUqw=
+
+Name: assets/audio/ogg/audio_liuju.ogg
+SHA1-Digest: v1HrSVLXi906tiO4T9OTRwCluRQ=
+
+Name: assets/scripts/gameBase/gameMusic.lua
+SHA1-Digest: sQXApTvVpgeqFlrACLtLKRofo5A=
+
+Name: res/drawable-hdpi-v4/hfb_application.png
+SHA1-Digest: Bg4Svb9a5gmRjKfIGtnvHrAhjTQ=
+
+Name: assets/scripts/room/shmj/entity/shUserPanel.lua
+SHA1-Digest: JxoPNIUdD4tB7up/HKcyCVAugUc=
+
+Name: res/drawable/hfb_info_bg_3.xml
+SHA1-Digest: hoD6SQ0MOC5488JNvEV6b5dQzDg=
+
+Name: assets/images/kwx_room/img_remainCard.png
+SHA1-Digest: NPGpmCtdM/WXJzSC5WGp0VE0L2Q=
+
+Name: assets/scripts/pay/branch_pay/yiDongJiDiPay.lua
+SHA1-Digest: 2PlS6KWB1EDgmvj1ns4YEO+2f7M=
+
+Name: assets/scripts/view/kScreen_960_640/mailSysMsgItem.lua
+SHA1-Digest: 0DkdmPQAnNDJRcWIFgP9MZXQgno=
+
+Name: assets/images/kwx_room/room_gameOver/lost/number/0.png
+SHA1-Digest: k0vP+Crt/3Hcc2YAxrmpw+lvzAA=
+
+Name: res/drawable-hdpi-v4/hpay_bg.png
+SHA1-Digest: mye8YoebAIDm0cGzCrs5pdBo/6k=
+
+Name: assets/images/ui/blank.png
+SHA1-Digest: oNnXfHSKRiOebtoUtFPUBluEQTs=
+
+Name: assets/images/ui/radioButton1.png
+SHA1-Digest: Y5C7pUqTqqWSX5/ElqZT0txrchk=
+
+Name: res/drawable-hdpi-v4/gc_sound_on.png
+SHA1-Digest: wC8RR8/Bc6R5Jo5V+wiVw5FjKwU=
+
+Name: assets/audio/ogg/kwxmj/man_hu1.ogg
+SHA1-Digest: AQaVhoh4xx9C8VvLuXDk3KV8IP4=
+
+Name: assets/mmiap/02/line.png
+SHA1-Digest: JfevbgnxsUG+NrGALeC/D+Dqr5I=
+
+Name: res/layout/bottom_web.xml
+SHA1-Digest: 0LKKPTJkzRKMWwdL5vQoiCEh0E4=
+
+Name: assets/audio/ogg/common/man_card_12_1.ogg
+SHA1-Digest: WzBFwhGX2qAAw/HqGt7w2699GS0=
+
+Name: assets/mmiap/02/btn_gray_click.9.png
+SHA1-Digest: R9YV0rlndTVz3NZQkB6cg8ZRkBc=
+
+Name: res/anim/umeng_socialize_fade_in.xml
+SHA1-Digest: MGPwQ5UjqA9j+G0O70wU+dPBkw4=
+
+Name: assets/unicom_account/accountsdk_2_btn_modify_uinfo.png
+SHA1-Digest: vUCmYV5+uKV0Y8RCFMMl9OBctP0=
+
+Name: assets/mmiap/01/icon_success.png
+SHA1-Digest: sOe+Qt82WgUDTrKObG2VpVkJzoA=
+
+Name: assets/scripts/animation/animAddMoney.lua
+SHA1-Digest: PlQbvxketv70KeBGXJgSAZ6+v3g=
+
+Name: assets/scripts/mjSocket/base/socketTip.lua
+SHA1-Digest: aMWSu8MACPZ613iJ9Mq3yXfVuKI=
+
+Name: assets/scripts/motion/EaseMotion.lua
+SHA1-Digest: wBeQCFsmvif7Ao2RqObTB0Bfi10=
+
+Name: assets/scripts/room/gbmj/entity/myGbPlayer.lua
+SHA1-Digest: mbpa3qYr1n8YFPB/ubUJpE1hQq8=
+
+Name: res/drawable/umeng_update_button_ok_bg_focused.xml
+SHA1-Digest: mIg6H8I4hSNTvD4ZAtkLZQ46/1s=
+
+Name: res/drawable-hdpi-v4/gc_recharge_sale.png
+SHA1-Digest: Mxafzg8GnH6ynLtKU2qN8RsbRo4=
+
+Name: assets/images/kwx_uesrInfo/img_hasRenZheng.png
+SHA1-Digest: N3slUBpLGMEU45JEgq3AkpRX8pQ=
+
+Name: assets/scripts/room/entity/userGameView.lua
+SHA1-Digest: 9RFgfCEdIyc881Mym8VFpkPqUNY=
+
+Name: assets/mmiap/03/horizontal/savingdialog.xml
+SHA1-Digest: tsdAo+YmExG9Nl+LbPHzJsMqnn4=
+
+Name: assets/scripts/atomAnimTable/coinflash8.lua
+SHA1-Digest: dIrGJx9EEDbOfpOZw2HnK4d6NA0=
+
+Name: assets/images/kwx_common/btn_gray_big.png
+SHA1-Digest: lwon7WbPyn6KaUsma17yEk0r4Qs=
+
+Name: assets/audio/ogg/kwxmj/woman_card_16_1.ogg
+SHA1-Digest: Bc5ZOwKZH7LmY6uO3t8CRnquZk8=
+
+Name: assets/audio/ogg/kwxmj/woman_chat_06.ogg
+SHA1-Digest: Q4BlFQJeHz0QriX1Pe/9PLQxvfk=
+
+Name: assets/images/animation/ink0001.png
+SHA1-Digest: jyUcMtO+wss7mjR8hXOvJWSIbok=
+
+Name: assets/images/kwx_tanKuang/roomChat/btn_selected.png
+SHA1-Digest: AVoslDRyeFZ3ShjAjgfC1A5Kl50=
+
+Name: res/layout/hfb_bsverifycode.xml
+SHA1-Digest: HOQ0GS+QH3p64pGjteicfOP/Vz8=
+
+Name: res/drawable-hdpi-v4/hfb_info_bg.xml
+SHA1-Digest: hCdHOeCwyEf2CPRVSjndXJ1urSo=
+
+Name: assets/scripts/popu/public/rechargePopu.lua
+SHA1-Digest: VotozqWWL3fOqeY9V9xUtXJUXxY=
+
+Name: assets/inc_start.png
+SHA1-Digest: YGF3y/3UbhFtJ9+Hj3cm63crvr4=
+
+Name: assets/unicom_account/accountsdk_2_float_bg_expand_lr.9.png
+SHA1-Digest: PqNvGT1L4h6eReQz94Xdvp9PAnY=
+
+Name: assets/unicom_account/accountsdk_2_float_bg_lo.png
+SHA1-Digest: NuGn1NYMnDiRhyuuBR/swMEX2t8=
+
+Name: assets/unicom_account/accountsdk_2_icon_paytype_11.jpg
+SHA1-Digest: TlcIu8p894GjB/T+/elz3e8lAyc=
+
+Name: assets/scripts/gameBase/gameSocket.lua
+SHA1-Digest: +8W1Jq+ul1B75nOtedOwEC3l/EI=
+
+Name: assets/mmiap/01/horizontal/savingdialog.xml
+SHA1-Digest: 1gsLjRjsHZ5RgG6cBrIRu2ibZfU=
+
+Name: assets/images/kwx_room/gameOpeation/ming-btnnormal.png
+SHA1-Digest: JzAyyby7N5hPGrP6c6NYnRZAusY=
+
+Name: assets/scripts/data/signAward.lua
+SHA1-Digest: t2gc0ISwHqpPN1Grk9mRi6hNwYI=
+
+Name: assets/images/kwx_room/accounts/negative/2.png
+SHA1-Digest: 4Rsq25LZrMrNx7YP9f1HLCffnK8=
+
+Name: assets/audio/ogg/common/woman_chat_08.ogg
+SHA1-Digest: XCiP40zQC7izoLm3qD4Yu7ag9iQ=
+
+Name: assets/images/kwx_room/accounts/img_cai4.png
+SHA1-Digest: m3VXl6MCtxXNJIPTRqfY4AAxR6M=
+
+Name: assets/images/kwx_tanKuang/bankrupt/8.png
+SHA1-Digest: TBjNyzNlT5L+IQGqQQEKX2QQL/U=
+
+Name: assets/audio/ogg/kwxmj/man_chat_01.ogg
+SHA1-Digest: YwzcWWKgj+SYzwTZIjpoPKj8wqE=
+
+Name: res/drawable-hdpi-v4/loding0001.png
+SHA1-Digest: Gcxui23uI/5M2whhsrP8qKVmlgI=
+
+Name: assets/scripts/animation/animationWinGame.lua
+SHA1-Digest: AvHRl1dLcITTK5puN8CXT/OrdJg=
+
+Name: assets/audio/ogg/kwxmj/man_gang1.ogg
+SHA1-Digest: ynRkIOQWGufBaiIvxbwIRNdRpyM=
+
+Name: assets/audio/ogg/common/man_gang1.ogg
+SHA1-Digest: F7I/7U2QlUiHr2WNBl/71o0q00c=
+
+Name: assets/scripts/core/socket.lua
+SHA1-Digest: 6baz5socS6+7l4AtcaTh5+KxVAM=
+
+Name: assets/images/kwx_common/img_tanKuang_mid.png
+SHA1-Digest: 6HIlBVdyRtqA34Sh64HOabAnyp4=
+
+Name: assets/scripts/popu/lobby/payPopu.lua
+SHA1-Digest: nUEZxe2Z0/IX3E2WDGwdZ+cgDrw=
+
+Name: res/drawable-hdpi-v4/loadingtips.png
+SHA1-Digest: ommTmkCuIMuZWoMTIvzGy/9IK/o=
+
+Name: assets/images/kwx_rank/img_title1.png
+SHA1-Digest: zm1P7Cxv7XSh07CUvkzuAnny4qE=
+
+Name: assets/audio/ogg/kwxmj/woman_card_22_1.ogg
+SHA1-Digest: EIhr/1rbUE0yt4fohn+pM3MjgKw=
+
+Name: assets/audio/ogg/kwxmj/man_hu2.ogg
+SHA1-Digest: EwG27H3B8UpvEbbhdk5LtOVEhIA=
+
+Name: assets/audio/ogg/common/man_card_17_1.ogg
+SHA1-Digest: 9ZB4OLPd+FApjgsqQcIxzubLeBg=
+
+Name: res/layout/hfb_billingcode.xml
+SHA1-Digest: cyeftWUJJranXWr8tCJNgFlf4Ww=
+
+Name: res/drawable-hdpi-v4/umeng_update_close_bg_tap.png
+SHA1-Digest: 53buYxJ9kS7NWujZUEh8h4t24Ik=
+
+Name: assets/mmiap/03/title1_bg.png
+SHA1-Digest: Mk9uKdROHrMkoWDpgcd7Pm85gfU=
+
+Name: assets/audio/ogg/kwxmj/woman_hu0.ogg
+SHA1-Digest: B5L6fpZOx8HzssWs7Izo9OYIx1Q=
+
+Name: res/drawable-hdpi-v4/share_bg_img.png
+SHA1-Digest: ZjyUKiYrE9JDAJkYrmAxzOjQP8A=
+
+Name: assets/images/kwx_tanKuang/sign/img_caidai.png
+SHA1-Digest: gzM1yLSGM8cZfHc2OmKVBRWTvUE=
+
+Name: assets/scripts/animation/animTemplate.lua
+SHA1-Digest: tKNffGcEkhFbHKoWZupMDMUmIs4=
+
+Name: assets/scripts/atomAnim/anim/atomAnimPosSolid.lua
+SHA1-Digest: g3mx6ktuRqte1b8RLwhljyXWntQ=
+
+Name: assets/images/common/scene_inner_bg.png
+SHA1-Digest: SGQTUDTYfAcGSZ0WUiOPEIngyR8=
+
+Name: assets/images/kwx_tanKuang/login/img_sigle.png
+SHA1-Digest: SJW7W1jxlKvRDBMsY+weT0CFCzY=
+
+Name: assets/com.tencent.plus.blue_disable.png
+SHA1-Digest: KwQ2SLR32W8k+uF420pUXoLLAto=
+
+Name: assets/scripts/popu/public/signAwardPopu.lua
+SHA1-Digest: ZdOxqZRbutEszQH/+vOHvRRfzuU=
+
+Name: res/layout-v11/rule.xml
+SHA1-Digest: 5VCq0rz1TGmcvCoXFtEgz1SDjlM=
+
+Name: assets/mmiap/03/btn_gray.png
+SHA1-Digest: pCOjkYRBD2qBlz/QrV6EpxpNYNo=
+
+Name: assets/audio/ogg/common/man_liangdao.ogg
+SHA1-Digest: pKh1/8zIhzQqU+r6YkzVGFxu6go=
+
+Name: assets/images/kwx_tanKuang/bankrupt/0.png
+SHA1-Digest: xN55WC4UMaEHKY67geF8sKTQlQU=
+
+Name: assets/images/kwx_room/room_gameOver/lost/number/1.png
+SHA1-Digest: V13EH2a6uWr9bdT/Ast45CpS32k=
+
+Name: assets/scripts/room/coord/roomCoord.lua
+SHA1-Digest: EpzZwxRIFTVkynZQy5jnQCrDdow=
+
+Name: assets/scripts/room/shmj/entity/shCardPanel.lua
+SHA1-Digest: 5XN6ne+q8bfSPikTbF8hR+XrOMw=
+
+Name: assets/scripts/view/kScreen_960_640/rankDianFengItemLayout.lua
+SHA1-Digest: gCble+ws1AvTpLcxtl5sg55RsmU=
+
+Name: assets/images/kwx_lobby/img_huaFei.png
+SHA1-Digest: muJP5AP0gtE5705EcPJn/7z/MKc=
+
+Name: assets/scripts/view/kScreen_960_640/rankUserLayout.lua
+SHA1-Digest: +Ikpfjm/Nlpy1groW5Ct2J4/kzo=
+
+Name: assets/images/ui/spinner_arrow.png
+SHA1-Digest: xkxPIDDMOoZh78aHvzbKlCWQzyY=
+
+Name: assets/images/kwx_lobby/img_quickbg.png
+SHA1-Digest: aytrxSp2YfglYv5aQEvMLEsnTTk=
+
+Name: assets/images/animation/shaizi/6-3.png
+SHA1-Digest: a60RJk0c83fCcyZFuFkbqfLrGQg=
+
+Name: assets/images/kwx_tanKuang/roomUserinfo/img_7.png
+SHA1-Digest: SlJ+wG1VjO2eG84vboSXnYhwxs0=
+
+Name: assets/unicom_account/accountsdk_2_float_btn_recharge_pressed.pn
+ g
+SHA1-Digest: 1WRSJPvwu5TOynbHuqXtwU8BMKk=
+
+Name: assets/scripts/core/eventDispatcher.lua
+SHA1-Digest: KP7hbckHCXUFGgvHEhY3hWW7L0k=
+
+Name: assets/images/kwx_tanKuang/exitGame/btn_enterHuoDong.png
+SHA1-Digest: JskO3BQLiOJzniOAzjmB6mGr5cs=
+
+Name: assets/images/kwx_room/accounts/positive/1.png
+SHA1-Digest: +tlTaJn+fKJ5hoZ6LCTxEmP2LPs=
+
+Name: assets/scripts/libs/json.lua
+SHA1-Digest: /oBZogkgW3U9xO42HtLhhjyBwGw=
+
+Name: assets/scripts/popu/public/messageBox1.lua
+SHA1-Digest: kmej9ey1UZRk+jCf1rkmjLKvwHA=
+
+Name: assets/unicom_account/accountsdk_2_btn_blue.9.png
+SHA1-Digest: ocKFEcwmtTKXiWUxTUa/ryS5Ts4=
+
+Name: assets/animation/loadingAnim.xml
+SHA1-Digest: I+e3XUi3fnnpYUU1Q741RXhysM8=
+
+Name: assets/scripts/atomAnimTable/coinflash7.lua
+SHA1-Digest: cpVR/NAO4Kugwro4f6zpd1Fdflg=
+
+Name: assets/images/kwx_room/room_gameOver/number/2.png
+SHA1-Digest: kM0Me3npRcFxfHAsCnI7gb2RdiY=
+
+Name: assets/audio/ogg/common/woman_liangdao.ogg
+SHA1-Digest: XbNwKC/QLUVw+Wb5LhmmtDuKhRY=
+
+Name: assets/scripts/mjSocket/base/socketConfig.lua
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/scripts/animation/friendsAnim/animationThrowSoap.lua
+SHA1-Digest: 9hyKuVV2bel5fvl16POEZw7AQ3I=
+
+Name: assets/scripts/popu/lobby/telLoginPopu.lua
+SHA1-Digest: gMuzh1CSzTYIzQfmuaHaB9QjLQ4=
+
+Name: assets/unicom_account/privilege_button_folded.png
+SHA1-Digest: 6tZkj+djyEevVvCuDFXorH1I4To=
+
+Name: res/drawable-hdpi-v4/gc_default_icon.png
+SHA1-Digest: wStKpluF3kY9+EjGiZaZPW2Idck=
+
+Name: assets/scripts/ui/scrollableNode.lua
+SHA1-Digest: Nm0Og5ULgkhn0K2fjzvLzxTPTYM=
+
+Name: res/drawable-hdpi-v4/gc_padview_cmss_migu_logo.png
+SHA1-Digest: FSrcfCCuQ/a+pzpVnNcCyyRknOA=
+
+Name: res/drawable-hdpi-v4/gc_phonenumber_icon.png
+SHA1-Digest: cVB70si7RR3JdNmlH2XGeRCoejc=
+
+Name: assets/scripts/atomAnimTable/flower.lua
+SHA1-Digest: fYLCeRkKY1kYdjgF5ZW7LKysrJs=
+
+Name: res/layout/hfb_success_2.xml
+SHA1-Digest: bVTGWrVSDUbuUstwVVFVNmRiD9g=
+
+Name: assets/audio/ogg/common/man_card_32_1.ogg
+SHA1-Digest: JVWMTh4BYqDw6tSngY/oGFw8K+U=
+
+Name: assets/unicom_account/accountsdk_2_icon_progress_3.png
+SHA1-Digest: pzvgLEzQDevN9u3j+qWAxVLBu+o=
+
+Name: res/drawable-hdpi-v4/hfb_step1.png
+SHA1-Digest: YENywh65kEPtHoGGA7fYdaNU/Vg=
+
+Name: res/drawable-hdpi-v4/hpay_ok_p.9.png
+SHA1-Digest: pX8B4F2tY1Lq1iLuyFphD8H2Pug=
+
+Name: assets/images/kwx_lobby/number/0.png
+SHA1-Digest: UpDhL7y1t7peYG93sr7eznPvZ9o=
+
+Name: assets/images/kwx_anim/lobbySelect/img_select6.png
+SHA1-Digest: Fm6qyf3PSq1Od7ceVCvKS4onhX4=
+
+Name: assets/mmiap/01/btn_1.9.png
+SHA1-Digest: vjHlSMMtooIutMe0xDHbmxzF10U=
+
+Name: assets/mmiap/03/vertical/purchasedialog.xml
+SHA1-Digest: EkgOosSj4dfQrpcQ/ncbV6RCVxY=
+
+Name: assets/unicom_account/accountsdk_2_bg_uinfo_landscape.jpg
+SHA1-Digest: 1eVIKYBLom4Mbn98I9n/m+VCtGk=
+
+Name: res/drawable-hdpi-v4/banner.png
+SHA1-Digest: 7H0RJzHYVyNSG0hHEe0rO65PFbU=
+
+Name: assets/scripts/room/entity/userPanel.lua
+SHA1-Digest: Ed9FMp6BUHl201wnnYblgIUAJ18=
+
+Name: assets/audio/ogg/kwxmj/woman_card_26_1.ogg
+SHA1-Digest: CKua5lEqHzpkdybG472pdWbUOMs=
+
+Name: assets/scripts/platform/platformManager.lua
+SHA1-Digest: Y4P8kJS86AYO8jUOiF6xAn1xpr4=
+
+Name: assets/unicom_account/accountsdk_2_bg_title.9.png
+SHA1-Digest: hyVuOHE6n9gd9TmFs+CnzHrkD8o=
+
+Name: assets/images/ui/switchPendingImages/8.png
+SHA1-Digest: bXGP5sTQTd7gP0eYCViDfjRhsic=
+
+Name: assets/images/common/scenc_bottom_bg.png
+SHA1-Digest: //cQgCgF8n+lxgBMLcMtdA42wMw=
+
+Name: assets/audio/ogg/kwxmj/man_chat_07.ogg
+SHA1-Digest: k+GpUz5b6j1t3JuuqumAoVyUXTU=
+
+Name: assets/scripts/atomAnim/anim/atomAnimAlpha.lua
+SHA1-Digest: av0zMaAbCv6CiKW+8PSE17sN/bM=
+
+Name: assets/scripts/animation/animShaiziAnim.lua
+SHA1-Digest: b7v9oGt9DFVKhqzIkKdGA6puDRc=
+
+Name: assets/scripts/pay/payConfigMap.lua
+SHA1-Digest: AJhYeaP2Q1KO1BPbmvii8pBq3ps=
+
+Name: assets/images/kwx_lobby/btn_newtask.png
+SHA1-Digest: i3X+htVdi8eX92hiPjZWexji490=
+
+Name: assets/images/kwx_room/accounts/negative/1.png
+SHA1-Digest: 6NNfxaj798rtuzyzWAe8OFL0VMk=
+
+Name: assets/scripts/room/shmj/entity/shPlayer.lua
+SHA1-Digest: beM+Y/NzrwPzpz/ZIIJ1I1P19rs=
+
+Name: res/drawable-hdpi-v4/gc_compact_close.png
+SHA1-Digest: sXbNVIP6Fm9ZjT4XVr9jpIPnFKo=
+
+Name: assets/images/ui/switchPendingImages/4.png
+SHA1-Digest: RiIAG5GqfUAQIKgabqEa4POK2is=
+
+Name: assets/images/kwx_room/accounts/img_headK2.png
+SHA1-Digest: n93SetTrH32BbVcxFchNOWxzpx4=
+
+Name: assets/images/kwx_room/room_gameOver/detail/img_bank.png
+SHA1-Digest: 7H21PybpZ5BXT1rNVc7auoYtSfk=
+
+Name: assets/images/animation/lose/lose0002.png
+SHA1-Digest: uTNMJ9ruDdxikM1KjvpmuvRS/vo=
+
+Name: assets/mmiap/01/horizontal/purchasedialog.xml
+SHA1-Digest: os9qi1Gl1TvgUotFzha4UQm8BUM=
+
+Name: assets/scripts/atomAnimTable/hebei.lua
+SHA1-Digest: irBTSh8T2F/jclV2Bxe6sO+EkhI=
+
+Name: res/drawable-hdpi-v4/gc_center_edit.png
+SHA1-Digest: WQtn6ekMWKBycDTEtOXpWHwQa7Y=
+
+Name: assets/images/kwx_room/gamebox/btn_box_silver_1.png
+SHA1-Digest: RJEgfwhbP47z1HEEEWjXue/cNxw=
+
+Name: assets/images/kwx_tanKuang/gameBox/number/4.png
+SHA1-Digest: 7JHVY0vMhIL2R21/8Q3WB+E77Ls=
+
+Name: res/drawable-hdpi-v4/gc_center_gameshare.png
+SHA1-Digest: 0ePplZuzjTrgRqhDkAcEqfrwsXc=
+
+Name: assets/mmiap/02/horizontal/sucresultdialog.xml
+SHA1-Digest: A3nJwj/drBPuTknZgnUA3VhoJuU=
+
+Name: assets/images/kwx_chat/img_textInput_bg.png
+SHA1-Digest: tjDuIVwwTJ4mlqk0w9LQAh4wf+s=
+
+Name: assets/scripts/view/kScreen_960_640/userInfoPopu.lua
+SHA1-Digest: cbixD9PQ4pHkt0JQoUiY1q6/iiM=
+
+Name: assets/mmiap/03/horizontal/failresultdialog.xml
+SHA1-Digest: A9wkd0ClL7VeSedyL5sYlbQnJ0s=
+
+Name: assets/scripts/core/sceneLoader.lua
+SHA1-Digest: zoRhK+bqEoGtInCRvqduWUusR78=
+
+Name: assets/unicom_account/accountsdk_2_arrow_right.png
+SHA1-Digest: lqFi7FywjuJQ7HSCj00dBTdbCF0=
+
+Name: assets/values/dimens.xml
+SHA1-Digest: 1YKCbh8KMpcKzAI+VsB7t6mrxIA=
+
+Name: assets/scripts/view/kScreen_960_640/loadingBg.lua
+SHA1-Digest: s3II1Ph+2cctiKTMo7sUDNHoK1o=
+
+Name: assets/images/kwx_help/img_fanshuClicked.png
+SHA1-Digest: QBIzwnnDQufP8LhSiwRcLkuA+Yg=
+
+Name: assets/scripts/animation/friendsAnim/animationSendKiss.lua
+SHA1-Digest: 2Xq8xlY+/qFZ6b0GiOUPWXTSoTw=
+
+Name: assets/com.tencent.plus.ic_success.png
+SHA1-Digest: nfo99+6yphuEgBIZu6+cg0j1+3k=
+
+Name: assets/images/kwx_shop/img_defalutHuaFei.png
+SHA1-Digest: Yy4dAsFAiDFuORs/CplqQcdVjIM=
+
+Name: assets/images/kwx_common/img_jewelD.png
+SHA1-Digest: 7b3c8u7diAs0Sab69K0JfsTwgEw=
+
+Name: assets/scripts/utils/utils.lua
+SHA1-Digest: O5yTzWJw/yx7SRBqQv0iUgFa8cg=
+
+Name: res/drawable-hdpi-v4/boyaa_snail_two.png
+SHA1-Digest: y1XdQmI16C0Zk2abamfNMx8lM3Q=
+
+Name: res/layout/hpay_act_dialog.xml
+SHA1-Digest: O2zO5q0tSd25iSvfixEXP4oqoz0=
+
+Name: assets/images/kwx_room/accounts/positive/4.png
+SHA1-Digest: OuTlfjCz/gZ3xDs0Jkv0vJT+A6w=
+
+Name: assets/scripts/ui/spinner.lua
+SHA1-Digest: H8qwb+muDJJcekgjjOJqf0/lINs=
+
+Name: assets/images/animation/roomAnim/word_bg_right.png
+SHA1-Digest: SvzKx/W9qwF4X5kcc5L/C0PvBAE=
+
+Name: assets/unicom_account/accountsdk_2_icon_paytype_3.jpg
+SHA1-Digest: JTVsB9Brbtg4esXk9n8jQGZYDYo=
+
+Name: assets/images/kwx_room/room_gameOver/lost/number/8.png
+SHA1-Digest: 64p9Q+yOpHcGPCu/0i4HDPzMSMA=
+
+Name: assets/audio/ogg/kwxmj/man_card_24_1.ogg
+SHA1-Digest: k3yVZAvPjg4O2xSeFzbDWELorkw=
+
+Name: assets/images/kwx_room/moneyNum/lose1.png
+SHA1-Digest: LICiY2wpVZxxdOA802kRRMs2xS0=
+
+Name: assets/audio/ogg/kwxmj/man_card_12_1.ogg
+SHA1-Digest: x6xe30Gnr+tw7CcArIxHfVjokKY=
+
+Name: assets/scripts/view/kScreen_960_640/createRoomPopu.lua
+SHA1-Digest: LnjQVSfWqK8xRQsJx5L59Zz0/Qs=
+
+Name: res/drawable-hdpi-v4/spinner_black_48.png
+SHA1-Digest: qkjoQSdGsXWgO54HCYcWjfVtL3I=
+
+Name: assets/mmiap/01/btn_4.9.png
+SHA1-Digest: y5x+rbodH1/Yr8Pa0vYcqq8ig6E=
+
+Name: assets/audio/ogg/common/woman_card_13_1.ogg
+SHA1-Digest: oe2t+0/0T7HjPpccRGeNu5BWLFg=
+
+Name: assets/images/kwx_anim/levelUp/img_light13.png
+SHA1-Digest: DZEpNvGgx71/yWW3mkKR2U4jZ0Y=
+
+Name: assets/scripts/core/observer.lua
+SHA1-Digest: 3N5ddDG/d+YiyBgdY7H+J/+Bd90=
+
+Name: assets/inc-default.png
+SHA1-Digest: 0SDVf/hZZwBJcqx7Y9P/5oR92lM=
+
+Name: res/drawable/hfb_info_bg.xml
+SHA1-Digest: hCdHOeCwyEf2CPRVSjndXJ1urSo=
+
+Name: assets/images/kwx_tanKuang/bigGift/btn_mid.png
+SHA1-Digest: eDg4AzMLpLhECGFSH1jwK+t+vFM=
+
+Name: assets/images/kwx_tanKuang/roomUserinfo/img_1.png
+SHA1-Digest: Bk3IFwLdZx8duGEt9HciPtNF0Mw=
+
+Name: res/anim/boyaa_dialog_alpha_enter.xml
+SHA1-Digest: 4dnKEIIy7BnNvrHRLDv91AFJcFo=
+
+Name: assets/images/kwx_lobby/di/3.png
+SHA1-Digest: dfm0jLdETmJwVox647n0g8DPuZY=
+
+Name: assets/audio/ogg/kwxmj/woman_card_28_1.ogg
+SHA1-Digest: E9tp+EacsK7phvQnW/sl/XXDpps=
+
+Name: assets/images/kwx_room/accounts/img_cai2.png
+SHA1-Digest: MoytsGJZx2/Qh2Oio30eonQGEKM=
+
+Name: assets/images/kwx_anim/lobbyBottom/buttom11.png
+SHA1-Digest: aE5/+EX5YIabIlNqxgoP1fAZjyg=
+
+Name: assets/scripts/view/kScreen_960_640/bankruptPopu.lua
+SHA1-Digest: FNnD/q5cF57hbNRgJMuGcTNSPVk=
+
+Name: assets/images/kwx_rank/img_dianfengClicked.png
+SHA1-Digest: mcQRQktm2SyqrbH3MaAdTINVbv4=
+
+Name: assets/audio/ogg/kwxmj/man_card_11_2.ogg
+SHA1-Digest: TH5rQsZcoOc5wR7hD3vjKlAzBiU=
+
+Name: res/drawable-hdpi-v4/scenc_right_decorate2.png
+SHA1-Digest: x/O1kWpuXqV8RCdCcjW6dW3VJGQ=
+
+Name: assets/images/kwx_lobby/btn_billing.png
+SHA1-Digest: e+8exnjvRbXDvIYqW4Xnn9Brg1k=
+
+Name: assets/images/kwx_anim/levelUp/levelUp5.png
+SHA1-Digest: mI+8+vIxTKrOC0cJ7Xl9fRBX+A4=
+
+Name: res/drawable-hdpi-v4/umeng_update_btn_check_on_holo_light.png
+SHA1-Digest: 5bekrm7fAjxp9kmeL6/TVFPIphg=
+
+Name: assets/images/ui/spinner_bg.png
+SHA1-Digest: Har+KSpMk6cBmiB7wNZLvhk4DZ4=
+
+Name: assets/mmiap/02/logo_02.png
+SHA1-Digest: 43MiLzzCv7rS4R9tq52btNlfH2w=
+
+Name: assets/images/kwx_tanKuang/roomUserinfo/img_4.png
+SHA1-Digest: +JuTi8YbRWH/wqNeXJFfKayTuSs=
+
+Name: classes.dex
+SHA1-Digest: D3UR4CdgHqydpy/Y+rrMgEEFkU4=
+
+Name: assets/scripts/lobby/lobbyController.lua
+SHA1-Digest: hK/UCXIh6sljwGxVm0Wb3iEfJls=
+
+Name: assets/images/kwx_anim/levelUp/img_light2.png
+SHA1-Digest: fntlY6sHLY+43Wlt/XKxuxI8MEc=
+
+Name: assets/images/kwx_tanKuang/login/img_weixin.png
+SHA1-Digest: 7i13GaYx+2b3N1YnnA3cbQLj79A=
+
+Name: res/drawable-hdpi-v4/dx.png
+SHA1-Digest: tdVy1uwOcjFiepy6m48SAIEa5dw=
+
+Name: assets/images/kwx_room/finger.png
+SHA1-Digest: Dp5429CPXs2P9McN7sgbHk+UqGQ=
+
+Name: assets/images/kwx_tanKuang/bankrupt/7.png
+SHA1-Digest: qcz68in2lg/a+MYxcsAxlAVPO54=
+
+Name: assets/images/kwx_room/room_gameOver/lost/number/4.png
+SHA1-Digest: +fWoAOKTKpWXjXIoO32MmgmfOL8=
+
+Name: assets/images/kwx_lobby/img_touXiangFrame.png
+SHA1-Digest: crvSZ4ljLDh6xypI5foV5IPVycg=
+
+Name: lib/armeabi/libcasdkjni.so
+SHA1-Digest: eG8his+JIwPQ11ClYk5zA2yrtK0=
+
+Name: assets/scripts/data/notice.lua
+SHA1-Digest: lAiPrGejmCk9WffozfGg4TMxUaE=
+
+Name: assets/images/kwx_tanKuang/bankrupt/img_maohao.png
+SHA1-Digest: ZKyQ9hdah0S2xPsRiDxVHg3zjeI=
+
+Name: assets/scripts/room/roomController.lua
+SHA1-Digest: DvQQN7rRMuaWP9zjCpQopUE3LuE=
+
+Name: assets/mmiap/03/line.png
+SHA1-Digest: JfevbgnxsUG+NrGALeC/D+Dqr5I=
+
+Name: assets/images/kwx_anim/lobbyBottom/buttom1.png
+SHA1-Digest: AdRD5IM140VoYhGltPWhB3lI7t8=
+
+Name: res/anim/boyaa_dialog_exit.xml
+SHA1-Digest: xnbIgtRfpTv4ereRECaJL6O7F6o=
+
+Name: assets/scripts/pay/branch_pay/yueduJiDiLuoMa.lua
+SHA1-Digest: SlrqTX59Y9Cz0EpAvCToL8agL+w=
+
+Name: assets/unicom_account/accountsdk_2_float_bg_expanded.png
+SHA1-Digest: UTGbUKPamEUt3ZPImmYxFa9Xpkg=
+
+Name: assets/inc_btn_normal.png
+SHA1-Digest: psN1sKYQ4P+13zpLlxMDPoK2t1U=
+
+Name: assets/audio/ogg/kwxmj/woman_card_18_1.ogg
+SHA1-Digest: BhKV/O4vnQo/ZH5CXiFHEN2wOjY=
+
+Name: res/layout/weblayout.xml
+SHA1-Digest: 7eA7H14pK5NItBK3l3ZpmvrHdXQ=
+
+Name: res/drawable-hdpi-v4/gc_icon_shrink.png
+SHA1-Digest: tyulp1QK2DtXX4FG62Q0NkFm32o=
+
+Name: assets/unicom_base/wostore_welcome.png
+SHA1-Digest: WXmiX3c/JWp4Zv5wrrjDB8zg0lA=
+
+Name: assets/unicom_account/accountsdk_2_btn_grey.9.png
+SHA1-Digest: fi3ZKrIHHRTLpimKTEk2TU7XtVk=
+
+Name: assets/images/kwx_room/accounts/negative/5.png
+SHA1-Digest: VvOghoyKG9z/6DOsdAaBNLuv3Bw=
+
+Name: assets/images/kwx_tanKuang/gameBox/img_twoHua_g.png
+SHA1-Digest: mJy5W1O5ugJhlKPwDakRcSIoUs8=
+
+Name: res/drawable-hdpi-v4/boyaa_poster_iv_bg.png
+SHA1-Digest: SA3rGHMw22SKWDmJn3eN8F9eRJk=
+
+Name: assets/images/ui/switchOff.png
+SHA1-Digest: 22TWSPjgnCOB2SMP9h5cwINMwqg=
+
+Name: assets/mmiap/image/vertical/keyboard_button_press.png
+SHA1-Digest: A/LLFAt35jZldVmonRDl3iMsWcY=
+
+Name: assets/mmiap/image/vertical/yanzhengma_bg.png
+SHA1-Digest: +d6hwrsSpRwTOtmco42H1xw30lg=
+
+Name: assets/images/kwx_help/img_playtype.png
+SHA1-Digest: vrs5780/4pILuDlNdc3NCRQsW5M=
+
+Name: assets/scripts/gameBase/httpManager.lua
+SHA1-Digest: FrNRqpsTETTa4mhm0X3Tx+ujaWE=
+
+Name: assets/images/kwx_anim/lobbyQuick/img_quick2.png
+SHA1-Digest: ZGgKFdi9WsnmtoUf1QHE5rlYows=
+
+Name: assets/images/kwx_room/img_invaitwechat.png
+SHA1-Digest: /S/3Mz/rSy8C+oBrpUOw9KBhDqQ=
+
+Name: assets/images/animation/shaizi/4-2.png
+SHA1-Digest: yZzCcUVyO3rcDUo8lEEg4soQQdw=
+
+Name: lib/armeabi/libcmcc_rusteze.so
+SHA1-Digest: xrtVJjUAjHRoyD732ZM2FAQV2Fg=
+
+Name: assets/audio/ogg/kwxmj/woman_card_12_1.ogg
+SHA1-Digest: I6yNDC+ApmTvZsL79No0Q01N3hY=
+
+Name: assets/images/animation/ink0002.png
+SHA1-Digest: 9hQ+NkVVT/tPiZnbns8XXt1hmoM=
+
+Name: assets/scripts/pay/branch_pay/baiDuQuDaoPay.lua
+SHA1-Digest: XX8Q1BtqQMkutYRmthCJjQffNPY=
+
+Name: assets/unicom_account/accountsdk_2_float_bg_expand2.9.png
+SHA1-Digest: WzP4Qg49j7b7/0b7N1lIzug1enc=
+
+Name: assets/audio/ogg/common/woman_chat_06.ogg
+SHA1-Digest: Ow01VNB2knHP4s9ifSIkVdunYxU=
+
+Name: res/drawable-hdpi-v4/yanwu0004.png
+SHA1-Digest: LJfYjJVmqei7ECDFnr/l2vyAS9s=
+
+Name: assets/images/kwx_room/moneyNum/win3.png
+SHA1-Digest: zVJ2hmFA5UwtLHDy7wEidnF144Q=
+
+Name: res/layout-v16/notification_message_pic.xml
+SHA1-Digest: FPxOW4d+CEtT8PFnVCAjiJdEOdA=
+
+Name: res/drawable-hdpi-v4/gc_center_save.png
+SHA1-Digest: IyDXwj6VbhMO5VxDbmQwxzLAJrI=
+
+Name: assets/images/animation/shaizi/2-2.png
+SHA1-Digest: +AXLLfGvm9g8bDdlU5AdION2ysI=
+
+Name: assets/scripts/common/init.lua
+SHA1-Digest: 0FSxBisAyT2xLJ+cB6Bn4slGD0U=
+
+Name: assets/scripts/manager/animManager.lua
+SHA1-Digest: 0wnMGh8QL8RVkqq66PcdC+cViFo=
+
+Name: assets/images/kwx_lobby/btn_activity.png
+SHA1-Digest: 2toKLS5sMyU87GgazbAVz6KGIyY=
+
+Name: assets/unicom_account/accountsdk_2_bg_uinfo.jpg
+SHA1-Digest: yzELG2ZHlXH0nzHRFi3G8zwwKW8=
+
+Name: assets/scripts/atomAnimTable/guobiao_bufferly.lua
+SHA1-Digest: opZEjCUiGc9psHtKwHxuYeedTKQ=
+
+Name: assets/scripts/view/kScreen_960_640/helpLayout.lua
+SHA1-Digest: p6cAc84mPRe5d1MXU4WQG91/32I=
+
+Name: assets/images/kwx_room/room_gameOver/img_drawText.png
+SHA1-Digest: tl+Crw8hfC3regdIMudHNbl0QO8=
+
+Name: assets/images/kwx_goodsInfo/img_goodsTips_bg.png
+SHA1-Digest: /2aRi9Z2t4KXvdc5n+L+pIJglrE=
+
+Name: assets/images/kwx_tanKuang/lobbySetting/img_processFg.png
+SHA1-Digest: d1fIJZErtsK6zYhoD4Q34hYaMvw=
+
+Name: assets/images/kwx_lobby/btn_rank.png
+SHA1-Digest: cDeqYSnsrrodEznxUIUGxo53/rQ=
+
+Name: res/drawable-hdpi-v4/common_btn2.png
+SHA1-Digest: gtLq9V9CO6g83LqRQF4W8rInqAc=
+
+Name: assets/images/kwx_room/room_timer/img_timer4.png
+SHA1-Digest: DfV+lHpFzbH79cXE7GOOhJCZXwU=
+
+Name: assets/com.tencent.plus.ic_error.png
+SHA1-Digest: HisWESn8PSVNnjhjfsbMtsajomo=
+
+Name: assets/images/kwx_tanKuang/renZheng/img_smile.png
+SHA1-Digest: OElW+w8fXcXFsMGZFtdET6CsXm0=
+
+Name: assets/images/kwx_shop/img_exchangeNormal.png
+SHA1-Digest: Zc0SBksIeWtS4ouzgcbx/eaOr5I=
+
+Name: assets/unipay_profile.dat
+SHA1-Digest: uK543CzT2pYM8vlT7YsIiG/DB5s=
+
+Name: assets/scripts/popu/lobby/loginPopu.lua
+SHA1-Digest: 2+eydq7vsZDSZ1+lS4Sb/NOBFzk=
+
+Name: assets/unicom_account/accountsdk_2_float_bg_expand.9.png
+SHA1-Digest: xGqUoj561j7P0m+9VDkoXoqvo5c=
+
+Name: res/drawable/hfb_dialog_bg.xml
+SHA1-Digest: WUdf1USBhdftRV/NZVWzKF4HbWE=
+
+Name: assets/images/kwx_room/room_timer/img_rTimer.png
+SHA1-Digest: 30h/hMKeg6PWAF0ywMe1NjJY8+s=
+
+Name: assets/scripts/popu/public/userInfoPopu2.lua
+SHA1-Digest: MMgPPbX3TtRwFSfmShzbzj9Wt2o=
+
+Name: assets/images/kwx_room/moneyNum/win9.png
+SHA1-Digest: isnzEZt3QtL3dnaTdHLV1PYF58E=
+
+Name: assets/images/common/scenc_title_mid_bg1.png
+SHA1-Digest: aI2EdDy2By+TV1Jvdit/T5q3N/o=
+
+Name: assets/scripts/core/object.lua
+SHA1-Digest: O0jmTXAkJnjwH5UsQDVtGzV4vxY=
+
+Name: assets/images/kwx_anim/levelUp/img_light7.png
+SHA1-Digest: cTqyUAGxqQfZN/6LbsrSorU2xgs=
+
+Name: assets/unicom_account/accountsdk_2_icon_success.png
+SHA1-Digest: XUvejuqI/I0Fs6tuqP1njGFOzGA=
+
+Name: res/drawable-hdpi-v4/gc_online_service_logo.png
+SHA1-Digest: E68GHaR/wb/KhmZPpbe/l1VQVXM=
+
+Name: assets/scripts/data/myGoodsData
+SHA1-Digest: /+lmsRvKnrnQtnYKm5jVPLw77I8=
+
+Name: assets/x86/libunicomsdk.jar
+SHA1-Digest: wAl723MsXBaMVXYPJO5267MzmPQ=
+
+Name: assets/scripts/base/baseLayer.lua
+SHA1-Digest: fC8RGjgdVMf07nHD7nNYShoaRR0=
+
+Name: assets/images/kwx_room/gameOpeation/hu_btnnormal.png
+SHA1-Digest: d8QjfldRnsZ8BgtEQc8ev2Njdbw=
+
+Name: assets/audio/ogg/common/woman_gang2.ogg
+SHA1-Digest: 98+/YZErBZovH9QAvBQsufUbsGk=
+
+Name: assets/images/kwx_room/moneyNum/win7.png
+SHA1-Digest: V9aSaKtzUmzTcAteWdPBD8dnvSg=
+
+Name: assets/unicom_account/accountsdk_2_bg_box.9.png
+SHA1-Digest: fgbVl0D3w+FLx+elLItMLBd3vDQ=
+
+Name: assets/images/common/baseboard.png
+SHA1-Digest: NWNTtrDTZIbQjY0l4+0NJRLpxPY=
+
+Name: assets/images/kwx_room/timeBg.png
+SHA1-Digest: HzwuFgiiahemsb5pLPzzYiwbDkw=
+
+Name: assets/audio/ogg/kwxmj/woman_chat_07.ogg
+SHA1-Digest: lrkqjxsaCLXNmiQC6nQxtGKzOW0=
+
+Name: assets/scripts/base/baseController.lua
+SHA1-Digest: 9SfjsgFCOXq5MMxBywIRRgzzoaE=
+
+Name: assets/armeabi-v7a/libunicomSimplesdk.dat
+SHA1-Digest: z0ttXvv6Ei57JMJGDaqHHUhXf18=
+
+Name: assets/scripts/data/moneyRecommend.lua
+SHA1-Digest: SMLrYj87wBHSdFy31mNE2z7eYZ4=
+
+Name: assets/audio/ogg/kwxmj/man_card_25_1.ogg
+SHA1-Digest: 8grIcCV0NRyd7qHcJ9YiL5flUmI=
+
+Name: assets/images/ui/button.png
+SHA1-Digest: ERDDxh399ucVCLNQEeEUBBGiARY=
+
+Name: assets/mmiap/image/vertical/pay_record.png
+SHA1-Digest: 6HL0/ooTzmoOi0KsLWBJVr2px5Y=
+
+Name: assets/images/common/male.png
+SHA1-Digest: lXlRB5wJBB1K6mk+EeWrVS2ozRY=
+
+Name: assets/scripts/popu/room/gameOverDetailPopu.lua
+SHA1-Digest: Hln76uMVqw0dYevtbzJHeJkfDbU=
+
+Name: res/drawable-hdpi-v4/yd.png
+SHA1-Digest: zO/ukDWpQ0Cgqi5b5GE4bDyc2X8=
+
+Name: assets/scripts/view/kScreen_960_640/errorPage.lua
+SHA1-Digest: sgd2E4wGaVeYb+CMzcmIVwChTO4=
+
+Name: assets/scripts/view/kScreen_960_640/updateLayout.lua
+SHA1-Digest: lSQeMG4PggEn527gOQUqpbXmzCs=
+
+Name: assets/images/kwx_shop/img_jewelNormal.png
+SHA1-Digest: BnrH+k/48bo6wyNyRBfbTsW4lew=
+
+Name: res/drawable/umeng_update_button_cancel_bg_normal.xml
+SHA1-Digest: kS9+mMuOkAWp4GHOy6VcOIDngi8=
+
+Name: assets/armeabi-v7a/libdecrypt.jar
+SHA1-Digest: LswQuOc1l9VL0Tt7IEZHfxvUCTk=
+
+Name: assets/images/kwx_tanKuang/selectPay/img_sms.png
+SHA1-Digest: bj5ryvDs9lQ+4pGxt9LsW/8aFqk=
+
+Name: assets/images/kwx_room/accounts/img_headzz.png
+SHA1-Digest: FjJd1UQ7WTsoWujJuRGTX3uJL9k=
+
+Name: assets/unicom_account/accountsdk_2_btn_switch_account.png
+SHA1-Digest: YuLFiH5MyFAbKgYK6o75cpR+IVs=
+
+Name: res/drawable-hdpi-v4/gc_icon_extend.png
+SHA1-Digest: xT6UUapsihVEMYSJ679Br1EO5gs=
+
+Name: assets/images/ui/spinner_choose_bg.png
+SHA1-Digest: htEBv33stDxET2NEe7bcce1c9rs=
+
+Name: assets/images/kwx_lobby/img_weixin.png
+SHA1-Digest: RwMO1V/BHd+U14PwB7s1umYcr14=
+
+Name: res/drawable-hdpi-v4/gc_logo_cmcc.png
+SHA1-Digest: mAfZrson2M9S8IIyuTqQzTwu6EU=
+
+Name: assets/images/kwx_room/accounts/positive/7.png
+SHA1-Digest: p43utV3WlbruE9WoSOYPyU/DgCc=
+
+Name: res/layout/hfb_success.xml
+SHA1-Digest: jSa6OAbyoBeelHpJARa4tEEidR0=
+
+Name: assets/scripts/pay/branch_pay/uniteSmsPay.lua
+SHA1-Digest: wwhSvreuzKxet+/KE5Z5eOtlfa0=
+
+Name: assets/scripts/room/entity/operatePanel.lua
+SHA1-Digest: ycYNI8Gcblyce2dIq8ZImcY0wlk=
+
+Name: assets/scripts/data/moneyRecommendData.lua
+SHA1-Digest: ILu9NPcqzd1O1D7CYueJ48HACrA=
+
+Name: assets/mmiap/01/infoline.png
+SHA1-Digest: RYUCPPwehYMWB3iUCJ9WRAX/dMQ=
+
+Name: res/drawable-hdpi-v4/hpay_cancel_up.png
+SHA1-Digest: qAYH1iEj6FQqH/b7hy9my9uXaJY=
+
+Name: assets/images/common/scenc_right_decorate2.png
+SHA1-Digest: jhC1Se836/Nprdintq/sdSX1WD4=
+
+Name: assets/audio/ogg/kwxmj/man_card_19_1.ogg
+SHA1-Digest: pGozZeN6TywOnQYa3yFu6DEOga8=
+
+Name: res/anim/umeng_socialize_slide_out_from_bottom.xml
+SHA1-Digest: zw0QFnj+4kwx22Dyyfu6dS8PzFE=
+
+Name: res/drawable/hpay_cancel_selector.xml
+SHA1-Digest: 7JgVbJ4E4aMdQFiYI0ztzhXWzTI=
+
+Name: assets/images/kwx_lobby/img_1.png
+SHA1-Digest: pb5opFEnW81MnbahuQ1vUXBxgsY=
+
+Name: assets/mmiap/image/vertical/icon_success.gif
+SHA1-Digest: jz2Ue6iEh7TxiruZv+e9C0l8HFU=
+
+Name: assets/images/kwx_common/img_woman.png
+SHA1-Digest: MBoNQNmCSCswNlR+Se6jds1h2m0=
+
+Name: assets/audio/ogg/kwxmj/woman_card_21_1.ogg
+SHA1-Digest: yXQepEXfJxOUW4LISEbbog4xTfM=
+
+Name: res/drawable-hdpi-v4/sx.png
+SHA1-Digest: pZyg9wr/bCiOL+YQYMgAnYcmSPs=
+
+Name: assets/scripts/libEffect/shaders/blur.lua
+SHA1-Digest: ClKHQWo6aYEgYq3lX6HDDhH3aWE=
+
+Name: assets/images/kwx_common/btn_yellow.png
+SHA1-Digest: GW3VhUlR+cOJ1NJAOxhgiRH5uT4=
+
+Name: assets/images/kwx_tanKuang/roomUserinfo/img_6.png
+SHA1-Digest: 3x8iWIUziCXQsunj4hm8zASrXs0=
+
+Name: assets/scripts/data/auditingData.lua
+SHA1-Digest: RG/n8kP40K/RgbdeOLgJCzoGwjQ=
+
+Name: assets/scripts/view/kScreen_960_640/userPanel.lua
+SHA1-Digest: r9BKnBKFdscOZr4fh/s/axv2hiA=
+
+Name: assets/scripts/UploadDumpFile.lua
+SHA1-Digest: UexcR4MDr2coaH6U4FKED0PldoE=
+
+Name: assets/audio/ogg/audio_lose.ogg
+SHA1-Digest: Arrn0My8EPEqTw48quGn2EeSDjQ=
+
+Name: res/drawable-hdpi-v4/dot.png
+SHA1-Digest: v4M2cZ18pgxMAF9rDGC63jiBEmY=
+
+Name: assets/unicom_account/accountsdk_2_reflesh.png
+SHA1-Digest: 8kt70PARkWxNhFW4nKfH3tszB+Y=
+
+Name: assets/unicom_account/accountsdk_2_inputbox_focus.9.png
+SHA1-Digest: xGqUoj561j7P0m+9VDkoXoqvo5c=
+
+Name: res/drawable-hdpi-v4/gc_title_arrow.png
+SHA1-Digest: 3bJx1+PCYhrQ0CuV21bWH85yors=
+
+Name: assets/scripts/view/kScreen_960_640/historyScoreItem.lua
+SHA1-Digest: oMN1Y2LNlqe0QvSQIJpwjhD8SGo=
+
+Name: res/drawable-hdpi-v4/gc_mo9_icon.png
+SHA1-Digest: fsBEvqJaMv4Vd6p8V8GqjAshQTY=
+
+Name: assets/scripts/particle/particleRain.lua
+SHA1-Digest: VcpXGvJRZVPggci/khovQk9oKbE=
+
+Name: assets/scripts/particle/particleSnow.lua
+SHA1-Digest: zgI/+h+jZ2rGyCvm5CcMrNlkWHQ=
+
+Name: assets/images/kwx_guide/img_tipsBottomBig.png
+SHA1-Digest: STqLaNWoLens9QbwfN1wLP5RH20=
+
+Name: assets/scripts/libEffect/util/gc.lua
+SHA1-Digest: jkTGR08KkJvJrW5P6licfkjlypk=
+
+Name: res/anim/umeng_socialize_slide_in_from_bottom.xml
+SHA1-Digest: 07UWP09ivKAqw+AoJ7kMnhC2KRM=
+
+Name: assets/scripts/debug.lua
+SHA1-Digest: nzDbFR0S/KVOZmTZ6fHUsv6tmg4=
+
+Name: assets/audio/ogg/common/man_chat_04.ogg
+SHA1-Digest: qu+fVMd+bUgvMrj/qphrtqrOy2c=
+
+Name: assets/audio/ogg/common/man_hu1.ogg
+SHA1-Digest: hRaFVswHGdkDqyLtrZQn283MRy0=
+
+Name: assets/images/kwx_tanKuang/roomChat/btn_notSelect.png
+SHA1-Digest: EYlYl1CDNByMrWJrdYua/sCzrZ8=
+
+Name: assets/images/animation/shaizi/4-1.png
+SHA1-Digest: IdmIXonyUMkD3EUGhHt98xfTS3Q=
+
+Name: assets/scripts/utils/functions.lua
+SHA1-Digest: 5dOuOLa71GirsXjt3fLQYZsEqIg=
+
+Name: assets/images/kwx_lobby/bottom.png
+SHA1-Digest: nahuGgPZsgax7vSHahmOFyCNV94=
+
+Name: assets/scripts/core/stateMachine.lua
+SHA1-Digest: LX7ko8rOChwcs4EDCWzOK0Vi+xg=
+
+Name: assets/images/kwx_room/room_gameOver/img_diBg.png
+SHA1-Digest: pN6Gza5HoAAzboUGyHpuTTAFkzA=
+
+Name: assets/unicom_account/accountsdk_2_setup.png
+SHA1-Digest: ZcxjEJqBzou3tNTuBOVZOcmWoy0=
+
+Name: res/drawable/hfb_merdesc_info_bg_2.xml
+SHA1-Digest: cwHHXElotOoD6ZmXmBV3QNvOI/E=
+
+Name: assets/images/animation/shaizi/3-2.png
+SHA1-Digest: 9Rttb4qzjp1hKJEtG3GvkgmGTzA=
+
+Name: assets/images/kwx_anim/lobbyQuick/img_quick1.png
+SHA1-Digest: 0FCqt1Zo+m2LyWYEMo0NYz5NtME=
+
+Name: assets/unicom_account/accountsdk_2_float_btn_point_pressed.png
+SHA1-Digest: X712meAC0RHES/kfidK2wtzTTVU=
+
+Name: assets/scripts/popu/lobby/payComfirmPopu.lua
+SHA1-Digest: OKVjk1BaWISuW79ywd0UL3AV+lc=
+
+Name: assets/inc_province.png
+SHA1-Digest: OAmIMM5ywH78Miq34OmshEFrZMk=
+
+Name: assets/scripts/platform/branch/mainPlatform.lua
+SHA1-Digest: FZ5P3HlTcFCXvWnA66YNCPbTTGs=
+
+Name: assets/unicom_resource.dat
+SHA1-Digest: 5WJ4lThfK/ZqiPp5pWML8GodveM=
+
+Name: assets/images/kwx_room/room_gameOver/img_winText.png
+SHA1-Digest: jgMUfCLviHkL4mkJNdKT/V/w0fA=
+
+Name: assets/images/kwx_tanKuang/gameBox/img_bg.png
+SHA1-Digest: tfX27mKmqOwdGaWk9Xm4lU9PRQE=
+
+Name: assets/com.tencent.plus.blue_down.png
+SHA1-Digest: P5pLNnim3nMuEA2ZM1/RdQsqIUY=
+
+Name: assets/scripts/common/downloadImageFile.lua
+SHA1-Digest: ZSFes2AUpZxRlTJ343QyeVYZIqs=
+
+Name: assets/images/animation/resultless/mo0001.png
+SHA1-Digest: Qbb4v9IJt0+atT+U1rixyW0xRuk=
+
+Name: assets/images/kwx_room/moneyNum/lose0.png
+SHA1-Digest: in6Aj6TqpYrzqQB/Xp5NQTS4UKI=
+
+Name: assets/images/kwx_tanKuang/changeHead/btn_picture.png
+SHA1-Digest: Ru27SJ+w31yzr3FM3SnPdjIJTRk=
+
+Name: assets/images/kwx_anim/levelUp/img_light4.png
+SHA1-Digest: SftNC2Qsfw93+AnDDMmihQPUcc4=
+
+Name: assets/scripts/atomAnimTable/startGameBtnMagnify.lua
+SHA1-Digest: 2ZdcuRXZ6wwQT8wWpKU+Cf7AniM=
+
+Name: lib/armeabi/libgetuiext.so
+SHA1-Digest: uz4K52ZotpahSsFpqNful7ej1cY=
+
+Name: assets/images/kwx_shop/img_cuxiao.png
+SHA1-Digest: XM1UZ8bg6QBF9c09d7AOMW5sTS8=
+
+Name: assets/audio/ogg/kwxmj/man_chat_05.ogg
+SHA1-Digest: VdZWZ9x/uyfXakrdDDeycjNzk18=
+
+Name: res/drawable-hdpi-v4/gc_alipay_icon.png
+SHA1-Digest: Bco8KcMW5as2HkO9IUiB6AzC1IM=
+
+Name: assets/images/kwx_room/room_timer/img_timer3.png
+SHA1-Digest: BxrxFBT7uZ8FTwXm5Q5iZt+GY4Y=
+
+Name: assets/unicom_account/accountsdk_2_arrow_down.png
+SHA1-Digest: B0JsfjparfOI6F8rTIPNWa8Zu9o=
+
+Name: assets/scripts/particle/particleRadialLine.lua
+SHA1-Digest: zPG54Q4TpuYoMgO8dl9f0bKr2g8=
+
+Name: assets/audio/ogg/kwxmj/woman_gang0.ogg
+SHA1-Digest: xBmJPaQj68FSpPkNp4iJAj/lzeU=
+
+Name: assets/audio/ogg/common/man_peng2.ogg
+SHA1-Digest: IQB9qM/NavQpJ6qpLSac11hyrT0=
+
+Name: assets/images/kwx_room/img_hu_bg.png
+SHA1-Digest: GDCUPz3SHeequXSfZE/cnsBUC3E=
+
+Name: assets/audio/ogg/kwxmj/man_card_13_1.ogg
+SHA1-Digest: +8We4QmEIhUt+EN9xculNwo4U9w=
+
+Name: assets/inc_btn_pressed.png
+SHA1-Digest: PEQzPDzFXkWcrXL3C2wyddCvw1U=
+
+Name: assets/scripts/view/kScreen_960_640/RefriendItem.lua
+SHA1-Digest: UAztzn+uoqWuwhHn8oASINkgjJs=
+
+Name: assets/images/kwx_anim/lobbySelect/img_select4.png
+SHA1-Digest: 9/rWRTe8w0a3TgQEz8CPjn4ycLU=
+
+Name: assets/scripts/animation/friendsAnim/throwBomb_pin.lua
+SHA1-Digest: eosZc8Zd1/fA5JCeOs0fveyiNiI=
+
+Name: assets/images/kwx_lobby/di/4.png
+SHA1-Digest: k0jal4OTCoVmHB5krczzmWY497M=
+
+Name: assets/scripts/data/task.lua
+SHA1-Digest: UwnMAF45hO50iVHigOUicgpvFkY=
+
+Name: assets/images/kwx_room/btn_chat.png
+SHA1-Digest: mX8dXix4rcLWi65qvrRzbLhsKog=
+
+Name: assets/scripts/view/kScreen_960_640/leaveGamePopu.lua
+SHA1-Digest: TGHl+Gd+G1LxUaPbFQmLftRhpAY=
+
+Name: assets/x86/libdecrypt.jar
+SHA1-Digest: tLvSA68N9z4RDt/xtGZKJHliJxg=
+
+Name: assets/images/kwx_room/chat/faceq_res.png
+SHA1-Digest: z9K/5Hew5RxHYR07HjJJeYEWgcc=
+
+Name: assets/images/common/buttons/gray_big.png
+SHA1-Digest: EZafiIqBKvXVFskIUCrgpy4vc9s=
+
+Name: res/drawable-hdpi-v4/minactivitybg.png
+SHA1-Digest: clpUxdeu4GumGfcx3ZA2EpdP1u8=
+
+Name: assets/images/ui/sliderBg.png
+SHA1-Digest: pK0Un3Af3+/ro/6EBmu9I6wxSyA=
+
+Name: assets/images/kwx_room/ok.png
+SHA1-Digest: nqkBCirjArXLt3sCNREEYe0i+gs=
+
+Name: assets/scripts/view/kScreen_960_640/gameOverDetailLayout.lua
+SHA1-Digest: zyZG+JT4IMgeF89hMyTV+BjBvmY=
+
+Name: assets/mmiap/01/btn_2.9.png
+SHA1-Digest: EJNPjEIjgfqhyW5N53OS+hpHu1g=
+
+Name: assets/scripts/core/system.lua
+SHA1-Digest: v641EoB46SROiqxHuGzcwzknOdg=
+
+Name: assets/mmiap/01/vertical/failresultdialog.xml
+SHA1-Digest: c2SrmD+fMFKUxPHnYCEbSw410PU=
+
+Name: assets/images/kwx_anim/lobbyBottom/buttom5.png
+SHA1-Digest: tYsdqAeDAsiaFbwiPh4UQVwgkJ0=
+
+Name: assets/images/kwx_shop/img_serverPhone.png
+SHA1-Digest: mH4nU+9MG4uLGCFdT4YGgWyyZws=
+
+Name: res/drawable-hdpi-v4/hfb_btn_normal2.9.png
+SHA1-Digest: AfYpY5ycJExjulKcQuR3EH/4aoI=
+
+Name: assets/images/kwx_lobby/img_lianXiChang.png
+SHA1-Digest: V4WUTwv0yEXD/LsABwo6O8sL5GM=
+
+Name: assets/audio/ogg/kwxmj/woman_peng1.ogg
+SHA1-Digest: zvW3e0gQ976rUOt0m5swvWy5RRA=
+
+Name: assets/images/kwx_room/moneyNum/lose6.png
+SHA1-Digest: yG6/0LMOfPnCP8LOg82veadugg0=
+
+Name: lib/armeabi/libsocket.so
+SHA1-Digest: Zdyxam5U/fpi4ljyPooFr+x+QWU=
+
+Name: assets/images/kwx_common/bnt_updateCoin.png
+SHA1-Digest: pQPsE+/WwRzU9PkPs9rB7Y6HuVU=
+
+Name: assets/scripts/popu/lobby/feedbackFunc.lua
+SHA1-Digest: YzhwnlGvsKYnFlCGdlGqsEwxVCM=
+
+Name: assets/images/kwx_common/img_bg3.png
+SHA1-Digest: 6ADAHbQbUC5/PHz65iYCYhvJEE4=
+
+Name: assets/images/kwx_lobby/btn_msg.png
+SHA1-Digest: VNOGbVW2nNjSCpe8Vvw/RjiSKsc=
+
+Name: assets/scripts/ui/text.lua
+SHA1-Digest: l9llFH3MDw+hvNvQGQGGR9UWg9I=
+
+Name: assets/scripts/view/kScreen_960_640/sysMsgAnnexLayout.lua
+SHA1-Digest: 8Tz3rDSCj2Q9opQVK0eJnVKbdUk=
+
+Name: assets/unicom_account/accountsdk_2_btn_switch_account_press.png
+SHA1-Digest: cXWhdAYNncFJZHUj3/ZVq3Iu7Y0=
+
+Name: assets/scripts/popu/lobby/help_hb_string.lua
+SHA1-Digest: yhSSwByCcUt2+tiAZiTvxo77B/8=
+
+Name: assets/mmiap/03/horizontal/sucresultdialog.xml
+SHA1-Digest: zGPOyYxsYscDJTH8h3hkvZe3K94=
+
+Name: assets/images/ui/switchPendingImages/1.png
+SHA1-Digest: hca5fdCvjNooSXZEmy11tak/evg=
+
+Name: assets/audio/ogg/kwxmj/man_zimo1.ogg
+SHA1-Digest: 4mhHVMWV5PbgzS+Bq+5A8ox1C/Q=
+
+Name: assets/images/kwx_lobby/img_phone.png
+SHA1-Digest: oYDuF+/t4Pa15jbeGyHXyXGKDJU=
+
+Name: res/drawable-hdpi-v4/gc_pay_unchecked.png
+SHA1-Digest: 2BJihzDoeyEQF19DY8auyhLuQA4=
+
+Name: assets/scripts/atomAnimTable/coinflash10.lua
+SHA1-Digest: nTyAXxb3i/SpR2Lkxw0Bhs5E94s=
+
+Name: assets/images/kwx_room/accounts/positive/z.png
+SHA1-Digest: C3UtXB+E30bZH2IgOV/XLSiLxrw=
+
+Name: assets/images/kwx_room/btn_chestClose.png
+SHA1-Digest: Hk5eofUNxpqnOjG55AwRYS9hVgg=
+
+Name: assets/scripts/atomAnimTable/upgrade.lua
+SHA1-Digest: 4JrcxmfurFHPz8Xanty8p9enk4U=
+
+Name: res/drawable-hdpi-v4/gc_pay_checked.png
+SHA1-Digest: GS8IcgbiF97c3ztPgn73Z9sp6rs=
+
+Name: assets/images/kwx_room/room_player/woman_4.png
+SHA1-Digest: WqXWXj4Cvk8ZGT+a7xedsZvTRl8=
+
+Name: assets/images/kwx_lobby/number/f.png
+SHA1-Digest: mQWyp9B9Pjcrp5VpUfGnOdhom50=
+
+Name: assets/audio/ogg/kwxmj/woman_hu2.ogg
+SHA1-Digest: WO+3J7VJNO2v6Lnzug445mpCsM8=
+
+Name: assets/images/animation/roomAnim/word_bg_left.png
+SHA1-Digest: 8d4OulgJlzXYOfYhspYiTlBxD88=
+
+Name: assets/inc_update.png
+SHA1-Digest: PzPUuphJPJ+ijRdG1YwmZDDlvI8=
+
+Name: assets/scripts/view/kScreen_960_640/billingLayout.lua
+SHA1-Digest: FgZiJ1jrN+pciA9Iunr3nmuFp2c=
+
+Name: assets/mmiap/image/vertical/top_button_back.png
+SHA1-Digest: V3dNbV6poCc3LJ4bf2p07bAJY5g=
+
+Name: res/drawable-hdpi-v4/scenc_right_decorate.png
+SHA1-Digest: 6A940f1CYQO49bQtOynG0NXmkF0=
+
+Name: assets/images/kwx_room/moneyNum/win0.png
+SHA1-Digest: DTO8NePdqZtl7f7FvzlDPWnO1CU=
+
+Name: assets/scripts/ui/ex/mask.lua
+SHA1-Digest: EhtYriMV7E1/PQcx9P3PCUyU+Po=
+
+Name: assets/images/kwx_lobby/number/2.png
+SHA1-Digest: q5tSTFdhUxlSw+InkP+inuoaibE=
+
+Name: assets/mmiap/image/vertical/editbg.9.png
+SHA1-Digest: 1m0+JuHqbuFodFKZfF8hAMr3DW8=
+
+Name: CopyrightDeclaration.xml
+SHA1-Digest: lIbqIhBQ6GXXWTUB3O/3a5CZbvE=
+
+Name: assets/images/kwx_mail/str_systemmsgP.png
+SHA1-Digest: WBDpOOnoc/goIRrk7lf1evK9MqE=
+
+Name: assets/images/kwx_room/room_gameOver/lost/number/7.png
+SHA1-Digest: A9Eh0hOsgIwknnmIk0HIEe0FuZ0=
+
+Name: assets/images/kwx_room/gameOpeation/img_selectNot.png
+SHA1-Digest: GFDqjOvCnj92HGFKkaAodnWo+/0=
+
+Name: assets/scripts/qnPlist/cards_pin1.lua
+SHA1-Digest: VXcSej8C0zje0RplfJwAQdR+39Y=
+
+Name: assets/mmiap/01/horizontal/sucresultdialog.xml
+SHA1-Digest: swi71EVFj989RT2uUFlcq/quxq0=
+
+Name: assets/images/animation/roomAnim/gang.png
+SHA1-Digest: VYxRB+bjWARJD5u7jfOm/k24fY4=
+
+Name: assets/mmiap/03/button_back_press.png
+SHA1-Digest: 3R+UDIPiJify94Ve0L73ARvMufM=
+
+Name: assets/unicom_account/privilege_dot.png
+SHA1-Digest: 3mrqj5ygcTtjRVmA0gSdqgloOzc=
+
+Name: assets/images/kwx_room/room_gameOver/img_lightBg.png
+SHA1-Digest: ql1AGhMVR70BdCgd2ovE6BEMKPE=
+
+Name: assets/images/animation/dropCoins/coin_pin.png
+SHA1-Digest: aZgg7EaF9iJtZjuto2mAVvWP5XE=
+
+Name: assets/scripts/popu/room/historyPopu.lua
+SHA1-Digest: XY7zRLjygR4eN7+k77S1MdPUEag=
+
+Name: assets/images/kwx_anim/levelUp/levelUp2.png
+SHA1-Digest: yssNPABLITiadpGeJE8/Mv8HHWE=
+
+Name: assets/images/kwx_tanKuang/selectPay/img_apple.png
+SHA1-Digest: SxOmU7ZzZpS2Z7RLM5/6thv3pSw=
+
+Name: assets/scripts/view/kScreen_960_640/chatCommonUserBar.lua
+SHA1-Digest: 8NoHpDKV1Nn+K3xDMMIO2SCRSdg=
+
+Name: assets/scripts/core/constants.lua
+SHA1-Digest: Ja6juMc/ydBR05b0lCKagtx0CCA=
+
+Name: assets/images/kwx_room/room_timer/img_timer0.png
+SHA1-Digest: 1YmBxDdd39Nl1y9Arws0YW4AHsw=
+
+Name: assets/images/kwx_rank/img_title8.png
+SHA1-Digest: q2bW2v1Q55xElc8akwwb+e590kg=
+
+Name: resources.arsc
+SHA1-Digest: d2OqaLBe/TpyoFN3u3cjPzhENFo=
+
+Name: res/drawable/umeng_common_gradient_red.xml
+SHA1-Digest: 2jLyupMAAgTIjXmw8H7uIWqHcPo=
+
+Name: assets/audio/ogg/common/man_card_23_1.ogg
+SHA1-Digest: 4FjtIrDtxHiLbAMdX8FxhCZ4wl8=
+
+Name: assets/mmiap/image/vertical/title2_bg.png
+SHA1-Digest: at2u0fbDEzTAO0+wRjZwD7WAJJs=
+
+Name: assets/images/ui/checkBox1.png
+SHA1-Digest: ssoODH3kJuZTZh1VU9QssAHhHqs=
+
+Name: assets/images/kwx_lobby/img_laBa.png
+SHA1-Digest: jVS8YIo+R1b+GDEQ/8rH5+UAvx4=
+
+Name: assets/images/animation/cointime/star.png
+SHA1-Digest: ld1iuywGyZ0nObFKRxyXvbB5vVM=
+
+Name: assets/scripts/libEffect/easing.lua
+SHA1-Digest: eoaYlQT9qmzz+e0zTj5nuE3A2o4=
+
+Name: assets/scripts/view/kScreen_960_640/rankSelfDianFengItemLayout.l
+ ua
+SHA1-Digest: kAdmWo943Ag5TsLWy7DKkh0XYvA=
+
+Name: res/drawable-hdpi-v4/gc_startview_bg_port.jpg
+SHA1-Digest: FjR2pEGT5Q///F/TvzzO1q7wZOg=
+
+Name: assets/scripts/popu/room/gameOverWinPopu.lua
+SHA1-Digest: lnYylnhHCM1QP+5iMfS+KFBZihs=
+
+Name: assets/images/ui/shade.png
+SHA1-Digest: dSxE/RnXQ9BVm6BIW5Dq96Qlz9E=
+
+Name: assets/images/animation/lose/wind0031.png
+SHA1-Digest: M4M0QWzr1p8n4x4d3JzznDAgBRA=
+
+Name: assets/scripts/room/gbmj/gbmjRoomController.lua
+SHA1-Digest: 8DtdqjNGBjQWrzxkDsgAVb4E5dY=
+
+Name: assets/audio/ogg/kwxmj/man_card_16_1.ogg
+SHA1-Digest: B5K2d3u5dXy/T868xL2UJjzzeDw=
+
+Name: assets/inc_bg.9.png
+SHA1-Digest: lK3VpHtMjjYf8U1b0PhprGnUze8=
+
+Name: assets/scripts/particle/particleFlower.lua
+SHA1-Digest: 55AL1a+/ShaqcECs+Yb+iii7Cmw=
+
+Name: assets/scripts/ui/editTextView.lua
+SHA1-Digest: uFMCoi8osBFmfLib3q79RAwlBjM=
+
+Name: assets/scripts/popu/room/inviteEntryPopu.lua
+SHA1-Digest: gFXRrS/GBLs88uo2ji6lshCSJKM=
+
+Name: assets/scripts/ui/toast.lua
+SHA1-Digest: Pvd9lnzt62aJtlRlmmeYc9RMg4U=
+
+Name: assets/scripts/atomAnimTable/hebei_bufferly.lua
+SHA1-Digest: KwXCCUo82nWzEZaiNH8lIS04pFQ=
+
+Name: assets/images/common/male_icon.png
+SHA1-Digest: F+YEziJlNBtEG5AJtO4aHs86eIg=
+
+Name: assets/images/animation/shaizi/2-3.png
+SHA1-Digest: H345wvC+dWb1iN9DAxqpggDYcKM=
+
+Name: res/drawable-hdpi-v4/gc_member_yellow.png
+SHA1-Digest: nVbA/Hu0EeBCTha5vKkhvzh7fQY=
+
+Name: assets/scripts/animation/friendsAnim/toPraise_pin.lua
+SHA1-Digest: gc51JLkIW/d9RqPrmxqrUZuIgIY=
+
+Name: assets/unicom_account/accountsdk_2_float_bg_expand1.9.png
+SHA1-Digest: XDsomgRqF45RoNCFtADBqgWCCps=
+
+Name: res/drawable-hdpi-v4/hfb_step3.png
+SHA1-Digest: PnRUtBe3ShwfOfP56MvxTCShnXA=
+
+Name: res/drawable-hdpi-v4/gc_start_logo.png
+SHA1-Digest: ZY7b34IPlACOQAlXA2VDcvt3n0M=
+
+Name: assets/images/kwx_tanKuang/roomChat/btn_textClose.png
+SHA1-Digest: c4aEW4WO2v5q1VDJsG0zMvXD8iM=
+
+Name: assets/audio/ogg/kwxmj/woman_card_13_1.ogg
+SHA1-Digest: KWwFTvgBV9fi+/egcpr8L15fYWw=
+
+Name: assets/com.tencent.plus.blue_normal.png
+SHA1-Digest: xUbCnopVA5SB7IPOU07W9fIdgcQ=
+
+Name: res/layout/rule.xml
+SHA1-Digest: h4Xn+T9hd6aTvUoJbU0ZS8qZn0U=
+
+Name: assets/images/kwx_lobby/di/7.png
+SHA1-Digest: gLv9UooAkWre1eYbJ/Mo/bPdrQU=
+
+Name: assets/arm64-v8a/libunicomsdk.jar
+SHA1-Digest: CEtA4wR6g8NvqlzJacVwLcY35lU=
+
+Name: assets/images/kwx_room/img_invaitsms.png
+SHA1-Digest: T81rk6lQL+zV+Eno3pum9WoS95o=
+
+Name: assets/scripts/data/prop.lua
+SHA1-Digest: KGvBNrppnHnTOMNzNvzT+nAAS3g=
+
+Name: res/drawable-hdpi-v4/gc_icon_rightextend.png
+SHA1-Digest: 2/5LsdgPSZOC92IZw7vnry5SByY=
+
+Name: assets/images/kwx_room/btn_addCoin.png
+SHA1-Digest: 5m6m0GQloanE6nGPzjagfJMzqHs=
+
+Name: assets/scripts/common/globalFunction.lua
+SHA1-Digest: frlEu2I95oNFrCCr1TplhaTJhs4=
+
+Name: assets/scripts/atomAnim/anim/atomAnimEllipse.lua
+SHA1-Digest: QpSal93WBiqOJg5pPV0A9At60dU=
+
+Name: assets/scripts/room/gdmj/entity/gdUserPanel.lua
+SHA1-Digest: 4pY8L4O2XBSH3NYiV4POd4aIZFs=
+
+Name: assets/images/kwx_common/btn_gray_small.png
+SHA1-Digest: Pvej6DjabHS+dWiVBwI7lMdfoJg=
+
+Name: assets/audio/ogg/common/woman_peng0.ogg
+SHA1-Digest: jjthndrC3IM7fj9IhmMlhNZu3Bo=
+
+Name: assets/scripts/view/kScreen_960_640/telForgotLayout.lua
+SHA1-Digest: ZUNF8ZisFQNZ2CwXDaJA+Cai1hw=
+
+Name: assets/images/kwx_tanKuang/roomChat/img_h_split.png
+SHA1-Digest: 2HycI89a1pZY+jgaLef2rSU8srs=
+
+Name: assets/scripts/core/ex/animEx.lua
+SHA1-Digest: j9SVW9CPtpzdu7kg4MFoZ1mxOHY=
+
+Name: assets/images/kwx_room/room_gameOver/lost/number/c.png
+SHA1-Digest: 3RGPejU7lNdA284EBOMg1C23dsg=
+
+Name: assets/images/kwx_lobby/btn_exchange.png
+SHA1-Digest: Slas5eWZhupxgLZhGAD7ze/uNhg=
+
+Name: assets/audio/ogg/audio_exp_1010_1.ogg
+SHA1-Digest: Wk95AQuLDORKmFeLVOlyV+p8ajc=
+
+Name: assets/audio/ogg/common/man_card_11_1.ogg
+SHA1-Digest: jiSB0Cu0mxkfPJwrPldCE15yBl8=
+
+Name: assets/scripts/room/chat/faceConfig.lua
+SHA1-Digest: EK+HCUDN9FU/zOZGEN6f1r2rsCI=
+
+Name: assets/images/kwx_guide/img_tipsKuang.png
+SHA1-Digest: XsLBabOpHihLggZZCMX8GZB3yRg=
+
+Name: assets/images/kwx_tanKuang/gameBox/img_notDone.png
+SHA1-Digest: sicRHdMRoUjen1cMaqhhrhjqEi4=
+
+Name: assets/images/kwx_tanKuang/gameBox/number/9.png
+SHA1-Digest: PLCzA8J2qAX0b4RJnwZgr1UfR5g=
+
+Name: assets/images/common/buttons/green_small.png
+SHA1-Digest: vkJX4SipcH9SX4ciME245a/DQVY=
+
+Name: assets/images/kwx_shop/img_recordClicked.png
+SHA1-Digest: L/0KSuXmEqkuOdoia7voRTAgiLU=
+
+Name: assets/images/kwx_room/moneyNum/bi_icon.png
+SHA1-Digest: 1Ye232q9qWllBgelHON5g5Zffww=
+
+Name: assets/audio/ogg/common/man_chat_06.ogg
+SHA1-Digest: X3sD6u6BvsTwrzmerCkeaAE718M=
+
+Name: assets/images/kwx_anim/lobbyQuick/img_quick11.png
+SHA1-Digest: BQ/RComq8i/zPooZS1AiGBjgx2I=
+
+Name: assets/scripts/common/downAddReadFile.lua
+SHA1-Digest: ow2f6OKSgsQ9HqJLW7Bn/b3qJl0=
+
+Name: assets/scripts/data/headData.lua
+SHA1-Digest: kjbxBEnFhBKqXk8IYHqUdZS3SrA=
+
+Name: assets/scripts/mjSocket/base/socketCmd.lua
+SHA1-Digest: b+DWMK+LVGkxd/O/4tlAvZMaJZA=
+
+Name: assets/scripts/mjSocket/hbmj/hbmjProcesser.lua
+SHA1-Digest: MGSi/cGaKfDh9Q31p7Kh/pAmbXg=
+
+Name: assets/mmiap/01/close.png
+SHA1-Digest: yol2lGN3KrhCt5Ntnp/+4QF/VUg=
+
+Name: assets/images/kwx_room/room_timer/img_timer1.png
+SHA1-Digest: My5PrDueii8PLi0lffU+ku56vZo=
+
+Name: assets/scripts/ui/listView.lua
+SHA1-Digest: TJkNHnd5yEdnWOaLuphVRLlSmk4=
+
+Name: assets/images/kwx_lobby/img_entryRom.png
+SHA1-Digest: v9uqrv15FlxAsmE7vuqhjdsUCWs=
+
+Name: res/layout/broke_notice.xml
+SHA1-Digest: KYqd9T1HSS5RzgOAxr//TC5+pFs=
+
+Name: assets/scripts/pay/payController.lua
+SHA1-Digest: Z4TKf5Go2M/9Yp2cqtJIHNYtd00=
+
+Name: assets/images/animation/shaizi/6-1.png
+SHA1-Digest: rSxfOchpRqBahOoNRM2P34NgNJw=
+
+Name: res/drawable/hfb_info_bg_2.xml
+SHA1-Digest: FUsHRL/HWd46hmUw/9N3fIdUCh4=
+
+Name: assets/images/kwx_rank/img_coin.png
+SHA1-Digest: uqakIchiNcj+TqayLt+leCrv6j4=
+
+Name: assets/scripts/data/rankData.lua
+SHA1-Digest: X5RKR75tgjN2XdWTI+8KMydyNjU=
+
+Name: assets/scripts/view/kScreen_960_640/userReadyView.lua
+SHA1-Digest: H15myn6eGdONubSnC03vJb6Nqks=
+
+Name: assets/images/kwx_room/moneyNum/win8.png
+SHA1-Digest: DLo7X5KhhheE040VTP2EqEB2dWE=
+
+Name: assets/images/kwx_tanKuang/gameBox/img_boxDone.png
+SHA1-Digest: 7dhbIvXIpeBdAlC5DvnrePVdT1M=
+
+Name: assets/images/common/input_bg.png
+SHA1-Digest: Je3L0bmLOx0GIYvBEUclQ8gSTx8=
+
+Name: assets/images/ui/switchButton.png
+SHA1-Digest: CaO4Qn0WhaV9nvoBHWV5Mj60Kt8=
+
+Name: assets/images/kwx_lobby/number2/5.png
+SHA1-Digest: c+sKcGp83Gzyu8lx/6wWlZSPRVM=
+
+Name: assets/audio/ogg/kwxmj/woman_card_14_1.ogg
+SHA1-Digest: vBd0xpEyaQ8yeM9KmSWjHANbCAM=
+
+Name: assets/audio/ogg/kwxmj/man_card_22_1.ogg
+SHA1-Digest: V1Dxtp9+KistcVpKnlDa4lqAcI4=
+
+Name: lib/armeabi/libidentifyapp.so
+SHA1-Digest: /ybnDv9DktVXApmhgZR99qyQLYE=
+
+Name: assets/scripts/data/firstPayData.lua
+SHA1-Digest: V/orMB27MlwkpDA65mH9mpKDluM=
+
+Name: assets/audio/ogg/audio_exp_1007_2.ogg
+SHA1-Digest: AcSlqoIYL7VSGOBAqnYjjtmHTic=
+
+Name: assets/audio/ogg/common/man_card_27_1.ogg
+SHA1-Digest: F/nv6g3DDgVeBfL64I1+wDjEY0E=
+
+Name: assets/scripts/ui/button.lua
+SHA1-Digest: 8IGzb5nCxKe/ZGm0C09HWZb+SB8=
+
+Name: assets/mmiap/03/btn_blue01_click.png
+SHA1-Digest: 13PqsJIfLFV8cf9WXdjU3eHLZiU=
+
+Name: assets/images/common/scene_vline.png
+SHA1-Digest: 5APqX3yCp+YXWaDxViAFtni8HHo=
+
+Name: assets/mmiap/03/horizontal/progressdialog.xml
+SHA1-Digest: IoYkgSSs64p7DJ4+Ebhh9KMlg5M=
+
+Name: res/drawable-hdpi-v4/common_frame.png
+SHA1-Digest: P9zEdHYG4p1UF91CAAsvjMRgG2g=
+
+Name: assets/scripts/atomAnim/drawingEx.lua
+SHA1-Digest: 4l5gVEpqGUkf73n0Eptj4H4pTNY=
+
+Name: assets/scripts/utils/log.lua
+SHA1-Digest: wOTYcrtb1027MLT28rs9sffBXaE=
+
+Name: res/layout/hpay_custom_confim_dialogone.xml
+SHA1-Digest: t6SVMbpR3I3v6XZf/mG1k3Bg9ek=
+
+Name: assets/images/kwx_room/gamebox/btn_box_silver_2.png
+SHA1-Digest: UBwaCqJL+Fm+FpEPhZH4wxMBP2g=
+
+Name: assets/audio/ogg/common/man_hu0.ogg
+SHA1-Digest: vKpMPFv3rKA3w8Hg5hypA9EOxpo=
+
+Name: res/drawable/umeng_common_gradient_orange.xml
+SHA1-Digest: AHyEGQnT7imQmkLcSm6fiGPhe3s=
+
+Name: assets/images/kwx_room/moneyNum/win5.png
+SHA1-Digest: RVFryy7G7Uunr194GwdVnD36Ll4=
+
+Name: assets/images/kwx_tanKuang/loading/img_loading.png
+SHA1-Digest: GvYF+t9ta+3HqtkASZrp9iHZ9Wo=
+
+Name: assets/scripts/pay/branch_pay/unionPay.lua
+SHA1-Digest: z2ojTkdtZvMWXYCh4JxaeKJECEY=
+
+Name: assets/scripts/view/kScreen_960_640/sysNoticeLayout.lua
+SHA1-Digest: +IQFA2MoIogAioLb9R21xuj1WRc=
+
+Name: assets/x86/libunicomSimplesdk.dat
+SHA1-Digest: wWlE5Kv4t9FVyTxo0QkJzqP4Fzg=
+
+Name: res/drawable-hdpi-v4/checked.png
+SHA1-Digest: NwN1bmP965aOKqNB9A2cY/pRYwU=
+
+Name: res/drawable-hdpi-v4/gc_center_transaction_details.png
+SHA1-Digest: i84nDtmT7mjbORJDDV4pvOEeUHA=
+
+Name: assets/scripts/popu/room/roomSetting.lua
+SHA1-Digest: kk5x8xiSMP4HeXPJJqkkVTgWwm4=
+
+Name: res/layout/download_progress.xml
+SHA1-Digest: dtVTMZSy9lgsDzfEdJKwJC9uV9k=
+
+Name: assets/scripts/atomAnim/anim/atomAnimSolid.lua
+SHA1-Digest: Zs7lOgi7SEw6OxM8DUiBnFh8tbI=
+
+Name: assets/images/kwx_rank/img_title2.png
+SHA1-Digest: 8J6sdzRAeJypu1t07UfAlu+X3J0=
+
+Name: assets/scripts/view/kScreen_960_640/rankLayout.lua
+SHA1-Digest: RwEWTEt6zIzOdC6qWsNKL11CxRU=
+
+Name: assets/scripts/atomAnim/atomAnimNode.lua
+SHA1-Digest: yHIi9vZw3obg/Mr26HGlAdnBvwk=
+
+Name: res/drawable-ldpi-v4/hfb_application.png
+SHA1-Digest: fFU5+g6KiFHUHsIjlSOF/Ap/a5M=
+
+Name: assets/images/kwx_tanKuang/gameBox/number/0.png
+SHA1-Digest: nT9goJAL5hT0HmiKtPs+a3QWLQY=
+

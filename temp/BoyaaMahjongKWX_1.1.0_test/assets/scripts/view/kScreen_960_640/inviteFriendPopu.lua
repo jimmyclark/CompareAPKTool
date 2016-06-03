@@ -1,0 +1,35 @@
+local inviteFriendPopu=
+{
+	name="inviteFriendPopu",type=0,typeName="View",time=0,x=0,y=0,width=1280,height=720,visible=1,fillParentWidth=1,fillParentHeight=1,nodeAlign=kAlignTopLeft,
+	{
+		name="img_bg",type=1,typeName="Image",time=78651596,x=0,y=0,width=838,height=542,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,file="kwx_common/img_tanKuang_mid.png",gridLeft=100,gridRight=100,gridTop=100,gridBottom=100,
+		{
+			name="Text58",type=4,typeName="Text",time=0,x=0,y=32,width=160,height=45,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignTop,fontSize=40,textAlign=kAlignCenter,colorRed=255,colorGreen=255,colorBlue=255,string=[[邀请好友]]
+		},
+		{
+			name="Image13",type=1,typeName="Image",time=0,x=-1,y=18,width=784,height=396,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,file="kwx_common/img_dikuang.png",gridLeft=15,gridRight=15,gridTop=15,gridBottom=15
+		}
+	},
+	{
+		name="view_inviteFrom",type=0,typeName="View",time=0,x=0,y=21,width=682,height=337,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,
+		{
+			name="view_wechat",type=0,typeName="View",time=0,x=0,y=-75,width=563,height=82,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,
+			{
+				name="btn_wechat",type=1,typeName="Button",time=0,x=0,y=0,width=570,height=112,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,file="kwx_room/img_invaitwechat.png",gridLeft=15,gridRight=15,gridTop=15,gridBottom=15,
+				{
+					name="Text8",type=4,typeName="Text",time=0,x=60,y=0,width=160,height=40,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,fontSize=40,textAlign=kAlignLeft,colorRed=255,colorGreen=255,colorBlue=255,string=[[微信邀请]]
+				}
+			}
+		},
+		{
+			name="view_address",type=0,typeName="View",time=0,x=0,y=70,width=563,height=82,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,
+			{
+				name="btn_address",type=1,typeName="Button",time=0,x=0,y=0,width=570,height=112,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,file="kwx_room/img_invaitsms.png",gridLeft=15,gridRight=15,gridTop=15,gridBottom=15,
+				{
+					name="Text8",type=4,typeName="Text",time=0,x=60,y=0,width=160,height=40,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,fontSize=40,textAlign=kAlignLeft,colorRed=255,colorGreen=255,colorBlue=255,string=[[通讯录邀请]]
+				}
+			}
+		}
+	}
+}
+return inviteFriendPopu;

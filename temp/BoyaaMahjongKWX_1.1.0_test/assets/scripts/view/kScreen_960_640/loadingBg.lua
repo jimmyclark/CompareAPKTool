@@ -1,0 +1,50 @@
+local loadingBg=
+{
+	name="loadingBg",type=0,typeName="View",time=0,x=0,y=0,width=960,height=640,visible=1,fillParentWidth=1,fillParentHeight=1,nodeAlign=kAlignTopLeft,
+	{
+		name="bg",type=1,typeName="Image",time=32604095,x=0,y=0,width=1280,height=720,visible=1,fillParentWidth=1,fillParentHeight=1,nodeAlign=kAlignTopLeft,file="kwx_lobby/lobbyBackGround.jpg"
+	},
+	{
+		name="logo",type=1,typeName="Image",time=32604295,x=4,y=132,width=294,height=360,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignTop,file="kwx_lobby/img_2.png"
+	},
+	{
+		name="cancleBtn",type=2,typeName="Button",time=32604738,x=-20,y=80,width=240,height=90,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignBottom,file="kwx_common/btn_blue_big.png",
+		{
+			name="cancleTx",type=4,typeName="Text",time=32604798,x=0,y=0,width=64,height=33,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignCenter,fontSize=32,textAlign=kAlignCenter,colorRed=255,colorGreen=255,colorBlue=220,string=[[确 认]]
+		}
+	},
+	{
+		name="loadingView",type=0,typeName="View",time=32605013,x=10,y=440,width=343,height=54,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignTop,
+		{
+			name="word_1",type=1,typeName="Image",time=67601935,x=0,y=0,width=60,height=54,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignTopLeft,file="null",packFile="pin_map/roomLoading_pin.lua"
+		},
+		{
+			name="word_2",type=1,typeName="Image",time=67601993,x=55,y=0,width=60,height=54,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignTopLeft,file="null",packFile="pin_map/roomLoading_pin.lua"
+		},
+		{
+			name="word_3",type=1,typeName="Image",time=67602007,x=110,y=0,width=60,height=54,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignTopLeft,file="null",packFile="pin_map/roomLoading_pin.lua"
+		},
+		{
+			name="word_4",type=1,typeName="Image",time=67602018,x=165,y=0,width=60,height=54,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignTopLeft,file="null",packFile="pin_map/roomLoading_pin.lua"
+		},
+		{
+			name="word_5",type=1,typeName="Image",time=67602028,x=220,y=0,width=60,height=54,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignTopLeft,file="null",packFile="pin_map/roomLoading_pin.lua"
+		},
+		{
+			name="word_6",type=1,typeName="Image",time=67602059,x=275,y=0,width=26,height=54,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignTopLeft,file="null",packFile="pin_map/roomLoading_pin.lua"
+		},
+		{
+			name="word_7",type=1,typeName="Image",time=67602115,x=296,y=0,width=26,height=54,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignTopLeft,file="null",packFile="pin_map/roomLoading_pin.lua"
+		},
+		{
+			name="word_8",type=1,typeName="Image",time=67602136,x=317,y=0,width=26,height=54,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignTopLeft,file="null",packFile="pin_map/roomLoading_pin.lua"
+		}
+	},
+	{
+		name="tipsBg",type=1,typeName="Image",time=67601300,x=0,y=174,width=1060,height=38,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignBottom,file="ui/blank.png",
+		{
+			name="tipsTx",type=4,typeName="Text",time=32604483,x=0,y=-2,width=960,height=50,visible=1,fillParentWidth=1,fillParentHeight=0,nodeAlign=kAlignCenter,fontSize=26,textAlign=kAlignCenter,colorRed=255,colorGreen=255,colorBlue=220,string=[[小提示,如果有疑问,请在登录右上角 \&quot;反馈\&quot; 中向客服反映!]]
+		}
+	}
+}
+return loadingBg;

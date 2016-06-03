@@ -1,0 +1,25 @@
+root=
+{
+	name="root",type=0,typeName="View",time=0,x=0,y=0,width=1120,height=116,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignTopLeft,
+	{
+		name="view_bg",type=0,typeName="View",time=78390890,x=0,y=0,width=1120,height=116,visible=1,fillParentWidth=1,fillParentHeight=1,nodeAlign=kAlignTopLeft,
+		{
+			name="img_place",type=1,typeName="Image",time=78391014,x=15,y=0,width=54,height=54,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignLeft,file="kwx_rank/img_rankBg.png"
+		},
+		{
+			name="btn_portrait_bg",type=2,typeName="Button",time=78391124,x=120,y=0,width=94,height=90,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignLeft,file="rank/others_place/portrait_bg.png"
+		},
+		{
+			name="text_nick",type=4,typeName="Text",time=78391248,x=250,y=0,width=210,height=30,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignLeft,fontSize=30,textAlign=kAlignLeft,colorRed=255,colorGreen=255,colorBlue=255,string=[[]]
+		},
+		{
+			name="text_title",type=4,typeName="Text",time=78391332,x=50,y=0,width=200,height=30,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignRight,fontSize=30,textAlign=kAlignRight,colorRed=255,colorGreen=255,colorBlue=255,string=[[]]
+		},
+		{
+			name="img_split",type=1,typeName="Image",time=78391481,x=0,y=0,width=1120,height=6,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignBottom,file="kwx_common/img_h_split.png",gridLeft=5,gridRight=5,gridTop=2,gridBottom=0
+		},
+		{
+			name="text_coin",type=4,typeName="Text",time=79667294,x=550,y=0,width=165,height=30,visible=1,fillParentWidth=0,fillParentHeight=0,nodeAlign=kAlignLeft,fontSize=30,textAlign=kAlignLeft,colorRed=255,colorGreen=230,colorBlue=0,string=[[]]
+		}
+	}
+}
